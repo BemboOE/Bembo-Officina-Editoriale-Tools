@@ -1,0 +1,230 @@
+{
+    "barthes_language_2013": {
+        "bibType": "book",
+        "location": "London, New York",
+        "edition": "1",
+        "title": "The Language of Fashion",
+        "series": "Bloomsbury Revelations",
+        "publisher": "Bloomsbury Publishing",
+        "author": "Barthes, R.",
+        "multipleAuthors": false,
+        "editor": "Stafford, A., & Carter, M.",
+        "multipleEditor": true,
+        "editorStraight": "A. Stafford, & M. Carter",
+        "translator": "Stafford, A.",
+        "multipleTranslator": false,
+        "translatorStraight": "A. Stafford",
+        "date": {
+            "year": "2013"
+        },
+        "originalDate": "2004",
+        "id": "barthes_language_2013",
+        "sortingStr": "Barthes2013The Language of Fashion"
+    },
+    "bordo_male_2000": {
+        "bibType": "book",
+        "title": "The Male Body: A New Look at Men in Public and in Private",
+        "series": "Sociology Gender Studies",
+        "publisher": "Farrar, Straus and Giroux",
+        "author": "Bordo, S.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2000"
+        },
+        "id": "bordo_male_2000",
+        "sortingStr": "Bordo2000The Male Body: A New Look at Men in Public and in Private"
+    },
+    "breward_hidden_1999": {
+        "bibType": "book",
+        "title": "The Hidden Consumer: Masculinities, Fashion and City Life 1860-1914",
+        "publisher": "Manchester University Press",
+        "author": "Breward, C.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1999"
+        },
+        "id": "breward_hidden_1999",
+        "sortingStr": "Breward1999The Hidden Consumer: Masculinities, Fashion and City Life 1860-1914"
+    },
+    "breward_between_2008": {
+        "bibType": "article",
+        "title": "Between the Museum and the Academy: Fashion Research and its Constituencies",
+        "volume": "12",
+        "doi": "10.2752/175174108X269568",
+        "pages": "83\u201393",
+        "journaltitle": "Fashion Theory: The Journal of Dress, Body & Culture",
+        "shortjournal": "Fashion Theory: The Journal of Dress, Body & Culture",
+        "author": "Breward, C.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2008",
+            "month": "March",
+            "day": "1"
+        },
+        "id": "breward_between_2008",
+        "sortingStr": "Breward2008Between the Museum and the Academy: Fashion Research and its Constituencies"
+    },
+    "colaiacomo_leleganza_2007": {
+        "bibType": "book",
+        "title": "L\u2019eleganza faziosa: Pasolini e l\u2019abito maschile",
+        "publisher": "Marsilio; Fondazione Pitti Discovery",
+        "author": "Colaiacomo, P.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2007"
+        },
+        "id": "colaiacomo_leleganza_2007",
+        "sortingStr": "Colaiacomo2007L\u2019eleganza faziosa: Pasolini e l\u2019abito maschile"
+    },
+    "edwards_cultures_2006": {
+        "bibType": "book",
+        "title": "Cultures of Masculinity",
+        "publisher": "Routledge",
+        "author": "Edwards, T.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2006"
+        },
+        "id": "edwards_cultures_2006",
+        "sortingStr": "Edwards2006Cultures of Masculinity"
+    },
+    "frisa_curators_2008": {
+        "bibType": "article",
+        "title": "The Curator's Risk",
+        "volume": "12",
+        "url": "https://doi.org/10.2752/175174108X298971",
+        "doi": "10.2752/175174108X298971",
+        "pages": "171\u2013180",
+        "number": "2",
+        "journaltitle": "Fashion Theory",
+        "author": "Frisa, M. L.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2008",
+            "month": "June",
+            "day": "1"
+        },
+        "id": "frisa_curators_2008",
+        "sortingStr": "Frisa2008The Curator's Risk"
+    },
+    "hamilton_creativity_2009": {
+        "bibType": "incollection",
+        "location": "Amsterdam, Philadelphia",
+        "title": "Creativity in academic writing: Escaping from the straitjacket of genre?",
+        "pages": "61\u201380",
+        "booktitle": "Why writing matters: Issues of access and identity in writing research and pedagogy",
+        "publisher": "John Benjamins",
+        "author": "Hamilton, M., & Pitt, K.",
+        "multipleAuthors": true,
+        "editor": "Carter, A., Lillis, T., & Parkin, S.",
+        "multipleEditor": true,
+        "editorStraight": "A. Carter, T. Lillis, & S. Parkin",
+        "date": {
+            "year": "2009"
+        },
+        "id": "hamilton_creativity_2009",
+        "sortingStr": "Hamilton2009Creativity in academic writing: Escaping from the straitjacket of genre?"
+    },
+    "hooper-greenhill_museums_2000": {
+        "bibType": "book",
+        "location": "London, New York",
+        "edition": "1",
+        "title": "Museums and the Interpretation of Visual Culture",
+        "series": "Museum Meanings",
+        "publisher": "Routledge",
+        "author": "Hooper-Greenhill, E.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2000"
+        },
+        "id": "hooper-greenhill_museums_2000",
+        "sortingStr": "Hooper-Greenhill2000Museums and the Interpretation of Visual Culture"
+    },
+    "martin_il_1992": {
+        "bibType": "incollection",
+        "title": "Il borghese rinnegato: Dalla moda gay al look erotico",
+        "pages": "40\u201354",
+        "booktitle": "Virilit\u00e0 e trasgressione",
+        "publisher": "Istituto geografico De Agostini",
+        "author": "Martin, R.",
+        "multipleAuthors": false,
+        "editor": "Butazzi, G., & Mottola Molfino, A.",
+        "multipleEditor": true,
+        "editorStraight": "G. Butazzi, & A. Mottola Molfino",
+        "date": {
+            "year": "1992"
+        },
+        "id": "martin_il_1992",
+        "sortingStr": "Martin1992Il borghese rinnegato: Dalla moda gay al look erotico"
+    },
+    "mort_cultures_1996": {
+        "bibType": "book",
+        "location": "London, New York",
+        "edition": "1",
+        "title": "Cultures of Consumption. Masculinities and Social Space in Late Twentieth-Century Britain",
+        "publisher": "Routledge",
+        "author": "Mort, F.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1996"
+        },
+        "id": "mort_cultures_1996",
+        "sortingStr": "Mort1996Cultures of Consumption. Masculinities and Social Space in Late Twentieth-Century Britain"
+    },
+    "nixon_hard_1996": {
+        "bibType": "book",
+        "title": "Hard Looks: Masculinities, Spectatorship and Contemporary Consumption",
+        "series": "Hard Looks: Masculinities, Spectatorship and Contemporary Consumption",
+        "publisher": "Palgrave Macmillan",
+        "author": "Nixon, S.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1996"
+        },
+        "id": "nixon_hard_1996",
+        "sortingStr": "Nixon1996Hard Looks: Masculinities, Spectatorship and Contemporary Consumption"
+    },
+    "petrov_fashion_2019": {
+        "bibType": "book",
+        "title": "Fashion, History, Museums: Inventing the Display of Dress",
+        "publisher": "Bloomsbury Publishing",
+        "author": "Petrov, J.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2019"
+        },
+        "id": "petrov_fashion_2019",
+        "sortingStr": "Petrov2019Fashion, History, Museums: Inventing the Display of Dress"
+    },
+    "taylor_culture_2005": {
+        "bibType": "article",
+        "title": "Culture transition: fashion's cultural dialogue between commerce and art",
+        "volume": "9",
+        "pages": "445\u2013459",
+        "number": "4",
+        "journaltitle": "Fashion Theory",
+        "shortjournal": "Fashion Theory",
+        "author": "Taylor, M.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2005"
+        },
+        "id": "taylor_culture_2005",
+        "sortingStr": "Taylor2005Culture transition: fashion's cultural dialogue between commerce and art"
+    },
+    "vanska_fashion_2018": {
+        "bibType": "collection",
+        "location": "London, New York",
+        "edition": "1",
+        "title": "Fashion Curating: Critical Practice in the Museum and Beyond",
+        "publisher": "Bloomsbury Publishing",
+        "editor": "V\u00e4nsk\u00e4, A., & Clark, H.",
+        "multipleEditor": true,
+        "editorStraight": "A. V\u00e4nsk\u00e4, & H. Clark",
+        "date": {
+            "year": "2018"
+        },
+        "id": "vanska_fashion_2018",
+        "sortingStr": "V\u00e4nsk\u00e42018Fashion Curating: Critical Practice in the Museum and Beyond"
+    }
+}

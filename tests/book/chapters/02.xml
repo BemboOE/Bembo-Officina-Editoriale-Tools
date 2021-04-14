@@ -1,0 +1,27 @@
+<root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/"><h1 aid:pstyle="h1">2. Titolo secondo capitolo</h1>
+<p aid:pstyle="Testo, primo paragrafo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a risus gravida, euismod[<sup>5]</sup> tortor vitae, tristique erat. Nullam ut magna et dui imperdiet blandit vitae vel nisi. Aliquam rutrum, felis nec porttitor varius, turpis mi viverra arcu, sit amet sodales est purus in massa. Sed consectetur nisl nisi, in accumsan odio bibendum sit amet. Donec quis massa sit amet quam rhoncus blandit quis sollicitudin sem. Aenean facilisis enim nec tempus finibus. </p>
+<ul aid:pstyle="ul">
+<li aid:pstyle="ul1">Testo lista non numerata uno;</li>
+<li aid:pstyle="ul1">Testo lista non numerata due;</li>
+<li aid:pstyle="ul1">Testo lista non numerata tre.</li>
+</ul>
+<h2 aid:pstyle="h2">2.1 Titolo sotto-capitolo</h2>
+<blockquote><p aid:pstyle="Citazione">Donec maximus sodales sem. Vivamus elementum, lectus id malesuada tincidunt, metus magna ultricies dui, non consectetur metus justo quis libero. (Smith, 2020)</p></blockquote>
+<p aid:pstyle="Testo, primo paragrafo">Sed ut magna ipsum. Vivamus bibendum venenatis urna, sit amet pulvinar metus dapibus et. Donec in euismod ipsum, sit amet euismod elit. Mauris id sollicitudin ligula, at mattis erat[<sup>6].</sup> Nunc sed erat et neque mattis interdum. Etiam in posuere leo, in bibendum urna. Sed varius, nibh ut efficitur sodales, augue justo ultricies sapien, ornare scelerisque ipsum nulla ut lorem. Duis fringilla dolor ut libero consectetur laoreet. Donec mollis dignissim finibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed et nunc purus.</p>
+<ol>
+<li aid:pstyle="ol1">Testo lista numerata uno;</li>
+<li aid:pstyle="ol1">Testo lista numerata due;</li>
+<li aid:pstyle="ol1">Testo lista numerata tre.</li>
+</ol>
+<p aid:pstyle="Testo, primo paragrafo">Donec consectetur tellus et ullamcorper suscipit. Vivamus nec tempor mi. Quisque et congue risus. Maecenas in arcu tristique, commodo arcu quis, dictum ipsum[<sup>7].</sup> Integer eu massa hendrerit, facilisis velit eu, finibus ex. Donec dictum faucibus mauris, ut ornare velit pulvinar et. Nam et erat mauris. Vestibulum ultrices dapibus est ut consequat. In elementum tortor molestie, lobortis odio eget, ultrices felis. Nulla et libero purus. Nam congue eget magna ac mollis. Praesent lacus neque, accumsan vitae lacus ut, consectetur commodo elit.</p>
+<h2 aid:pstyle="h2">2.2. Titolo sotto-capitolo</h2>
+<p aid:pstyle="Testo, primo paragrafo">Aenean pellentesque ante at turpis blandit, vitae malesuada enim volutpat. Sed lobortis tristique arcu id mattis. Aliquam nec mi rhoncus, dignissim enim vel, suscipit augue. Duis rhoncus sit amet enim eget consequat. Aliquam faucibus nisi est. Curabitur mattis dictum lectus, sed ultrices nisl sagittis quis. Aenean maximus nisl vitae lacus rutrum porta. Duis elementum maximus odio non rutrum. Cras ac mi a nibh cursus ultrices. Fusce porttitor ornare cursus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
+<p aid:pstyle="Testo, a seguire">Aenean ornare pulvinar viverra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam hendrerit placerat risus eu aliquam. Quisque ullamcorper, ante eu bibendum lacinia, urna velit suscipit orci, id pretium mauris orci sed turpis. Pellentesque tincidunt fermentum aliquam. Ut blandit dui quis massa dapibus, sit amet laoreet lectus egestas. Nunc ut nunc et justo dignissim pellentesque vel eget massa.</p>
+<figure>
+    <Image href="File:///../images/img_2.png"></Image><p aid:pstyle="figcaption"></p>
+    <figcaption>fig. 2. Immagine segnaposto due. (© Bembo Officina Editoriale)</figcaption>
+</figure>
+<h1 aid:pstyle="h1">Note a termine</h1>
+<p aid:pstyle="Testo, primo paragrafo">[<sup>5]:</sup> Vestibulum at sagittis purus. Pellentesque facilisis mauris et justo pellentesque posuere. Vivamus purus nunc, viverra a augue nec, sagittis maximus lorem. Sed lorem dolor, sodales eget neque quis, feugiat tincidunt ante. 
+[<sup>6]:</sup> Sed vel congue dolor, ut efficitur nulla. Aenean sed feugiat metus. Ut in ipsum est. Etiam eget risus hendrerit, lacinia eros non, elementum felis.</p>
+</root>

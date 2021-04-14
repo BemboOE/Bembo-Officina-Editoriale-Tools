@@ -1,0 +1,91 @@
+{% set IN_PRESS_TYPES = ['book', 'collection', 'article'] %}
+
+{%- macro textTag(tagName, content, styleName, isPar=False) -%}
+{#--#}<{{tagName}} aid:{{'pstyle' if isPar else 'cstyle'}}='{{styleName}}'>{{content}}</{{tagName}}>
+{%- endmacro -%}
+
+{%- macro italicize(content, isHtml=False) -%}
+    {%- if isHtml == False -%}
+        {{- textTag('em', content, 'corsivo', isPar=False) -}}
+    {%- else -%}
+        {{- '<em>' -}}{{- content|e -}}{{- '</em>' -}}
+    {%- endif -%}
+{%- endmacro -%}
+
+{%- macro renderTitle(record, italic=False, isHtml=False) -%}
+    {%- for eachRun in record.title|parseTitle -%}
+        {%- if '*' in eachRun.tags -%}
+            {{- italicize(eachRun.chrs|e, isHtml) -}}
+        {%- elif '[' in eachRun.tags -%}
+            {{- eachRun.chrs|e -}}
+        {%- else -%}
+            {{- italicize(eachRun.chrs|e, isHtml) if italic == True else eachRun.chrs|e -}}
+        {%- endif -%}
+    {%- endfor -%}
+{%- endmacro -%}
+
+{%- macro renderAuthorEditor(record) -%}
+    {%- if 'author' in record -%}
+        {%- set name = record.author|replace('\\&', '&')|replace('\\_', '_')|e -%}
+    {%- elif 'editor' in record -%}
+        {%- set attachment = ' (Ed.).' if record.multipleEditor == False else ' (Eds.).' -%}
+        {%- set name = record.editor|replace('\\&', '&')|replace('\\_', '_')|e + attachment -%}
+    {%- elif 'editora' in record -%}
+        {%- set name = record.editora|replace('\\&', '&')|replace('\\_', '_')|e -%}
+    {%- endif -%}
+    {{- name -}}{{- '.' if name.endswith('.') == false else '' -}}
+{%- endmacro -%}
+
+{%- macro renderExternalReference(record) -%}
+    {%- if 'doi' in record -%}
+        {{- '. ' + 'https://doi.org/' + record.doi|trim('"')|e -}}
+    {%- elif 'url' in record -%}
+        {%- if 'urldate' in record -%}
+            {{- '. Retrieved ' + renderStraightDate(record) + ', from ' + record.url|e -}}
+        {%- else -%}
+            {{- '. ' + record.url|e -}}
+        {%- endif -%}
+    {%- endif -%}
+{%- endmacro -%}
+
+{%- macro renderStraightDate(record, field='urldate') -%}
+    {#- from dictionary with year, month and day keys, required format March 19, 2013-#}
+    {{- '' if 'month' not in record[field] else record[field].month -}}
+    {{- '' if 'day' not in record[field] else ' ' + record[field].day -}}
+    {{- ', ' + record[field].year -}}
+{%- endmacro -%}
+
+{%- macro renderDate(record) -%}
+    {{- ' (' -}}
+    {%- if 'issued' in record -%}
+        {# in press #}
+        {%- if record.issued == 'in press' -%}
+            {{- record.issued -}}
+        {#- date interval (no months interval) -#}
+        {%- elif 'day' in record.issued.start and 'day' in record.issued.end -%}
+            {#- days interval "2016 March 30-April 2" or "2016 March 27-30" -#}
+            {{- record.issued.start.year -}}
+            {{- ', ' + record.issued.start.month -}}{{- ' ' + record.issued.start.day -}}
+            {{- '-' -}}
+            {{- record.issued.end.month + ' ' if record.issued.start.month != record.issued.end.month -}}
+            {{- record.issued.end.day -}}
+        {#- years interval "2012-2020" -#}
+        {%- else -%}
+            {{- record.issued.start.year -}}{{- '-' -}}{{- record.issued.end.year -}}
+
+        {%- endif -%}
+
+    {%- elif 'date' not in record -%}
+        {#- nodate references -#}
+        {{- 'n.d.' -}}
+
+    {%- else -%}
+        {#- regular date case -#}
+        {#- from dictionary with year, month and day keys, required format 2013, March 19-#}
+        {{- record.date.year -}}
+        {{- '' if 'month' not in record.date else ', ' + record.date.month -}}
+        {{- '' if 'day' not in record.date else ' ' + record.date.day -}}
+
+    {%- endif -%}
+    {{- ')' -}}
+{%- endmacro -%}

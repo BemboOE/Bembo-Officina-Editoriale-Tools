@@ -1,0 +1,328 @@
+{%- from 'macros.j2' import italicize, renderDate, renderExternalReference -%}
+{%- from 'macros.j2' import renderAuthorEditor, renderTitle -%}
+{%- set FINAL_MARKS = '!?.' -%}
+
+{%- macro renderArticle(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record) -}}
+    {{- '. ' + italicize(record.journaltitle|e, isHtml) -}}
+    {{- '' if 'volume' not in record else italicize(', ' + record.volume, isHtml) -}}
+    {{- ' ' if 'volume' not in record and 'number' in record -}}
+    {{- '' if 'number' not in record else '(' + record.number + ')' -}}
+    {{- '' if 'pages' not in record else ', ' + record.pages -}}
+    {{- renderExternalReference(record) -}}
+{%- endmacro -%}
+
+{%- macro renderBookInfo(record, isHtml=False) -%}
+    {#- editors and translator section -#}
+    {%- set editorTrans = [] -%}
+    {%- if 'editorStraight' in record and record.editorStraight == record.translatorStraight -%}
+        {%- do editorTrans.append(record.editorStraight|e + ', Ed. & Trans.') -%}
+    {%- else -%}
+        {%- do editorTrans.append(record.editorStraight|e + ', Ed.') if 'editorStraight' in record and 'author' in record and record.editorStraight != record.translatorStraight -%}
+        {%- do editorTrans.append(record.translatorStraight|e + ', Trans.') if 'translatorStraight' in record and record.editorStraight != record.translatorStraight -%}
+    {%- endif -%}
+
+    {#- editions block -#}
+    {%- set editionVol = [] -%}
+    {%- do editionVol.append(record.edition|nth + ' ed.') if 'edition' in record -%}
+    {%- do editionVol.append('Vol. ' + record.volume|e) if 'volume' in record -%}
+
+    {#- joining pieces together -#}
+    {%- set bothParts = [] -%}
+    {%- do bothParts.append(editorTrans|join(', ')) if editorTrans -%}
+    {%- do bothParts.append(editionVol|join(', ')) if editionVol -%}
+
+    {#- rendering -#}
+    {{- '(' + bothParts|join('; ') + ')' if bothParts -}}
+{%- endmacro -%}
+
+{%- macro renderBook(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'wordsBy' not in record else ' (' + record.wordsBy|e + ', Narr.)' -}}
+    {{- '' if 'medium' not in record else ' [' + record.medium|e + ']' -}}
+
+    {#- (editors, translators, edition, volume) -#}
+    {%- set bookInfo = renderBookInfo(record) -%}
+    {{- ' ' + bookInfo if bookInfo -}}
+    {{- '' if 'media' not in record else ' [' + record.media|e + ']' -}}
+    {{- '' if 'publisher' not in record else '. ' + record.publisher|e -}}
+    {{- renderExternalReference(record) -}}
+
+    {#- extra note, used for (original work published YYYY) -#}
+    {{- '' if 'originalDate' not in record else '. (Original work published ' + record.originalDate|e + ')' -}}
+
+{%- endmacro -%}
+
+{%- macro renderInCollection(record, isHtml=False) -%}
+    {#- author block -#}
+    {%- if 'author' in record -%}
+        {{- record.author|e }}{{- '.' if ',' not in record.author-}}
+    {%- endif -%}
+
+    {#- date block -#}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record) -}}
+
+    {#- publication data -#}
+    {{- '. In ' + record.editorStraight|e -}}{{- ' (Ed.)' if record.multipleEditor == False else ' (Eds.)' }}
+    {{- ', ' + italicize(record.booktitle|e, isHtml) -}}
+    {{- '' if 'volume' not in record else italicize(': Vol. ' + record.volume|e, isHtml) -}}
+
+    {#- edition and pages -#}
+    {%- set editionAndPages = [] -%}
+    {%- do editionAndPages.append(record.edition|nth + ' ed.') if 'edition' in record -%}
+    {%- do editionAndPages.append('pp. ' + record.pages|e) -%}
+    {{- ' (' + editionAndPages|join(', ') + ')' -}}
+
+    {#- publisher and external reference -#}
+    {{- '. ' + record.publisher|e -}}
+    {{- renderExternalReference(record) -}}
+    {{- '' if 'originalDate' not in record else '. (Original work published ' + record.originalDate|e + ')' -}}
+
+{%- endmacro -%}
+
+{%- macro renderInReference(record, isHtml=False) -%}
+
+    {%- if 'author' in record -%}
+        {{- renderAuthorEditor(record) -}}
+    {% else %}
+        {{- renderTitle(record) + '.' -}}
+    {%- endif -%}
+
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record) if 'author' in record else '' -}}
+
+    {#- volume data -#}
+    {%- if 'editor' in record -%}
+        {{- '. In ' -}}
+        {{- record.editorStraight|e -}}{{- ' (Ed.)' if record.multipleEditor == false else ' (Eds.)' -}}
+        {{- ', ' + italicize(record.booktitle, isHtml) -}}
+    {%- else -%}
+        {{- '. In ' + italicize(record.booktitle, isHtml) -}}
+    {%- endif -%}
+
+    {{- '' if 'edition' not in record else ' (' + record.edition|nth + ')' -}}
+    {{- '' if 'publisher' not in record else '. ' + record.publisher|e -}}
+
+    {{- renderExternalReference(record) -}}
+
+{%- endmacro -%}
+
+{%- macro renderThesis(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'collectionNumber' not in record else ' (' + record.collectionNumber|e + ')' -}}
+
+    {#- regular thesis -#}
+    {%- if 'collectionNumber' not in record and 'collectionTitle' not in record -%}
+        {{- '' if 'type' not in record else ' [' + record.type|e + ']' -}}
+        {{- '' if 'institution' not in record else '. ' + record.institution|e -}}
+
+    {#- thesis from database -#}
+    {%- else -%}
+        {{- ' [' if 'type' in record or 'institution' in record -}}
+        {{- '' if 'type' not in record else record.type|e -}}
+        {{- '' if 'institution' not in record else ', ' + record.institution|e -}}
+        {{- ']' if 'type' in record or 'institution' in record -}}
+    {%- endif -%}
+
+    {%- if 'collectionTitle' in record -%}
+        {{- ', ' if 'collectionNumber' not in record and 'collectionTitle' not in record else '. ' -}}
+        {{- record.collectionTitle|replace('\\&', '&')|e -}}
+    {%- endif -%}
+
+    {{- renderExternalReference(record) -}}
+
+{%- endmacro -%}
+
+{%- macro renderReport(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'number' not in record else ' (' + record.number|e + ')' -}}
+    {{- '' if 'institution' not in record else '. ' + record.institution|e -}}
+    {{- renderExternalReference(record) -}}
+{%- endmacro -%}
+
+{%- macro renderArtwork(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '.' if 'title' not in record else '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'medium' not in record else ' [' + record.medium|e + ']' -}}
+    {{- '' if 'collectionTitle' not in record else '. ' + record.collectionTitle|replace('\\&', '&')|e -}}
+    {{- '.' if 'doi' not in record and 'url' not in record -}}
+    {{- renderExternalReference(record) -}}
+{%- endmacro -%}
+
+{%- macro renderPatent(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'number' not in record else ' (' + record.number|e + ')' -}}
+    {{- '' if 'holder' not in record else '. ' + record.holder|e -}}
+    {{- renderExternalReference(record) -}}
+{%- endmacro -%}
+
+{%- macro renderMovie(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'medium' not in record else ' [' + record.medium|e + ']' -}}
+    {{- '' if 'publisher' not in record else '. ' + record.publisher|e -}}
+    {{- renderExternalReference(record) -}}
+{%- endmacro -%}
+
+{%- macro renderSoftware(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'version' not in record else ' (Version ' + record.version|e + ')' -}}
+    {{- '' if 'medium' not in record else ' [' + record.medium|e + ']' -}}
+    {{- '' if 'publisher' not in record else ', ' + record.publisher|e -}}
+    {{- '' if 'collectionTitle' not in record else '. ' + record.collectionTitle|e -}}
+    {{- renderExternalReference(record) -}}
+{%- endmacro -%}
+
+{%- macro renderOnline(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'medium' not in record else ' [' + record.medium|e + ']' -}}
+    {%- if 'titleaddon' in record -%}
+        {{- '. ' if record.title[-1] not in FINAL_MARKS else ' ' -}}{{- record.titleaddon|e -}}
+    {%- endif -%}
+    {{- renderExternalReference(record) -}}
+{%- endmacro -%}
+
+{%- macro renderAudio(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+
+    {{- '. ' + renderTitle(record, italic=('volume' not in record)) -}}
+    {{- '' if 'medium' not in record else ' [' + record.medium|e + ']' -}}
+
+    {%- if 'volume' in record -%}
+        {{- '. In ' if 'medium' in record and record.medium == 'Audio podcast episode' else '. On ' -}}
+        {{- italicize(record.volume|e, isHtml) -}}
+    {%- endif -%}
+
+    {{- '' if 'location' not in record else '. ' + record.location -}}
+    {%- if 'publisher' in record -%}
+        {{- '. ' if 'location' not in record else '; ' -}}
+        {{- record.publisher|e -}}
+    {%- endif -%}
+
+    {{- '' if 'collectionTitle' not in record else '. ' + record.collectionTitle|e -}}
+
+    {{- '.' if 'doi' not in record and 'url' not in record and 'originalDate' not in record -}}
+    {{- renderExternalReference(record) -}}
+    {{- '' if 'originalDate' not in record else '. (Original work published ' + record.originalDate|e + ')' -}}
+
+{%- endmacro -%}
+
+{%- macro renderVideo(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'medium' not in record else ' [' + record.medium|e + ']' -}}
+    {{- '' if 'publisher' not in record else ', ' + record.publisher|e -}}
+    {{- '' if 'collectionTitle' not in record else ', ' + record.collectionTitle|e -}}
+    {{- renderExternalReference(record) -}}
+{%- endmacro -%}
+
+{%- macro renderMisc(record, isHtml=False) -%}
+    {%- if 'medium' in record -%}
+        {#- tv series -#}
+        {%- if record.medium in ['TV series', 'tv series', 'TV Series', 'TV series episode', 'tv series episode', 'TV Series Episode'] -%}
+            {#- Simon, D., Colesberry, R. F., & Kostroff Noble, N. (Executive Producers). (2002-2008). The wire [TV series]. Blown Deadline Productions; HBO -#}
+            {#- Favreau, J. (Writer), & Filoni, D. (Director). (2019, November 12). Chapter 1 (Season 1, Episode 1) [TV series episode]. In J. Favreau, D. Filoni, K. Kennedy, & C. Wilson (Executive Producers), The Mandalorian. Lucasfilm; Golem Creations -#}
+            {{- renderAuthorEditor(record) -}}
+            {%- if 'author' not in record and 'editor' not in record and 'editora' in record -%}
+                {{- ' (Executive Producers).' if record.multipleEditora == True else ' (Executive Producer).' -}}
+            {%- endif -%}
+            {{- renderDate(record) -}}
+            {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) if 'number' not in record else '. ' + renderTitle(record) -}}
+            {{- '' if 'number' not in record else ' (' + record.number|e + ')' -}}
+            {{- '' if 'medium' not in record else ' [' + record.medium|e + ']' -}}
+
+            {#- episode in a series -#}
+            {%- if 'number' in record -%}
+                {%- if 'editora' in record -%}
+                    {{- '. In ' + record.editoraStraight|e -}}
+                    {{- ' (Executive Producers)' if record.multipleEditora == True else ' (Executive Producer)' -}}
+                {%- endif -%}
+
+                {{- '' if 'titleaddon' not in record else ', ' + italicize(record.titleaddon|e, isHtml) -}}
+            {%- endif -%}
+
+            {{- '' if 'publisher' not in record else '. ' + record.publisher|e -}}
+            {{- renderExternalReference(record) -}}
+
+        {#- dataset -#}
+        {%- elif record.medium in ['dataset', 'data set', 'Data set', 'Data Set', 'Data set and code book'] -%}
+            {{- renderAuthorEditor(record) -}}
+            {{- renderDate(record) -}}
+            {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+            {{- '' if 'version' not in record else ' (' + record.version|e + ')' -}}
+            {{- '' if 'medium' not in record else ' [' + record.medium|e + ']'-}}
+            {{- '' if 'publisher' not in record else '. ' + record.publisher|e -}}
+            {{- '' if 'collectionTitle' not in record else '. ' + record.collectionTitle|e -}}
+            {{- renderExternalReference(record) -}}
+
+        {%- elif record.medium in ['press release', 'Press Release', 'Press release'] -%}
+            {{- renderAuthorEditor(record) -}}
+            {{- renderDate(record) -}}
+            {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+            {{- '' if 'medium' not in record else ' [' + record.medium|e + ']'-}}
+            {{- renderExternalReference(record) -}}
+
+        {%- elif record.medium in ["Map", 'map'] -%}
+            {{- renderAuthorEditor(record) -}}
+            {{- renderDate(record) -}}
+            {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+            {{- '' if 'medium' not in record else ' [' + record.medium|e + ']'-}}
+            {{- '' if 'publisher' not in record else '. ' + record.publisher|e -}}
+            {{- renderExternalReference(record) -}}
+        {%- endif -%}
+
+    {%- endif -%}
+
+{%- endmacro -%}
+
+{%- macro renderUnpublished(record, isHtml=False) -%}
+    {{- renderAuthorEditor(record) -}}
+    {{- renderDate(record) -}}
+    {{- '. ' + renderTitle(record, italic=True, isHtml=isHtml) -}}
+    {{- '' if 'type' not in record else ' [' + record.type|e + ']' -}}
+    {{- '' if 'event' not in record and 'location' not in record else '. ' -}}
+    {{- '' if 'event' not in record else record.event|e -}}
+    {{- ', ' if 'event' in record and 'location' in record -}}
+    {{- '' if 'location' not in record else record.location|e -}}
+    {{- renderExternalReference(record) -}}
+{%- endmacro -%}
+
+{%- set BIBTYPE_2_FUNC = {
+    'article':      renderArticle,
+    'book':         renderBook,
+    'collection':   renderBook,
+    'incollection': renderInCollection,
+    'inreference':  renderInReference,
+    'thesis':       renderThesis,
+    'report':       renderReport,
+    'artwork':      renderArtwork,
+    'software':     renderSoftware,
+    'online':       renderOnline,
+    'patent':       renderPatent,
+    'movie':        renderMovie,
+    'audio':        renderAudio,
+    'video':        renderVideo,
+    'misc':         renderMisc,
+    'unpublished':  renderUnpublished,
+    }
+-%}

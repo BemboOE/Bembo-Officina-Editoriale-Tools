@@ -1,0 +1,144 @@
+{
+    "bertola_design_2004": {
+        "bibType": "collection",
+        "title": "Design multiverso. Appunti di fenomenologia del design",
+        "publisher": "POLI.design",
+        "editor": "Bertola, P., & Manzini, E.",
+        "multipleEditor": true,
+        "editorStraight": "P. Bertola, & E. Manzini",
+        "date": {
+            "year": "2004"
+        },
+        "id": "bertola_design_2004",
+        "sortingStr": "Bertola2004Design multiverso. Appunti di fenomenologia del design"
+    },
+    "european_commission_horizon_nodate": {
+        "bibType": "online",
+        "title": "Horizon Europe: The next research and innovation framework programme",
+        "url": "https://ec.europa.eu/info/designing-next-research-and-innovation-framework-programme/what-shapes-next-framework-programme_en",
+        "author": "European Commission",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "July",
+            "day": "21"
+        },
+        "id": "european_commission_horizon_nodate",
+        "sortingStr": "European CommissionHorizon Europe: The next research and innovation framework programme"
+    },
+    "european_commission_what_nodate": {
+        "bibType": "online",
+        "title": "What is Horizon 2020?",
+        "url": "https://ec.europa.eu/programmes/horizon2020/what-horizon-2020",
+        "author": "European Commission",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "July",
+            "day": "21"
+        },
+        "id": "european_commission_what_nodate",
+        "sortingStr": "European CommissionWhat is Horizon 2020?"
+    },
+    "european_committee_of_regions_lisbon_nodate": {
+        "bibType": "online",
+        "title": "The Lisbon Strategy in short",
+        "url": "https://portal.cor.europa.eu/europe2020/Profiles/Pages/TheLisbonStrategyinshort.aspx",
+        "author": "European Committee of Regions",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "July",
+            "day": "21"
+        },
+        "id": "european_committee_of_regions_lisbon_nodate",
+        "sortingStr": "European Committee of RegionsThe Lisbon Strategy in short"
+    },
+    "germak_uomo_2008": {
+        "bibType": "book",
+        "title": "Uomo al centro del progetto, design per un nuovo umanesimo. Man at the centre of the project, Design for a new humanism",
+        "publisher": "Umberto Allemandi & C.",
+        "author": "Germak, C., Celaschi, F., & Bistagnino, L.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2008"
+        },
+        "id": "germak_uomo_2008",
+        "sortingStr": "Germak2008Uomo al centro del progetto, design per un nuovo umanesimo. Man at the centre of the project, Design for a new humanism"
+    },
+    "iphofen_research_nodate": {
+        "bibType": "online",
+        "title": "Research ethics in ethnography/anthropology",
+        "url": "https://ec.europa.eu/research/participants/data/ref/h2020/other/hi/ethics-guide-ethnog-anthrop_en.pdf",
+        "author": "Iphofen, R.",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "July",
+            "day": "21"
+        },
+        "id": "iphofen_research_nodate",
+        "sortingStr": "IphofenResearch ethics in ethnography/anthropology"
+    },
+    "kelley_i_2006": {
+        "bibType": "book",
+        "title": "I dieci volti dell'innovazione",
+        "series": "Economia & management",
+        "publisher": "Sperling & Kupfer",
+        "author": "Kelley, T., & Littman, J.",
+        "multipleAuthors": true,
+        "translator": "Guaraldo, F.",
+        "multipleTranslator": false,
+        "translatorStraight": "F. Guaraldo",
+        "date": {
+            "year": "2006"
+        },
+        "id": "kelley_i_2006",
+        "sortingStr": "Kelley2006I dieci volti dell'innovazione"
+    },
+    "ranzo_design_2012": {
+        "bibType": "book",
+        "title": "Design intersections: il pensiero progettuale intermedio",
+        "url": "https://iris.unicampania.it/handle/11591/322151",
+        "number": "5",
+        "author": "Ranzo, P., & Langella, C.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2012"
+        },
+        "keywords": "Industrial design, Environmental aspects, Technological innovations",
+        "id": "ranzo_design_2012",
+        "sortingStr": "Ranzo2012Design intersections: il pensiero progettuale intermedio"
+    },
+    "regione_autonoma_friuli_venezia_giulia_percorso_2015": {
+        "bibType": "online",
+        "title": "Percorso assistenziale per la presa in carico del paziente con ictus cerebrale",
+        "url": "https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/salute-sociale/sistema-sociale-sanitario/FOGLIA38/allegati/21082015PDTAictus2015allegatoaldecreto.pdf",
+        "author": "Regione Autonoma Friuli Venezia Giulia",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "July",
+            "day": "21"
+        },
+        "date": {
+            "year": "2015"
+        },
+        "id": "regione_autonoma_friuli_venezia_giulia_percorso_2015",
+        "sortingStr": "Regione Autonoma Friuli Venezia Giulia2015Percorso assistenziale per la presa in carico del paziente con ictus cerebrale"
+    },
+    "russo_politiche_2011": {
+        "bibType": "book",
+        "title": "Politiche pubbliche e innovazione tecnologica. Il caso dell'Area Scienze Park e del Vega",
+        "url": "https://books.google.it/books?id=0KZkYgEACAAJ",
+        "series": "Ricerche (Carocci)",
+        "publisher": "Carocci",
+        "author": "Russo, A.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2011"
+        },
+        "id": "russo_politiche_2011",
+        "sortingStr": "Russo2011Politiche pubbliche e innovazione tecnologica. Il caso dell'Area Scienze Park e del Vega"
+    }
+}

@@ -1,0 +1,25 @@
+<root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/"><h1 aid:pstyle="h1">Titolo dell&#x27;elaborato: eventuale <em aid:cstyle="corsivo">testo corsivo</em> presente</h1>
+<h1 aid:pstyle="h1">Autori</h1>
+<p aid:pstyle="Testo, primo paragrafo">```json</p>
+<p aid:pstyle="Testo, a seguire">{
+    &quot;name&quot;: &quot;Nome e cognome primo autore&quot;,
+    &quot;title&quot;: &quot;posizione nell&#x27;organizzazione&quot;,
+    &quot;mail&quot;: &quot;email istituzionale&quot;,
+    &quot;affiliation&quot;: &quot;istituzione&quot;,
+    &quot;reference_author&quot;: &quot;yes&quot;
+}
+{
+    &quot;name&quot;: &quot;Nome e cognome secondo autore&quot;,
+    &quot;title&quot;: &quot;posizione nell&#x27;organizzazione&quot;,
+    &quot;mail&quot;: &quot;email istituzionale&quot;,
+    &quot;affiliation&quot;: &quot;istituzione&quot;,
+    &quot;reference_author&quot;: &quot;no&quot;
+}</p>
+<p aid:pstyle="Testo, a seguire">```</p>
+<h1 aid:pstyle="h1">Abstract</h1>
+<p aid:pstyle="Testo, primo paragrafo">Lorem ipsum dolor sit amet, <em aid:cstyle="corsivo">consectetur adipiscing elit</em>. Phasellus nec varius lorem. Donec sed mauris odio. Mauris sed lorem eget diam tincidunt aliquam. Suspendisse mattis elit nibh, quis vulputate odio rutrum dignissim. Quisque porttitor nisl diam, et <em aid:cstyle="corsivo">lacinia massa ultricies</em> id. Integer laoreet fermentum quam, ac rhoncus turpis dapibus vitae. Maecenas scelerisque nibh tortor. Nullam imperdiet scelerisque euismod. Praesent imperdiet dolor sem. Sed vitae turpis at elit sodales eleifend sollicitudin sit amet arcu. Aliquam vulputate porta imperdiet. Donec quis accumsan dui. Cras egestas nulla pharetra mattis lobortis.</p>
+<h1 aid:pstyle="h1">Parole chiave</h1>
+<p aid:pstyle="Testo, primo paragrafo">parola chiave 1, parola chiave 2, parola chiave 3, parola chiave 4, parola chiave 5</p>
+<h1 aid:pstyle="h1">Attribuzioni</h1>
+<p aid:pstyle="Testo, primo paragrafo">I paragrafi <em aid:cstyle="corsivo">n</em> e <em aid:cstyle="corsivo">n</em> sono attribuiti ad emtrambe/i le/gli autrici/autori; il paragrafo <em aid:cstyle="corsivo">n</em> è attribuito a/alla primo/a autore/autrice; il paragrafo <em aid:cstyle="corsivo">n</em> è attribuito a/alla primo/a autore/autrice.</p>
+</root>

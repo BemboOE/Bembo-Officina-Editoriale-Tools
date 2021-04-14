@@ -1,0 +1,205 @@
+{
+    "benjamin_lopera_2000": {
+        "bibType": "book",
+        "location": "Torino",
+        "edition": "3",
+        "title": "L\u2019opera d\u2019arte nell\u2019epoca della sua riproducibilit\u00e0 tecnica",
+        "publisher": "Einaudi",
+        "author": "Benjamin, W.",
+        "multipleAuthors": false,
+        "translator": "Filippini E",
+        "multipleTranslator": false,
+        "translatorStraight": " Filippini E",
+        "date": {
+            "year": "2000"
+        },
+        "originalDate": "1955",
+        "id": "benjamin_lopera_2000",
+        "sortingStr": "Benjamin2000L\u2019opera d\u2019arte nell\u2019epoca della sua riproducibilit\u00e0 tecnica"
+    },
+    "benincasa_women_2016": {
+        "bibType": "incollection",
+        "location": "Bozen-Bolzano",
+        "title": "Women and graphic design in the history of design and in design history",
+        "pages": "39\u201359",
+        "booktitle": "Graphic design: history and practice",
+        "publisher": "Bozen-Bolzano University Press, Free University of Bozen-Bolzano",
+        "author": "Breuer, G.",
+        "multipleAuthors": false,
+        "editor": "Benincasa, A., Camuffo, G., Dalla Mura, M., Upmeier, C., & Vinti, C.",
+        "multipleEditor": true,
+        "editorStraight": "A. Benincasa, G. Camuffo, M. Dalla Mura, C. Upmeier, & C. Vinti",
+        "date": {
+            "year": "2016"
+        },
+        "keywords": "History, Graphic arts, Commercial art",
+        "id": "benincasa_women_2016",
+        "sortingStr": "Breuer2016Women and graphic design in the history of design and in design history"
+    },
+    "colizzi_novarese_2017": {
+        "bibType": "online",
+        "title": "Novarese and Butti, a story to be (re)written",
+        "url": "https://articles.c-a-s-t.com/novarese-and-butti-a-story-to-be-re-written-37ab38ac64c6",
+        "titleaddon": "articles.c-a-s-t.com",
+        "author": "Colizzi, A., & Olocco, R.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2017",
+            "month": "February",
+            "day": "21"
+        },
+        "id": "colizzi_novarese_2017",
+        "sortingStr": "Colizzi2017Novarese and Butti, a story to be (re)written"
+    },
+    "dalla_mura_grafica_2013": {
+        "bibType": "article",
+        "title": "Grafica, Storia, Italia: Estendere il campo",
+        "volume": "24",
+        "pages": "8\u201333",
+        "journaltitle": "Progetto grafico",
+        "author": "Dalla Mura, M., & Vinti, C.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2013"
+        },
+        "id": "dalla_mura_grafica_2013",
+        "sortingStr": "Dalla Mura2013Grafica, Storia, Italia: Estendere il campo"
+    },
+    "de_bondt_is_2012": {
+        "bibType": "incollection",
+        "title": "Is there a canon of graphic design history?",
+        "pages": "36\u201344",
+        "booktitle": "Graphic Design: History in the Writing (1983-2011)",
+        "publisher": "Occasional Papers",
+        "editor": "De Bondt, S., de Smet, C., & Scotford, M.",
+        "multipleEditor": true,
+        "editorStraight": "S. De Bondt, C. de Smet, & M. Scotford",
+        "date": {
+            "year": "2012"
+        },
+        "originalDate": "1991",
+        "id": "de_bondt_is_2012",
+        "sortingStr": "De Bondt2012Is there a canon of graphic design history?"
+    },
+    "dilnot_state_1984": {
+        "bibType": "article",
+        "title": "The state of design history. Part II: Problems and possibilities",
+        "volume": "1",
+        "pages": "3\u201320",
+        "number": "2",
+        "journaltitle": "Design Issues",
+        "shortjournal": "Design Issues",
+        "author": "Dilnot, C.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1984"
+        },
+        "id": "dilnot_state_1984",
+        "sortingStr": "Dilnot1984The state of design history. Part II: Problems and possibilities"
+    },
+    "kaufmann-buhler_introduction_2019": {
+        "bibType": "incollection",
+        "location": "London, New York",
+        "title": "Introduction",
+        "booktitle": "Design History Beyond the Canon",
+        "publisher": "Bloomsbury Publishing",
+        "author": "Kaufmann-Buhler, J., Pass, V., & Wilson, C. S.",
+        "multipleAuthors": true,
+        "editor": "Kaufmann-Buhler, J., Pass, V., & Wilson, C. S.",
+        "multipleEditor": true,
+        "editorStraight": "J. Kaufmann-Buhler, V. Pass, & C. S. Wilson",
+        "date": {
+            "year": "2019"
+        },
+        "id": "kaufmann-buhler_introduction_2019",
+        "sortingStr": "Kaufmann-Buhler2019Introduction"
+    },
+    "meggs_is_1991": {
+        "bibType": "article",
+        "title": "Is a design history canon really dangerous?",
+        "volume": "9",
+        "number": "3",
+        "journaltitle": "AIGA Journal of Graphic Design",
+        "author": "Meggs, P. B.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1991"
+        },
+        "id": "meggs_is_1991",
+        "sortingStr": "Meggs1991Is a design history canon really dangerous?"
+    },
+    "pasca_storia_2013": {
+        "bibType": "incollection",
+        "location": "Bologna",
+        "title": "La storia del design oggi: Compiti e prospettive",
+        "pages": "21\u201331",
+        "booktitle": "Il design e la sua storia, Primo Convegno dell\u2019Associazione Italiana degli Storici del design",
+        "publisher": "Fausto Lupetti Editore",
+        "author": "Pasca, V.",
+        "multipleAuthors": false,
+        "editor": "AIS/Design",
+        "multipleEditor": false,
+        "editorStraight": " AIS/Design",
+        "date": {
+            "year": "2013"
+        },
+        "id": "pasca_storia_2013",
+        "sortingStr": "Pasca2013La storia del design oggi: Compiti e prospettive"
+    },
+    "peruccio_commissione_2013": {
+        "bibType": "incollection",
+        "location": "Bologna",
+        "title": "Commissione tematica, formazione dello storico del design",
+        "pages": "121\u2013126",
+        "booktitle": "Il design e la sua storia, Primo Convegno dell\u2019Associazione Italiana degli Storici del design",
+        "publisher": "Fausto Lupetti Editore",
+        "author": "Peruccio, P. P., & Russo, D.",
+        "multipleAuthors": true,
+        "editor": "AIS/Design",
+        "multipleEditor": false,
+        "editorStraight": " AIS/Design",
+        "date": {
+            "year": "2013"
+        },
+        "id": "peruccio_commissione_2013",
+        "sortingStr": "Peruccio2013Commissione tematica, formazione dello storico del design"
+    },
+    "sfligiotti_out_2017": {
+        "bibType": "article",
+        "title": "Out of Scale, out of Context. The Use of Images in the Teaching of Graphic Design History",
+        "volume": "1",
+        "url": "http://www.mdpi.com/2504-3900/1/9/880",
+        "doi": "10.3390/proceedings1090880",
+        "pages": "880",
+        "number": "9",
+        "journaltitle": "Proceedings",
+        "shortjournal": "Proceedings",
+        "author": "Sfligiotti, S.",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2020",
+            "month": "August",
+            "day": "3"
+        },
+        "date": {
+            "year": "2017",
+            "month": "November",
+            "day": "28"
+        },
+        "id": "sfligiotti_out_2017",
+        "sortingStr": "Sfligiotti2017Out of Scale, out of Context. The Use of Images in the Teaching of Graphic Design History"
+    },
+    "vendetti_storie_2017": {
+        "bibType": "thesis",
+        "title": "Storie di grafica: Per una storiografia del graphic design",
+        "institution": "ISIA Urbino",
+        "type": "Unpublished Master\u2019s thesis",
+        "author": "Vendetti, A.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2017"
+        },
+        "id": "vendetti_storie_2017",
+        "sortingStr": "Vendetti2017Storie di grafica: Per una storiografia del graphic design"
+    }
+}

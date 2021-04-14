@@ -1,0 +1,18 @@
+{%- from 'biblioComponents.j2' import renderArticle -%}
+{%- from 'biblioComponents.j2' import renderBookInfo -%}
+{%- from 'biblioComponents.j2' import renderBook -%}
+{%- from 'biblioComponents.j2' import renderInCollection -%}
+{%- from 'biblioComponents.j2' import renderInReference -%}
+{%- from 'biblioComponents.j2' import renderThesis -%}
+{%- from 'biblioComponents.j2' import renderReport -%}
+{%- from 'biblioComponents.j2' import renderArtwork -%}
+{%- from 'biblioComponents.j2' import renderPatent -%}
+{%- from 'biblioComponents.j2' import renderMovie -%}
+{%- from 'biblioComponents.j2' import renderSoftware -%}
+{%- from 'biblioComponents.j2' import renderOnline -%}
+{%- from 'biblioComponents.j2' import renderAudio -%}
+{%- from 'biblioComponents.j2' import renderVideo -%}
+{%- from 'biblioComponents.j2' import renderMisc -%}
+{%- from 'biblioComponents.j2' import renderUnpublished -%}
+{%- from 'biblioComponents.j2' import BIBTYPE_2_FUNC -%}
+{{- BIBTYPE_2_FUNC[record.bibType](record, isHtml) -}}

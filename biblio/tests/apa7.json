@@ -1,0 +1,1780 @@
+{
+    "de_beauvoir_simone_1960": {
+        "bibType": "audio",
+        "title": "Simone de Beauvoir discusses the art of writing",
+        "url": "https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing",
+        "editora": "de Beauvoir, S.",
+        "multipleEditora": false,
+        "editoraStraight": "S. de Beauvoir",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "1960",
+            "month": "May",
+            "day": "4"
+        },
+        "medium": "Interview",
+        "collectionTitle": "Studs Terkel Radio Archive; The Chicago History Museum",
+        "id": "de_beauvoir_simone_1960",
+        "sortingStr": "1960Simone de Beauvoir discusses the art of writing"
+    },
+    "king_i_1963": {
+        "bibType": "audio",
+        "title": "I have a dream",
+        "url": "https://www.americanrhetoric.com/speeches/mlkihaveadream.htm",
+        "editora": "King, M. L. jr",
+        "multipleEditora": false,
+        "editoraStraight": "M. L. King jr",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "1963",
+            "month": "August",
+            "day": "28"
+        },
+        "medium": "Speech audio recording",
+        "collectionTitle": "American Rhetoric",
+        "id": "king_i_1963",
+        "sortingStr": "1963I have a dream"
+    },
+    "bach_brandenburg_2010": {
+        "bibType": "audio",
+        "title": "The Brandenburg concertos: Concertos BWV 1043 & 1060",
+        "publisher": "Decca",
+        "editora": "Bach, J. S.",
+        "multipleEditora": false,
+        "editoraStraight": "J. S. Bach",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "2010"
+        },
+        "medium": "Album recorded by Academy of St Martin in the Fields",
+        "originalDate": "1721",
+        "id": "bach_brandenburg_2010",
+        "sortingStr": "2010The Brandenburg concertos: Concertos BWV 1043 & 1060"
+    },
+    "glass_i_host_amusement_2011": {
+        "bibType": "audio",
+        "title": "Amusement park (No. 443)",
+        "volume": "This American life",
+        "url": "https://www.thisamericanlife.org/radio-archives/episode/443/amusement-park",
+        "publisher": "WBEZ Chicago",
+        "editora": "Glass, I. (Host)",
+        "multipleEditora": false,
+        "editoraStraight": " Glass, I. (Host)",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "2011",
+            "month": "August",
+            "day": "12"
+        },
+        "medium": "Audio podcast episode",
+        "id": "glass_i_host_amusement_2011",
+        "sortingStr": "2011Amusement park (No. 443)"
+    },
+    "beethoven_symphony_2012": {
+        "bibType": "audio",
+        "title": "Symphony No. 3 in E-flat major",
+        "volume": "Beethoven: Complete symphonies. Brilliant Classics",
+        "editora": "Beethoven, L. van",
+        "multipleEditora": false,
+        "editoraStraight": "L. van Beethoven",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "2012"
+        },
+        "medium": "Song recorded by Staatskapelle Dresden",
+        "originalDate": "1804",
+        "id": "beethoven_symphony_2012",
+        "sortingStr": "2012Symphony No. 3 in E-flat major"
+    },
+    "cable_racial_2013": {
+        "bibType": "misc",
+        "title": "The racial dot map",
+        "url": "https://demographics.coopercenter.org/Racial-Dot-Map",
+        "publisher": "University of Virginia, Weldon Cooper Center for Public Service",
+        "editora": "Cable, D.",
+        "multipleEditora": false,
+        "editoraStraight": "D. Cable",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "2013"
+        },
+        "medium": "Map",
+        "id": "cable_racial_2013",
+        "sortingStr": "2013The racial dot map"
+    },
+    "vedantam_s_host_hidden_2015": {
+        "bibType": "audio",
+        "title": "Hidden brain",
+        "url": "https://www.npr.org/series/423302056/hidden-brain",
+        "editora": "Vedantam, S. (Host)",
+        "multipleEditora": false,
+        "editoraStraight": " Vedantam, S. (Host)",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "2015"
+        },
+        "medium": "Audio podcast",
+        "collectionTitle": "NPR",
+        "id": "vedantam_s_host_hidden_2015",
+        "sortingStr": "2015Hidden brain"
+    },
+    "beyonce_formation_2016": {
+        "bibType": "audio",
+        "location": "Parkwood",
+        "title": "Formation",
+        "volume": "Lemonade",
+        "publisher": "Columbia",
+        "editora": "Beyonc\u00e9",
+        "multipleEditora": false,
+        "editoraStraight": " Beyonc\u00e9",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "2016"
+        },
+        "medium": "Song",
+        "id": "beyonce_formation_2016",
+        "sortingStr": "2016Formation"
+    },
+    "noauthor_list_2019": {
+        "bibType": "inreference",
+        "title": "List of oldest companies",
+        "url": "https://en.wikipedia.org/wiki/List_of_oldest_companies",
+        "booktitle": "Wikipedia",
+        "date": {
+            "year": "2019",
+            "month": "January",
+            "day": "13"
+        },
+        "id": "noauthor_list_2019",
+        "sortingStr": "2019List of oldest companies"
+    },
+    "apa_education_apaeducation_college_2018": {
+        "bibType": "online",
+        "title": "College students are forming mental-health clubs \u2014 and they\u2019re making a difference @washingtonpost",
+        "url": "https://twitter.com/apaeducation/status/1012810490530140161",
+        "shorttitle": "APA Education su Twitter",
+        "titleaddon": "Twitter",
+        "author": "APA Education [@APAEducation]",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "June",
+            "day": "29"
+        },
+        "medium": "Thumbnail with link attached] [Tweet",
+        "id": "apa_education_apaeducation_college_2018",
+        "sortingStr": "APA Education [@APAEducation]2018College students are forming mental-health clubs \u2014 and they\u2019re making a difference @washingtonpost"
+    },
+    "apa_style_apa_style_tweets_nodate": {
+        "bibType": "online",
+        "title": "Tweets",
+        "url": "https://twitter.com/apa_style",
+        "titleaddon": "Twitter",
+        "author": "APA Style [@APA\\_Style]",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "November",
+            "day": "1"
+        },
+        "medium": "Twitter profile",
+        "id": "apa_style_apa_style_tweets_nodate",
+        "sortingStr": "APA Style [@APA\\_Style]Tweets"
+    },
+    "amano_nihongo_2000": {
+        "bibType": "book",
+        "title": "Nihongo no goi tokusei [Lexical characteristics of Japanese language]",
+        "volume": "7",
+        "publisher": "Sansei-do",
+        "author": "Amano, N., & Kondo, H.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2000"
+        },
+        "id": "amano_nihongo_2000",
+        "sortingStr": "Amano2000Nihongo no goi tokusei [Lexical characteristics of Japanese language]"
+    },
+    "american_psychiatric_association_diagnostic_2013": {
+        "bibType": "book",
+        "edition": "5",
+        "title": "Diagnostic and Statistical Manual of Mental Disorders",
+        "url": "https://psychiatryonline.org/doi/book/10.1176/appi.books.9780890425596",
+        "publisher": "American Psychiatric Association",
+        "author": "American Psychiatric Association",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "8"
+        },
+        "date": {
+            "year": "2013"
+        },
+        "doi": "10.1176/appi.books.9780890425596",
+        "id": "american_psychiatric_association_diagnostic_2013",
+        "sortingStr": "American Psychiatric Association2013Diagnostic and Statistical Manual of Mental Disorders"
+    },
+    "american_psychological_association_apa_nodate": {
+        "bibType": "online",
+        "title": "APA dictionary of psychology",
+        "url": "https://dictionary.apa.org/",
+        "author": "American Psychological Association",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "June",
+            "day": "14"
+        },
+        "id": "american_psychological_association_apa_nodate",
+        "sortingStr": "American Psychological AssociationAPA dictionary of psychology"
+    },
+    "american_psychological_association_positive_nodate": {
+        "bibType": "inreference",
+        "title": "Positive transference",
+        "url": "https://dictionary.apa.org/positive-transference",
+        "booktitle": "APA dictionary of psychology",
+        "author": "American Psychological Association",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "August",
+            "day": "31"
+        },
+        "id": "american_psychological_association_positive_nodate",
+        "sortingStr": "American Psychological AssociationPositive transference"
+    },
+    "anderson_getting_2018": {
+        "bibType": "article",
+        "title": "Getting Consistent with Consequences",
+        "volume": "76",
+        "pages": "26\u201333",
+        "number": "1",
+        "journaltitle": "Educational Leadership",
+        "author": "Anderson, M.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018"
+        },
+        "id": "anderson_getting_2018",
+        "sortingStr": "Anderson2018Getting Consistent with Consequences"
+    },
+    "american_psychiatric_association_product_nodate": {
+        "bibType": "online",
+        "title": "Product Catalog",
+        "url": "http://education.psychiatry.org/Users/ProductList.aspx",
+        "titleaddon": "APA Learning Center",
+        "author": "Association, A. P.",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "9"
+        },
+        "id": "american_psychiatric_association_product_nodate",
+        "sortingStr": "AssociationProduct Catalog"
+    },
+    "australian_government_productivity_commission__new_zealand_productivity_commission_strengthening_2012": {
+        "bibType": "report",
+        "title": "Strengthening trans-Tasman economic relations",
+        "url": "https://www.pc.gov.au/inquiries/completed/australia-new-zealand/report/trans-tasman.pdf",
+        "author": "Australian Government Productivity Commission \\& New Zealand Productivity Commission",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2012"
+        },
+        "id": "australian_government_productivity_commission__new_zealand_productivity_commission_strengthening_2012",
+        "sortingStr": "Australian Government Productivity Commission \\& New Zealand Productivity Commission2012Strengthening trans-Tasman economic relations"
+    },
+    "avramova_secret_2019": {
+        "bibType": "online",
+        "title": "The secret to a long, happy, healthy life? Think age-positive",
+        "url": "https://edition.cnn.com/2019/01/03/health/respect-toward-elderly-leads-to-long-life-intl/index.html",
+        "titleaddon": "CNN",
+        "author": "Avramova, N.",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "9"
+        },
+        "date": {
+            "year": "2019",
+            "month": "January",
+            "day": "3"
+        },
+        "id": "avramova_secret_2019",
+        "sortingStr": "Avramova2019The secret to a long, happy, healthy life? Think age-positive"
+    },
+    "badlands_national_park_badlandsnps_biologists_2018": {
+        "bibType": "online",
+        "title": "Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodiversity",
+        "url": "https://twitter.com/badlandsnps/status/968196500412133379",
+        "shorttitle": "Badlands Nat'l Park su Twitter",
+        "titleaddon": "Twitter",
+        "author": "Badlands National Park [@BadlandsNPS]",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "February",
+            "day": "26"
+        },
+        "medium": "Tweet",
+        "id": "badlands_national_park_badlandsnps_biologists_2018",
+        "sortingStr": "Badlands National Park [@BadlandsNPS]2018Biologists have identified more than 400 different plant species growing in @BadlandsNPS #DYK #biodiversity"
+    },
+    "iwamasa_affirmative_2019": {
+        "bibType": "incollection",
+        "location": "Washington",
+        "edition": "2",
+        "title": "Affirmative cognitive behavior therapy with sexual and gender minority people",
+        "url": "http://content.apa.org/books/16090-012",
+        "pages": "287\u2013314",
+        "booktitle": "Culturally responsive cognitive behavior therapy: Practice and supervision",
+        "publisher": "American Psychological Association",
+        "author": "Balsam, K. F., Martell, C. R., Jones, K. P., & Safren, S. A.",
+        "multipleAuthors": true,
+        "editor": "Iwamasa, G. Y., & Hays, P. A.",
+        "multipleEditor": true,
+        "editorStraight": "G. Y. Iwamasa, & P. A. Hays",
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "8"
+        },
+        "date": {
+            "year": "2019"
+        },
+        "doi": "10.1037/0000119-012",
+        "id": "iwamasa_affirmative_2019",
+        "sortingStr": "Balsam2019Affirmative cognitive behavior therapy with sexual and gender minority people"
+    },
+    "barris_k_writer__director_lemons_2017": {
+        "bibType": "misc",
+        "title": "Lemons",
+        "number": "Season 3, Episode 12",
+        "titleaddon": "Black-ish",
+        "publisher": "Wilmore Films; Artists First; Cinema Gypsy Productions; ABC Studios",
+        "author": "Barris, K. (Writer \\& Director)",
+        "multipleAuthors": false,
+        "editora": "Barris, K., Groff, J., Anderson, A., Dobbins, E. B., Fishburne, L., & Sugland, H.",
+        "multipleEditora": true,
+        "editoraStraight": "K. Barris, J. Groff, A. Anderson, E. B. Dobbins, L. Fishburne, & H. Sugland",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "2017",
+            "month": "January",
+            "day": "11"
+        },
+        "medium": "TV series episode",
+        "id": "barris_k_writer__director_lemons_2017",
+        "sortingStr": "Barris2017Lemons"
+    },
+    "bergeson_really_2019": {
+        "bibType": "article",
+        "title": "Really cool neutral plasmas",
+        "volume": "363",
+        "url": "https://www.sciencemag.org/lookup/doi/10.1126/science.aau7988",
+        "doi": "10.1126/science.aau7988",
+        "pages": "33\u201334",
+        "number": "6422",
+        "journaltitle": "Science",
+        "shortjournal": "Science",
+        "author": "Bergeson, S.",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "10"
+        },
+        "date": {
+            "year": "2019",
+            "month": "January",
+            "day": "4"
+        },
+        "id": "bergeson_really_2019",
+        "sortingStr": "Bergeson2019Really cool neutral plasmas"
+    },
+    "blackwell_summary_2014": {
+        "bibType": "report",
+        "title": "Summary health statistics for U.S. adults: National Health Interview Survey, 2012",
+        "url": "https://www.cdc.gov/nchs/data/series/sr_10/sr10_260.pdf",
+        "number": "Vital and Health Statistics Series 10, Issue 260",
+        "institution": "Centers for Disease Control and Prevention",
+        "author": "Blackwell, D. L., Lucas, J. W., & Clarke, T. C.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2014"
+        },
+        "id": "blackwell_summary_2014",
+        "sortingStr": "Blackwell2014Summary health statistics for U.S. adults: National Health Interview Survey, 2012"
+    },
+    "boddy_ethics_nodate": {
+        "bibType": "online",
+        "title": "Ethics principles",
+        "url": "http://www.ethicsguidebook.ac.uk/EthicsPrinciples",
+        "titleaddon": "The Research Ethics Guidebook: A Resource for Social Scientists",
+        "author": "Boddy, J., Neumann, T., Jennings, S., Morrow, V., Alderson, R., Rees, R., & Gibson, W.",
+        "multipleAuthors": true,
+        "id": "boddy_ethics_nodate",
+        "sortingStr": "BoddyEthics principles"
+    },
+    "bologna_what_2018": {
+        "bibType": "online",
+        "title": "What Happens to Your Mind and Body When You Feel Homesick?",
+        "url": "https://www.huffpost.com/entry/what-happens-mind-body-homesick_n_5b201ebde4b09d7a3d77eee1",
+        "titleaddon": "HuffPost",
+        "author": "Bologna, C.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "June",
+            "day": "27"
+        },
+        "id": "bologna_what_2018",
+        "sortingStr": "Bologna2018What Happens to Your Mind and Body When You Feel Homesick?"
+    },
+    "borenstein_comprehensive_2014": {
+        "bibType": "software",
+        "title": "Comprehensive meta-analysis",
+        "url": "https://www.meta-analysis.com/",
+        "version": "3.3.070",
+        "publisher": "Biostat",
+        "author": "Borenstein, M., Hedges, L., Higgins, J., & Rothstein, H.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2014"
+        },
+        "medium": "Computer software",
+        "id": "borenstein_comprehensive_2014",
+        "sortingStr": "Borenstein2014Comprehensive meta-analysis"
+    },
+    "british_cardiovascular_society_working_group_british_2016": {
+        "bibType": "report",
+        "title": "British Cardiovascular Society Working Group report: Out-of-hours cardiovascular care: Management of cardiac emergencies and hospital in-patients",
+        "url": "http://www.bcs.com/documents/BCSOOHWP_Final_Report_05092016.pdf",
+        "institution": "British Cardiovascular Society",
+        "author": "British Cardiovascular Society Working Group",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2016"
+        },
+        "id": "british_cardiovascular_society_working_group_british_2016",
+        "sortingStr": "British Cardiovascular Society Working Group2016British Cardiovascular Society Working Group report: Out-of-hours cardiovascular care: Management of cardiac emergencies and hospital in-patients"
+    },
+    "brown_feminist_2018": {
+        "bibType": "book",
+        "location": "Washington",
+        "edition": "2",
+        "title": "Feminist therapy",
+        "url": "http://content.apa.org/books/16066-000",
+        "publisher": "American Psychological Association",
+        "author": "Brown, L. S.",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "8"
+        },
+        "date": {
+            "year": "2018"
+        },
+        "doi": "10.1037/0000092-000",
+        "id": "brown_feminist_2018",
+        "sortingStr": "Brown2018Feminist therapy"
+    },
+    "bustillos_video_2013": {
+        "bibType": "article",
+        "title": "On video games and storytelling: An interview with Tom Bissell",
+        "url": "https://www.newyorker.com/books/page-turner/on-videogames- and-storytelling-an-interview-with-tom-bissell",
+        "journaltitle": "The New Yorker",
+        "author": "Bustillos, M.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2013",
+            "month": "March",
+            "day": "19"
+        },
+        "id": "bustillos_video_2013",
+        "sortingStr": "Bustillos2013On video games and storytelling: An interview with Tom Bissell"
+    },
+    "cain_quiet_2012": {
+        "bibType": "book",
+        "title": "Quiet: The power of introverts in a world that can\u2019t stop talking",
+        "url": "http://bit.ly/2G0BpbI",
+        "shorttitle": "Quiet",
+        "pagetotal": "325",
+        "publisher": "Random House Audio",
+        "author": "Cain, S.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2012"
+        },
+        "medium": "Audiobook",
+        "wordsBy": "K. Mazur",
+        "id": "cain_quiet_2012",
+        "sortingStr": "Cain2012Quiet: The power of introverts in a world that can\u2019t stop talking"
+    },
+    "canada_council_for_the_arts_what_2013": {
+        "bibType": "report",
+        "title": "What we heard: Summary of key findings: 2013 Canada Council\u2019s Inter-Arts Office consultation",
+        "url": "http://publications.gc.ca/collections/collection_2017/canadacouncil/K23-65-2013-eng.pdf",
+        "author": "Canada Council for the Arts",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2013"
+        },
+        "id": "canada_council_for_the_arts_what_2013",
+        "sortingStr": "Canada Council for the Arts2013What we heard: Summary of key findings: 2013 Canada Council\u2019s Inter-Arts Office consultation"
+    },
+    "centers_for_disease_control_and_prevention_people_2018": {
+        "bibType": "online",
+        "title": "People at high risk of developing flu-related complications",
+        "url": "https://www.cdc.gov/flu/highrisk/index.htm",
+        "author": "Centers for Disease Control and Prevention",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "January",
+            "day": "23"
+        },
+        "id": "centers_for_disease_control_and_prevention_people_2018",
+        "sortingStr": "Centers for Disease Control and Prevention2018People at high risk of developing flu-related complications"
+    },
+    "cuellar_study_2016": {
+        "bibType": "article",
+        "title": "Study Abroad Programs [Editorial]",
+        "volume": "27",
+        "url": "http://journals.sagepub.com/doi/10.1177/1043659616638722",
+        "doi": "10.1177/1043659616638722",
+        "pages": "209",
+        "number": "3",
+        "journaltitle": "Journal of Transcultural Nursing",
+        "shortjournal": "J Transcult Nurs",
+        "author": "Cuellar, N. G.",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "8"
+        },
+        "date": {
+            "year": "2016"
+        },
+        "id": "cuellar_study_2016",
+        "sortingStr": "Cuellar2016Study Abroad Programs [Editorial]"
+    },
+    "cutts_happiness_2017": {
+        "bibType": "video",
+        "title": "Happiness",
+        "url": "https://vimeo.com/244405542",
+        "author": "Cutts, S.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2017",
+            "month": "November",
+            "day": "24"
+        },
+        "medium": "Video",
+        "collectionTitle": "Vimeo",
+        "keywords": "animation, art, consumerism, happiness, illustration, rat race, rats, society, steve cutts",
+        "id": "cutts_happiness_2017",
+        "sortingStr": "Cutts2017Happiness"
+    },
+    "dsouza_cognitive_2018": {
+        "bibType": "misc",
+        "title": "Cognitive Effects of Music and Dance Training in Children",
+        "url": "https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/37080/versions/V1",
+        "shorttitle": "Cognitive Effects of Music and Dance Training in Children",
+        "publisher": "ICPSR",
+        "author": "D'Souza, A., & Wiseheart, M.",
+        "multipleAuthors": true,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "11"
+        },
+        "date": {
+            "year": "2018"
+        },
+        "doi": "\"10.3886/ICPSR37080.V1\"",
+        "medium": "Data set",
+        "version": "ICPSR 37080; Version V1",
+        "id": "dsouza_cognitive_2018",
+        "sortingStr": "D'Souza2018Cognitive Effects of Music and Dance Training in Children"
+    },
+    "delacroix_faust_nodate": {
+        "bibType": "artwork",
+        "title": "Faust attempts to seduce Marguerite",
+        "author": "Delacroix, E.",
+        "multipleAuthors": false,
+        "medium": "Lithograph",
+        "collectionTitle": "The Louvre, Paris, France",
+        "issued": {
+            "start": {
+                "year": "1826"
+            },
+            "end": {
+                "year": "1827"
+            }
+        },
+        "id": "delacroix_faust_nodate",
+        "sortingStr": "DelacroixFaust attempts to seduce Marguerite"
+    },
+    "epocrates_epocrates_2019": {
+        "bibType": "software",
+        "title": "Epocrates medical references",
+        "url": "https://itunes.apple.com/us/app/epocrates/id281935788?mt=8",
+        "version": "18.12",
+        "author": "Epocrates",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2019"
+        },
+        "medium": "Mobile app",
+        "collectionTitle": "App Store",
+        "id": "epocrates_epocrates_2019",
+        "sortingStr": "Epocrates2019Epocrates medical references"
+    },
+    "fiske_handbook_2010": {
+        "bibType": "collection",
+        "edition": "5",
+        "title": "Handbook of Social Psychology",
+        "volume": "1",
+        "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9780470561119",
+        "publisher": "John Wiley & Sons",
+        "editor": "Fiske, S. T., Gilbert, D. T., & Lindzey, G.",
+        "multipleEditor": true,
+        "editorStraight": "S. T. Fiske, D. T. Gilbert, & G. Lindzey",
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "8"
+        },
+        "date": {
+            "year": "2010"
+        },
+        "doi": "10.1002/9780470561119",
+        "id": "fiske_handbook_2010",
+        "sortingStr": "Fiske2010Handbook of Social Psychology"
+    },
+    "fistek_everybodys_nodate": {
+        "bibType": "unpublished",
+        "location": "Milwaukee, Wl, United States",
+        "title": "Everybody\u2019s got a little music in them: Using music therapy to connect, engage, and motivate",
+        "url": "https://asa.confex.com/asa/2017/webprogramarchives/Session9517.html",
+        "type": "Conference session",
+        "howpublished": "Conference session",
+        "author": "Fistek, A., Jester, E., & Sonnenberg, K.",
+        "multipleAuthors": true,
+        "event": "Autism Society National Conference",
+        "issued": {
+            "start": {
+                "year": "2017",
+                "month": "July",
+                "day": "12"
+            },
+            "end": {
+                "year": "2017",
+                "month": "July",
+                "day": "15"
+            }
+        },
+        "id": "fistek_everybodys_nodate",
+        "sortingStr": "FistekEverybody\u2019s got a little music in them: Using music therapy to connect, engage, and motivate"
+    },
+    "fogarty_m_grammar_girl_how_2016": {
+        "bibType": "video",
+        "title": "How to diagram a sentence (absolute basics)",
+        "url": "https://youtu.be/deiEY5Yq1qI",
+        "author": "Fogarty, M. [Grammar Girl]",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2016",
+            "month": "September",
+            "day": "30"
+        },
+        "medium": "Video",
+        "collectionTitle": "YouTube",
+        "id": "fogarty_m_grammar_girl_how_2016",
+        "sortingStr": "Fogarty2016How to diagram a sentence (absolute basics)"
+    },
+    "forman_m_director_one_1975": {
+        "bibType": "movie",
+        "title": "One flew over the cuckoo\u2019s nest",
+        "publisher": "United Artists",
+        "author": "Forman, M. (Director)",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1975"
+        },
+        "medium": "Film",
+        "id": "forman_m_director_one_1975",
+        "sortingStr": "Forman1975One flew over the cuckoo\u2019s nest"
+    },
+    "fosha_d_guest_expert_accelerated_2017": {
+        "bibType": "movie",
+        "title": "Accelerated experiential dynamic psychotherapy (AEDP) supervision",
+        "url": "https://www.apa.org/pubs/videos/4310958.aspx",
+        "publisher": "American Psychological Association",
+        "author": "Fosha, D. (Guest Expert), & Levenson, H. (Host)",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2017"
+        },
+        "medium": "Film; educational DVD",
+        "id": "fosha_d_guest_expert_accelerated_2017",
+        "sortingStr": "Fosha2017Accelerated experiential dynamic psychotherapy (AEDP) supervision"
+    },
+    "freud_interpretation_2010": {
+        "bibType": "book",
+        "location": "New York",
+        "title": "The Interpretation of Dreams: The Complete and Definitive Text",
+        "shorttitle": "The Interpretation of Dreams",
+        "pagetotal": "688",
+        "publisher": "Basic Books",
+        "author": "Freud, S.",
+        "multipleAuthors": false,
+        "editor": "Strachey, J.",
+        "multipleEditor": false,
+        "editorStraight": "J. Strachey",
+        "translator": "Strachey, J.",
+        "multipleTranslator": false,
+        "translatorStraight": "J. Strachey",
+        "date": {
+            "year": "2010"
+        },
+        "originalDate": "1900",
+        "id": "freud_interpretation_2010",
+        "sortingStr": "Freud2010The Interpretation of Dreams: The Complete and Definitive Text"
+    },
+    "fried_democratic_2018": {
+        "bibType": "report",
+        "title": "Democratic defense against disinformation",
+        "url": "https://www.atlanticcouncil.org/images/publications/Democratic_Defense_Against_Disinformation_FINAL.pdf",
+        "institution": "Atlantic Council",
+        "author": "Fried, D., & Polyakova, A.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2018"
+        },
+        "id": "fried_democratic_2018",
+        "sortingStr": "Fried2018Democratic defense against disinformation"
+    },
+    "gaiman_100000_2018": {
+        "bibType": "online",
+        "title": "100,000+ Rohingya refugees could be at serious risk during Bangladesh\u2019s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is",
+        "url": "https://www.facebook.com/neilgaiman/posts/10155317238526016",
+        "titleaddon": "Facebook",
+        "author": "Gaiman, N.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "March",
+            "day": "22"
+        },
+        "medium": "Image attached] [Status update",
+        "id": "gaiman_100000_2018",
+        "sortingStr": "Gaiman2018100,000+ Rohingya refugees could be at serious risk during Bangladesh\u2019s monsoon season. My fellow UNHCR Goodwill Ambassador Cate Blanchett is"
+    },
+    "giertz_why_2018": {
+        "bibType": "video",
+        "title": "Why you should make useless things",
+        "url": "https://www.ted.com/talks/simone_giertz_why_you_should_make_useless_things",
+        "author": "Giertz, S.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "April"
+        },
+        "medium": "Video",
+        "collectionTitle": "TED Conferences",
+        "id": "giertz_why_2018",
+        "sortingStr": "Giertz2018Why you should make useless things"
+    },
+    "goldberg_evaluating_2018": {
+        "bibType": "video",
+        "title": "Evaluating Adverse Drug Effects",
+        "url": "http://education.psychiatry.org/Users/ProductDetails.aspx?ActivityID=6172",
+        "author": "Goldberg, J. F.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018"
+        },
+        "medium": "Webinar",
+        "collectionTitle": "American Psychiatric Association",
+        "id": "goldberg_evaluating_2018",
+        "sortingStr": "Goldberg2018Evaluating Adverse Drug Effects"
+    },
+    "goldin-meadow_gesture_2015": {
+        "bibType": "incollection",
+        "location": "Hoboken, NJ, USA",
+        "edition": "7",
+        "title": "Gesture and Cognitive Development",
+        "volume": "2. Cognitive Processes",
+        "url": "http://doi.wiley.com/10.1002/9781118963418.childpsy209",
+        "pages": "339\u2013380",
+        "booktitle": "Handbook of Child Psychology and Developmental Science",
+        "publisher": "John Wiley & Sons",
+        "author": "Goldin-Meadow, S.",
+        "multipleAuthors": false,
+        "editor": "Liben, L. S., & Mueller, U.",
+        "multipleEditor": true,
+        "editorStraight": "L. S. Liben, & U. Mueller",
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "8"
+        },
+        "date": {
+            "year": "2015"
+        },
+        "doi": "10.1002/9781118963418.childpsy209",
+        "id": "goldin-meadow_gesture_2015",
+        "sortingStr": "Goldin-Meadow2015Gesture and Cognitive Development"
+    },
+    "graham_behaviorism_2019": {
+        "bibType": "inreference",
+        "edition": "Summer 2019 ed.",
+        "title": "Behaviorism",
+        "url": "https://plato.stanford.edu/archives/sum2019/entries/behaviorism/",
+        "booktitle": "The Stanford encyclopedia of philosophy",
+        "publisher": "Stanford University",
+        "author": "Graham, G.",
+        "multipleAuthors": false,
+        "editor": "Zalta, E. N.",
+        "multipleEditor": false,
+        "editorStraight": "E. N. Zalta",
+        "date": {
+            "year": "2019"
+        },
+        "id": "graham_behaviorism_2019",
+        "sortingStr": "Graham2019Behaviorism"
+    },
+    "guarino_how_2017": {
+        "bibType": "article",
+        "title": "How will humanity react to alien life? Psychologists have some predictions",
+        "url": "https://www.washingtonpost.com/news/speaking-of-science/wp/2017/12/04/how-will-humanity-react-to-alien-life-psychologists-have-some-predictions",
+        "journaltitle": "The Washington Post",
+        "author": "Guarino, B.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2017",
+            "month": "December",
+            "day": "4"
+        },
+        "id": "guarino_how_2017",
+        "sortingStr": "Guarino2017How will humanity react to alien life? Psychologists have some predictions"
+    },
+    "hacker_hughes_military_2017": {
+        "bibType": "collection",
+        "edition": "1",
+        "title": "Military Veteran Psychological Health and Social Care: Contemporary Approaches",
+        "shorttitle": "Military Veteran Psychological Health and Social Care",
+        "pagetotal": "232",
+        "publisher": "Routledge",
+        "editor": "Hacker Hughes, J.",
+        "multipleEditor": false,
+        "editorStraight": "J. Hacker Hughes",
+        "date": {
+            "year": "2017"
+        },
+        "id": "hacker_hughes_military_2017",
+        "sortingStr": "Hacker Hughes2017Military Veteran Psychological Health and Social Care: Contemporary Approaches"
+    },
+    "harris_instructional_2014": {
+        "bibType": "thesis",
+        "title": "Instructional leadership perceptions and practices of elementary school leaders",
+        "institution": "University of Virginia",
+        "type": "Unpublished doctoral dissertation",
+        "author": "Harris, L.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2014"
+        },
+        "id": "harris_instructional_2014",
+        "sortingStr": "Harris2014Instructional leadership perceptions and practices of elementary school leaders"
+    },
+    "hess_cats_2019": {
+        "bibType": "article",
+        "title": "Cats who take direction",
+        "pages": "C1",
+        "journaltitle": "The New York Times",
+        "author": "Hess, A.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2019",
+            "month": "January",
+            "day": "3"
+        },
+        "id": "hess_cats_2019",
+        "sortingStr": "Hess2019Cats who take direction"
+    },
+    "hiremath_using_2016": {
+        "bibType": "patent",
+        "title": "Using metaphors to present concepts across different intellectual domains",
+        "url": "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=9367592",
+        "holder": "U.S. Patent and Trademark Office",
+        "type": "patent",
+        "number": "U.S. Patent No. 9,367,592",
+        "author": "Hiremath, S. C., Kumar, S., Lu, F., & Salehi, A.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2016"
+        },
+        "id": "hiremath_using_2016",
+        "sortingStr": "Hiremath2016Using metaphors to present concepts across different intellectual domains"
+    },
+    "hollander_resistance_2017": {
+        "bibType": "thesis",
+        "title": "Resistance to authority: Methodological innovations and new lessons from the Milgram experiment",
+        "institution": "University of Wisconsin-Madison",
+        "type": "Doctoral dissertation",
+        "author": "Hollander, M. M.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2017"
+        },
+        "collectionTitle": "ProQuest Dissertations and Theses Global",
+        "collectionNumber": "Publication No. 10289373",
+        "id": "hollander_resistance_2017",
+        "sortingStr": "Hollander2017Resistance to authority: Methodological innovations and new lessons from the Milgram experiment"
+    },
+    "hutcheson_dealing_2012": {
+        "bibType": "thesis",
+        "title": "Dealing with dual differences: Social coping strategies of gifted and lesbian, gay; bisexual, transgender, and queer adolescents",
+        "url": "https://digitalarchive.wm.edu/bitstream/handle/10288/16594/HutchesonVirginia2012.pdf",
+        "institution": "The College of William & Mary",
+        "type": "Master\u2019s thesis",
+        "author": "Hutcheson, V. H.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2012"
+        },
+        "collectionTitle": "William \\& Mary Digital Archive",
+        "id": "hutcheson_dealing_2012",
+        "sortingStr": "Hutcheson2012Dealing with dual differences: Social coping strategies of gifted and lesbian, gay; bisexual, transgender, and queer adolescents"
+    },
+    "jackson_p_director_lord_2001": {
+        "bibType": "movie",
+        "title": "The lord of the rings: The fellowship of the ring",
+        "publisher": "WingNut Films; The Saul Zaentz Company",
+        "author": "Jackson, P. (Director).",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2001"
+        },
+        "medium": "Film; four-disc special extended ed. on DVD",
+        "id": "jackson_p_director_lord_2001",
+        "sortingStr": "Jackson2001The lord of the rings: The fellowship of the ring"
+    },
+    "ks_in_nj_this_2019": {
+        "bibType": "article",
+        "title": "From this article, it sounds like men are figuring something out that women have known forever. I know of many [Comment on the article *How workout buddies can help stave off loneliness*]",
+        "url": "https://wapo.st/2HDToGJ",
+        "journaltitle": "The Washington Post",
+        "author": "KS in NJ",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2019",
+            "month": "January",
+            "day": "15"
+        },
+        "id": "ks_in_nj_this_2019",
+        "sortingStr": "KS in NJ2019From this article, it sounds like men are figuring something out that women have known forever. I know of many [Comment on the article *How workout buddies can help stave off loneliness*]"
+    },
+    "kalnay_ncepncar_1996": {
+        "bibType": "article",
+        "title": "The NCEP/NCAR 40-Year Reanalysis Project",
+        "volume": "77",
+        "url": "https://journals.ametsoc.org/bams/article/77/3/437/55258/The-NCEP-NCAR-40-Year-Reanalysis-Project",
+        "doi": "10.1175/1520-0477(1996)077<0437:TNYRP>2.0.CO;2",
+        "pages": "437\u2013472",
+        "number": "3",
+        "journaltitle": "Bulletin of the American Meteorological Society",
+        "shortjournal": "Bull. Amer. Meteor. Soc.",
+        "author": "Kalnay, E., Kanamitsu, M., Kistler, R., Collins, W., Deaven, D., Gandin, L., Iredell, M., Saha, S., White, G., Woollen, J., Zhu, Y., Chelliah, M., Ebisuzaki, W., Higgins, W., Janowiak, J., Mo, K. C., Ropelewski, C., Wang, J., Leetmaa, A., \u2026 Joseph, D.",
+        "multipleAuthors": true,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "8"
+        },
+        "date": {
+            "year": "1996"
+        },
+        "id": "kalnay_ncepncar_1996",
+        "sortingStr": "Kalnay1996The NCEP/NCAR 40-Year Reanalysis Project"
+    },
+    "kasabov_data_2010": {
+        "bibType": "patent",
+        "title": "Data analysis and predictive systems and related methodologies",
+        "url": "https://app.iponz.govt.nz/app/Extra/IP/Mutual/Browse.aspx?sid=637094081061108163",
+        "holder": "New Zealand Intellectual Property Office",
+        "type": "patent",
+        "number": "N.Z. Patent 572036",
+        "author": "Kasabov, N. K.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2010"
+        },
+        "id": "kasabov_data_2010",
+        "sortingStr": "Kasabov2010Data analysis and predictive systems and related methodologies"
+    },
+    "klymkowsky_can_2018": {
+        "bibType": "online",
+        "title": "Can we talk scientifically about free will?",
+        "url": "https://blogs.plos.org/scied/2018/09/15/can-we-talk-scientifically-about-free-will/",
+        "titleaddon": "Sci-Ed",
+        "author": "Klymkowsky, M.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "September",
+            "day": "15"
+        },
+        "id": "klymkowsky_can_2018",
+        "sortingStr": "Klymkowsky2018Can we talk scientifically about free will?"
+    },
+    "leuker_when_2018": {
+        "bibType": "article",
+        "title": "When money talks: Judging risk and coercion in high-paying clinical trials",
+        "rights": "CC-By Attribution 4.0 International",
+        "url": "https://psyarxiv.com/9p7cb/",
+        "doi": "10.17605/OSF.IO/9P7CB",
+        "shorttitle": "When money talks",
+        "author": "Leuker, C., Samartzidis, L., Hertwig, R., & Pleskac, T.",
+        "multipleAuthors": true,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "9"
+        },
+        "date": {
+            "year": "2018"
+        },
+        "keywords": "Cognitive Psychology, Psychology, Social and Behavioral Sciences",
+        "id": "leuker_when_2018",
+        "sortingStr": "Leuker2018When money talks: Judging risk and coercion in high-paying clinical trials"
+    },
+    "gold_group_1999": {
+        "bibType": "incollection",
+        "location": "Washington",
+        "title": "Group decision and social change",
+        "url": "https://doi.org/10.1037/10319-010",
+        "pages": "265\u2013284",
+        "booktitle": "The complete social scientist: A Kurt Lewin reader",
+        "publisher": "American Psychological Association",
+        "author": "Lewin, K.",
+        "multipleAuthors": false,
+        "editor": "Gold, M.",
+        "multipleEditor": false,
+        "editorStraight": "M. Gold",
+        "date": {
+            "year": "1999"
+        },
+        "originalDate": "1948",
+        "id": "gold_group_1999",
+        "sortingStr": "Lewin1999Group decision and social change"
+    },
+    "lilienfeld_heterodox_2018": {
+        "bibType": "article",
+        "title": "Heterodox issues in psychology [Special section]",
+        "volume": "6",
+        "pages": "51\u2013104",
+        "number": "1",
+        "journaltitle": "Archives of Scientific Psychology",
+        "editor": "Lilienfeld, S. O.",
+        "multipleEditor": false,
+        "editorStraight": "S. O. Lilienfeld",
+        "date": {
+            "year": "2018"
+        },
+        "id": "lilienfeld_heterodox_2018",
+        "sortingStr": "Lilienfeld2018Heterodox issues in psychology [Special section]"
+    },
+    "lippincott_emotion_2019": {
+        "bibType": "unpublished",
+        "location": "Department of Psychology, University of Washington",
+        "title": "Emotion recognition as a function of facial cues: Implications for practice",
+        "type": "Manuscript submitted for publication",
+        "howpublished": "Manuscript submitted for publication",
+        "author": "Lippincott, T., & Poindexter, E. K.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2019"
+        },
+        "id": "lippincott_emotion_2019",
+        "sortingStr": "Lippincott2019Emotion recognition as a function of facial cues: Implications for practice"
+    },
+    "maddox_if_nodate": {
+        "bibType": "unpublished",
+        "location": "New Orleans, LA, United States",
+        "title": "If mama ain\u2019t happy, nobody\u2019s happy: The effect of parental depression on mood dysr\u00e9gulation in children",
+        "type": "Paper presentation",
+        "howpublished": "Paper presentation",
+        "author": "Maddox, S., Hurling, J., Stewart, E., & Edwards, A.",
+        "multipleAuthors": true,
+        "event": "Southeastern Psychological Association 62nd Annual Meeting",
+        "issued": {
+            "start": {
+                "year": "2016",
+                "month": "March",
+                "day": "30"
+            },
+            "end": {
+                "year": "2016",
+                "month": "April",
+                "day": "2"
+            }
+        },
+        "id": "maddox_if_nodate",
+        "sortingStr": "MaddoxIf mama ain\u2019t happy, nobody\u2019s happy: The effect of parental depression on mood dysr\u00e9gulation in children"
+    },
+    "malle_l_director_au_1987": {
+        "bibType": "movie",
+        "title": "Au revoir les enfants [Goodbye children]",
+        "publisher": "Nouvelles \u00c9ditions de Films",
+        "author": "Malle, L. (Director)",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1987"
+        },
+        "medium": "Film",
+        "id": "malle_l_director_au_1987",
+        "sortingStr": "Malle1987Au revoir les enfants [Goodbye children]"
+    },
+    "martin_lillie_be_2016": {
+        "bibType": "online",
+        "title": "Be kind to yourself: How self-compassion can improve your resiliency",
+        "url": "http://www.ethicsguidebook.ac.uk/EthicsPrinciples",
+        "shorttitle": "Be kind to yourself",
+        "titleaddon": "Mayo Clinic",
+        "author": "Martin Lillie, C. M.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2016",
+            "month": "December",
+            "day": "29"
+        },
+        "id": "martin_lillie_be_2016",
+        "sortingStr": "Martin Lillie2016Be kind to yourself: How self-compassion can improve your resiliency"
+    },
+    "mccauley_language_2019": {
+        "bibType": "article",
+        "title": "Language learning as language use: A cross-linguistic model of child language development",
+        "volume": "126",
+        "url": "http://doi.apa.org/getdoi.cfm?doi=10.1037/rev0000126",
+        "doi": "10.1037/rev0000126",
+        "shorttitle": "Language learning as language use",
+        "pages": "1\u201351",
+        "number": "1",
+        "journaltitle": "Psychological Review",
+        "shortjournal": "Psychological Review",
+        "author": "McCauley, S. M., & Christiansen, M. H.",
+        "multipleAuthors": true,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "8"
+        },
+        "date": {
+            "year": "2019"
+        },
+        "id": "mccauley_language_2019",
+        "sortingStr": "McCauley2019Language learning as language use: A cross-linguistic model of child language development"
+    },
+    "mccurry_afghan_1985": {
+        "bibType": "artwork",
+        "title": "Afghan girl",
+        "url": "https://www.nationalgeographic.com/magazine/national-geographic-magazine-50- years-of-covers/#/ngm-1985-jun-714.jpg",
+        "author": "McCurry, S.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1985"
+        },
+        "medium": "Photograph",
+        "collectionTitle": "National Geographic",
+        "id": "mccurry_afghan_1985",
+        "sortingStr": "McCurry1985Afghan girl"
+    },
+    "mcdaniel_science_2018": {
+        "bibType": "article",
+        "title": "The science of teamwork [Special issue]",
+        "volume": "73",
+        "number": "4",
+        "journaltitle": "American Psychologist",
+        "editor": "McDaniel, S. H., Salas, E., & Kazak, A. E.",
+        "multipleEditor": true,
+        "editorStraight": "S. H. McDaniel, E. Salas, & A. E. Kazak",
+        "date": {
+            "year": "2018"
+        },
+        "id": "mcdaniel_science_2018",
+        "sortingStr": "McDaniel2018The science of teamwork [Special issue]"
+    },
+    "meadows_thinking_2008": {
+        "bibType": "book",
+        "location": "White River Junction, Vt",
+        "title": "Thinking in Systems: A Primer",
+        "shorttitle": "Thinking in Systems",
+        "pagetotal": "218",
+        "publisher": "Chelsea Green Publishing",
+        "author": "Meadows, D. H.",
+        "multipleAuthors": false,
+        "editor": "Wright, D.",
+        "multipleEditor": false,
+        "editorStraight": "D. Wright",
+        "date": {
+            "year": "2008"
+        },
+        "id": "meadows_thinking_2008",
+        "sortingStr": "Meadows2008Thinking in Systems: A Primer"
+    },
+    "merriam-webster_merriam-webstercom_nodate": {
+        "bibType": "online",
+        "title": "Merriam-Webster.com dictionary",
+        "url": "https://www.merriamwebster.com/",
+        "author": "Merriam-Webster",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "May",
+            "day": "5"
+        },
+        "id": "merriam-webster_merriam-webstercom_nodate",
+        "sortingStr": "Merriam-WebsterMerriam-Webster.com dictionary"
+    },
+    "mirabito_bringing_2016": {
+        "bibType": "article",
+        "title": "Bringing LGBTQ youth theater into the spotlight [Review of the film *The year we thought about love*, by E. Brodsky, Dir.]",
+        "volume": "3",
+        "url": "http://doi.apa.org/getdoi.cfm?doi=10.1037/sgd0000205",
+        "doi": "10.1037/sgd0000205",
+        "pages": "499\u2013500",
+        "number": "4",
+        "journaltitle": "Psychology of Sexual Orientation and Gender Diversity",
+        "shortjournal": "Psychology of Sexual Orientation and Gender Diversity",
+        "author": "Mirabito, L. A., & Heck, N. C.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2016"
+        },
+        "id": "mirabito_bringing_2016",
+        "sortingStr": "Mirabito2016Bringing LGBTQ youth theater into the spotlight [Review of the film *The year we thought about love*, by E. Brodsky, Dir.]"
+    },
+    "national_aeronautics_and_space_administration_nasa_im_2018": {
+        "bibType": "online",
+        "title": "I\u2019m NASA astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight!",
+        "url": "https://www.reddit.com/r/IAmA/comments/9fagqy/im_nasa_astronaut_scott_tingle_ask_me_anything/",
+        "titleaddon": "Reddit",
+        "author": "National Aeronautics and Space Administration [nasa]",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "September",
+            "day": "12"
+        },
+        "medium": "Online forum post",
+        "id": "national_aeronautics_and_space_administration_nasa_im_2018",
+        "sortingStr": "National Aeronautics and Space Administration [nasa]2018I\u2019m NASA astronaut Scott Tingle. Ask me anything about adjusting to being back on Earth after my first spaceflight!"
+    },
+    "national_cancer_institute_facing_2018": {
+        "bibType": "report",
+        "title": "Facing forward: Life after cancer treatment",
+        "url": "https://www.cancer.gov/publications/patient-education/life- after-treatment.pdf",
+        "number": "NIH Publication No. 18-2424",
+        "institution": "U.S. Department of Health and Human Services, National Institutes of Health",
+        "author": "National Cancer Institute",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018"
+        },
+        "id": "national_cancer_institute_facing_2018",
+        "sortingStr": "National Cancer Institute2018Facing forward: Life after cancer treatment"
+    },
+    "national_center_for_education_statistics_fast_2016": {
+        "bibType": "misc",
+        "title": "Fast Response Survey System (FRSS): Teachers' Use of Educational Technology in U.S. Public Schools, 2009",
+        "url": "http://www.icpsr.umich.edu/icpsrweb/NADAC/studies/35531/version/3",
+        "shorttitle": "Fast Response Survey System (FRSS)",
+        "author": "National Center For Education Statistics",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "11"
+        },
+        "date": {
+            "year": "2016"
+        },
+        "doi": "\"10.3886/ICPSR35531.V3\"",
+        "medium": "Data set and code book",
+        "collectionTitle": "National Archive of Data on Arts and Culture",
+        "version": "ICPSR 35531; Version V3",
+        "id": "national_center_for_education_statistics_fast_2016",
+        "sortingStr": "National Center For Education Statistics2016Fast Response Survey System (FRSS): Teachers' Use of Educational Technology in U.S. Public Schools, 2009"
+    },
+    "national_institute_of_mental_health_suicide_2018": {
+        "bibType": "online",
+        "title": "Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain",
+        "url": "http://bit.ly/321Qstq",
+        "titleaddon": "Facebook",
+        "author": "National Institute of Mental Health",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "November",
+            "day": "28"
+        },
+        "medium": "Infographic",
+        "id": "national_institute_of_mental_health_suicide_2018",
+        "sortingStr": "National Institute of Mental Health2018Suicide affects all ages, genders, races, and ethnicities. Check out these 5 Action Steps for Helping Someone in Emotional Pain"
+    },
+    "national_nurses_united_what_nodate": {
+        "bibType": "online",
+        "title": "What Employers Should Do to Protect Nurses from Zika",
+        "url": "https://www.nationalnursesunited.org/what-employers-should-do-to-protect-rns-from-zika",
+        "author": "National Nurses United",
+        "multipleAuthors": false,
+        "id": "national_nurses_united_what_nodate",
+        "sortingStr": "National Nurses UnitedWhat Employers Should Do to Protect Nurses from Zika"
+    },
+    "oshea_understanding_2018": {
+        "bibType": "unpublished",
+        "location": "Department of Management, University of Kansas",
+        "title": "Understanding proactive behavior in the workplace as a function of gender",
+        "type": "Manuscript in preparation",
+        "howpublished": "Manuscript in preparation",
+        "author": "O'Shea, M.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018"
+        },
+        "id": "oshea_understanding_2018",
+        "sortingStr": "O'Shea2018Understanding proactive behavior in the workplace as a function of gender"
+    },
+    "pachur_unpacking_nodate": {
+        "bibType": "article",
+        "title": "Unpacking buyer\u2013seller differences in valuation from experience: A cognitive modeling approach",
+        "journaltitle": "Psychonomic Bulletin & Review",
+        "author": "Pachur, T., & Scheibehenne, B.",
+        "multipleAuthors": true,
+        "issued": "in press",
+        "id": "pachur_unpacking_nodate",
+        "sortingStr": "PachurUnpacking buyer\u2013seller differences in valuation from experience: A cognitive modeling approach"
+    },
+    "pearson_fat_nodate": {
+        "bibType": "unpublished",
+        "location": "Sydney, NSW, Australia",
+        "title": "Fat talk and its effects on state-based body image in women",
+        "url": "http://bit.ly/2XGSThP",
+        "type": "Poster presentation",
+        "howpublished": "Poster presentation",
+        "author": "Pearson, J.",
+        "multipleAuthors": false,
+        "event": "Australian Psychological Society Congress",
+        "issued": {
+            "start": {
+                "year": "2018",
+                "month": "September",
+                "day": "27"
+            },
+            "end": {
+                "year": "2018",
+                "month": "September",
+                "day": "30"
+            }
+        },
+        "id": "pearson_fat_nodate",
+        "sortingStr": "PearsonFat talk and its effects on state-based body image in women"
+    },
+    "perkins_good_2018": {
+        "bibType": "online",
+        "title": "The Good Place ends its remarkable second season with irrational hope, unexpected gifts, and a smile [Review of the TV series episode *Somewhere else*, by M. Schur, Writer & Dir.]",
+        "url": "https://www.avclub.com/the-good-place-ends-its-remarkable-second-season-with-i-1822649316",
+        "titleaddon": "A.V. Club",
+        "author": "Perkins, D.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "February",
+            "day": "1"
+        },
+        "id": "perkins_good_2018",
+        "sortingStr": "Perkins2018The Good Place ends its remarkable second season with irrational hope, unexpected gifts, and a smile [Review of the TV series episode *Somewhere else*, by M. Schur, Writer & Dir.]"
+    },
+    "pew_research_center_american_2018": {
+        "bibType": "misc",
+        "title": "American trends panel Wave 26",
+        "url": "https://www.pewsocialtrends.org/dataset/american-trends-panel-wave-26/",
+        "author": "Pew Research Center",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018"
+        },
+        "medium": "Data Set",
+        "id": "pew_research_center_american_2018",
+        "sortingStr": "Pew Research Center2018American trends panel Wave 26"
+    },
+    "piaget_psychologie_1966": {
+        "bibType": "book",
+        "title": "La psychologie de l\u2019enfant [The psychology of the child]",
+        "publisher": "Quadrige",
+        "author": "Piaget, J., & Inhelder, B.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "1966"
+        },
+        "id": "piaget_psychologie_1966",
+        "sortingStr": "Piaget1966La psychologie de l\u2019enfant [The psychology of the child]"
+    },
+    "piaget_psychology_1969": {
+        "bibType": "book",
+        "location": "London",
+        "edition": "2",
+        "title": "The Psychology of the Child",
+        "pagetotal": "187",
+        "publisher": "Basic Books",
+        "author": "Piaget, J., & Inhelder, B.",
+        "multipleAuthors": true,
+        "translator": "Weaver, H.",
+        "multipleTranslator": false,
+        "translatorStraight": "H. Weaver",
+        "date": {
+            "year": "1969"
+        },
+        "originalDate": "1966",
+        "id": "piaget_psychology_1969",
+        "sortingStr": "Piaget1969The Psychology of the Child"
+    },
+    "pridham_guided_2018": {
+        "bibType": "collection",
+        "edition": "1",
+        "title": "Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children, and Adolescents",
+        "url": "http://a.co/0IAiVgt",
+        "shorttitle": "Guided Participation in Pediatric Nursing Practice",
+        "pagetotal": "458",
+        "publisher": "Springer Publishing Company",
+        "editor": "Pridham, K. F., Limbo, R., & Schroeder, M.",
+        "multipleEditor": true,
+        "editorStraight": "K. F. Pridham, R. Limbo, & M. Schroeder",
+        "date": {
+            "year": "2018"
+        },
+        "id": "pridham_guided_2018",
+        "sortingStr": "Pridham2018Guided Participation in Pediatric Nursing Practice: Relationship-Based Teaching and Learning with Parents, Children, and Adolescents"
+    },
+    "rinaldi_notitle_2016": {
+        "bibType": "artwork",
+        "url": "https://www.pulitzer.org/winners/jessica-rinaldi",
+        "author": "Rinaldi, J.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2016"
+        },
+        "medium": "Photograph series of a boy who finds his footing after abuse by those he trusted",
+        "collectionTitle": "The Pulitzer Prizes",
+        "id": "rinaldi_notitle_2016",
+        "sortingStr": "Rinaldi2016"
+    },
+    "santos_reframing_2019": {
+        "bibType": "article",
+        "title": "Reframing refugee children\u2019s stories [Review of the book *We are displaced: My journey and stories from refugee girls around the world*, by M. Yousafzai]",
+        "url": "https://nyti.ms/2Hlgjk3",
+        "journaltitle": "The New York Times",
+        "author": "Santos, F.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2019",
+            "month": "January",
+            "day": "11"
+        },
+        "id": "santos_reframing_2019",
+        "sortingStr": "Santos2019Reframing refugee children\u2019s stories [Review of the book *We are displaced: My journey and stories from refugee girls around the world*, by M. Yousafzai]"
+    },
+    "schmid_entrenchment_2017": {
+        "bibType": "collection",
+        "location": "Washington",
+        "title": "Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge",
+        "url": "http://content.apa.org/books/15969-000",
+        "shorttitle": "Entrenchment and the psychology of language learning",
+        "publisher": "American Psychological Association; De Gruyter Mouton",
+        "editor": "Schmid, H.-J.",
+        "multipleEditor": false,
+        "editorStraight": "H.-J. Schmid",
+        "urldate": {
+            "year": "2020",
+            "month": "July",
+            "day": "8"
+        },
+        "date": {
+            "year": "2017"
+        },
+        "doi": "10.1037/15969-000",
+        "id": "schmid_entrenchment_2017",
+        "sortingStr": "Schmid2017Entrenchment and the psychology of language learning: How we reorganize and adapt linguistic knowledge"
+    },
+    "smithsonians_national_zoo_and_conservation_biology_institute_home_nodate": {
+        "bibType": "online",
+        "title": "Home",
+        "url": "https://www.facebook.com/nationalzoo/",
+        "titleaddon": "Facebook",
+        "author": "Smithsonian\u2019s National Zoo and Conservation Biology Institute",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "July",
+            "day": "22"
+        },
+        "medium": "Facebook page",
+        "id": "smithsonians_national_zoo_and_conservation_biology_institute_home_nodate",
+        "sortingStr": "Smithsonian\u2019s National Zoo and Conservation Biology InstituteHome"
+    },
+    "stults-kolehmainen_effects_2015": {
+        "bibType": "article",
+        "title": "The effects of stress on physical activity and exercise",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894304",
+        "author": "Stults-Kolehmainen, M. A., & Sinha, R.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2015"
+        },
+        "id": "stults-kolehmainen_effects_2015",
+        "sortingStr": "Stults-Kolehmainen2015The effects of stress on physical activity and exercise"
+    },
+    "ted_brene_2012": {
+        "bibType": "video",
+        "title": "Bren\u00e9 Brown: Listening to shame",
+        "url": "https://www.youtube.com/watch?v=psN1DORYYV0",
+        "author": "TED",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2012",
+            "month": "March",
+            "day": "16"
+        },
+        "medium": "Video",
+        "collectionTitle": "YouTube",
+        "id": "ted_brene_2012",
+        "sortingStr": "TED2012Bren\u00e9 Brown: Listening to shame"
+    },
+    "tafoya_back_2005": {
+        "bibType": "incollection",
+        "edition": "3",
+        "title": "Back to the future: An examination of the Native American Holocaust experience",
+        "url": "http://a.co/36xRhBT",
+        "pages": "55\u201363",
+        "booktitle": "Ethnicity and family therapy",
+        "publisher": "Guilford Press",
+        "author": "Tafoya, N., & Del Vecchio, A.",
+        "multipleAuthors": true,
+        "editor": "McGoldrick, M., Giordano, J., & Garcia-Preto, N.",
+        "multipleEditor": true,
+        "editorStraight": "M. McGoldrick, J. Giordano, & N. Garcia-Preto",
+        "date": {
+            "year": "2005"
+        },
+        "id": "tafoya_back_2005",
+        "sortingStr": "Tafoya2005Back to the future: An examination of the Native American Holocaust experience"
+    },
+    "the_new_york_public_library_nypl_raven_nodate": {
+        "bibType": "online",
+        "title": "The Raven",
+        "url": "https://bitly.com/2FV8bu3",
+        "titleaddon": "Instagram",
+        "author": "The New York Public Library [@nypl]",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "April",
+            "day": "16"
+        },
+        "medium": "Highlight",
+        "id": "the_new_york_public_library_nypl_raven_nodate",
+        "sortingStr": "The New York Public Library [@nypl]The Raven"
+    },
+    "simon_wire_nodate": {
+        "bibType": "misc",
+        "title": "The wire",
+        "publisher": "Blown Deadline Productions; HBO",
+        "editora": "Simon, D., Colesberry, R. F., & Kostroff Noble, N.",
+        "multipleEditora": true,
+        "editoraStraight": "D. Simon, R. F. Colesberry, & N. Kostroff Noble",
+        "editoratype": "collaborator",
+        "medium": "TV series",
+        "issued": {
+            "start": {
+                "year": "2002"
+            },
+            "end": {
+                "year": "2008"
+            }
+        },
+        "id": "simon_wire_nodate",
+        "sortingStr": "The wire"
+    },
+    "us_census_bureau_us_nodate": {
+        "bibType": "online",
+        "title": "U.S. and world population clock",
+        "url": "https://www.census.gov/popclock/",
+        "titleaddon": "U.S. Department of Commerce",
+        "author": "U.S. Census Bureau",
+        "multipleAuthors": false,
+        "urldate": {
+            "year": "2019",
+            "month": "July",
+            "day": "3"
+        },
+        "id": "us_census_bureau_us_nodate",
+        "sortingStr": "U.S. Census BureauU.S. and world population clock"
+    },
+    "us_food_and_drug_administration_fda_2019": {
+        "bibType": "misc",
+        "title": "FDA authorizes first interoperable insulin pump intended to allow patients to customize treatment through their individual diabetes management devices",
+        "url": "https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm631412.htm",
+        "author": "U.S. Food and Drug Administration",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2019",
+            "month": "February",
+            "day": "14"
+        },
+        "medium": "Press release",
+        "id": "us_food_and_drug_administration_fda_2019",
+        "sortingStr": "U.S. Food and Drug Administration2019FDA authorizes first interoperable insulin pump intended to allow patients to customize treatment through their individual diabetes management devices"
+    },
+    "us_securities_and_exchange_commission_agency_2017": {
+        "bibType": "report",
+        "title": "Agency financial report: Fiscal year 2017",
+        "url": "https://www.sec.gov/files/sec- 2017-agency-financial-report.pdf",
+        "author": "U.S. Securities and Exchange Commission",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2017"
+        },
+        "id": "us_securities_and_exchange_commission_agency_2017",
+        "sortingStr": "U.S. Securities and Exchange Commission2017Agency financial report: Fiscal year 2017"
+    },
+    "weir_forgiveness_2017": {
+        "bibType": "article",
+        "title": "Forgiveness can improve mental and physical health",
+        "volume": "48",
+        "pages": "30",
+        "number": "1",
+        "journaltitle": "Monitor on Psychology",
+        "author": "Weir, K.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2017",
+            "month": "January"
+        },
+        "id": "weir_forgiveness_2017",
+        "sortingStr": "Weir2017Forgiveness can improve mental and physical health"
+    },
+    "white_b_bettymwhite_i_2018": {
+        "bibType": "online",
+        "title": "I treasure every minute we spent together #koko",
+        "url": "https://twitter.com/BettyMWhite/status/1009951892846227456",
+        "shorttitle": "Betty White su Twitter",
+        "titleaddon": "Twitter",
+        "author": "White, B. [@BettyMWhite]",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "June",
+            "day": "21"
+        },
+        "medium": "Image attached] [Tweet",
+        "id": "white_b_bettymwhite_i_2018",
+        "sortingStr": "White2018I treasure every minute we spent together #koko"
+    },
+    "wood_american_1930": {
+        "bibType": "artwork",
+        "title": "American gothic",
+        "url": "https://www.artic.edu/aic/collections/artwork/6565",
+        "author": "Wood, G.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1930"
+        },
+        "medium": "Painting",
+        "collectionTitle": "Art Institute of Chicago, Chicago, IL, United States",
+        "id": "wood_american_1930",
+        "sortingStr": "Wood1930American gothic"
+    },
+    "world_health_organization_international_2019": {
+        "bibType": "book",
+        "edition": "11",
+        "title": "International statistical classification of diseases and related health problems",
+        "url": "https://icd.who.int/",
+        "author": "World Health Organization",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2019"
+        },
+        "id": "world_health_organization_international_2019",
+        "sortingStr": "World Health Organization2019International statistical classification of diseases and related health problems"
+    },
+    "yoo_linking_2016": {
+        "bibType": "unpublished",
+        "location": "Department of Psychology, University of Wisconsin-Madison",
+        "title": "Linking positive affect to blood lipids: A cultural perspective",
+        "type": "Unpublished manuscript",
+        "howpublished": "Unpublished manuscript",
+        "author": "Yoo, J., Miyamoto, Y., Rigotti, A., & Ryff, C.",
+        "multipleAuthors": true,
+        "date": {
+            "year": "2016"
+        },
+        "id": "yoo_linking_2016",
+        "sortingStr": "Yoo2016Linking positive affect to blood lipids: A cultural perspective"
+    },
+    "zalta_stanford_2019": {
+        "bibType": "collection",
+        "edition": "Summer 2019",
+        "title": "The Stanford encyclopedia of philosophy",
+        "url": "https://plato.stanford.edu/archives/sum2019/",
+        "publisher": "Stanford University",
+        "editor": "Zalta, E. N.",
+        "multipleEditor": false,
+        "editorStraight": "E. N. Zalta",
+        "date": {
+            "year": "2019"
+        },
+        "id": "zalta_stanford_2019",
+        "sortingStr": "Zalta2019The Stanford encyclopedia of philosophy"
+    },
+    "zeitz_mocaa_zeitzmocaa_grade_2018": {
+        "bibType": "online",
+        "title": "Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by our Centre for Art\u2026",
+        "url": "https://www.instagram.com/p/BqpHpjFBs3b/",
+        "titleaddon": "Instagram",
+        "author": "Zeitz MOCAA [@zeitzmocaa]",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2018",
+            "month": "November",
+            "day": "26"
+        },
+        "medium": "Photographs",
+        "id": "zeitz_mocaa_zeitzmocaa_grade_2018",
+        "sortingStr": "Zeitz MOCAA [@zeitzmocaa]2018Grade 6 learners from Parkfields Primary School in Hanover Park visited the museum for a tour and workshop hosted by our Centre for Art\u2026"
+    },
+    "google_google_nodate": {
+        "bibType": "misc",
+        "title": "[Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru]",
+        "url": "https://goo.gl/YYE3GR",
+        "editora": "Google",
+        "multipleEditora": false,
+        "editoraStraight": " Google",
+        "editoratype": "collaborator",
+        "urldate": {
+            "year": "2020",
+            "month": "February",
+            "day": "16"
+        },
+        "medium": "Map",
+        "id": "google_google_nodate",
+        "sortingStr": "[Google Maps directions for driving from La Paz, Bolivia, to Lima, Peru]"
+    }
+}

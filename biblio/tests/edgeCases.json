@@ -1,0 +1,174 @@
+{
+    "alfredson_t_director_lat_2008": {
+        "bibType": "movie",
+        "title": "L\u00e5t den r\u00e4tte komma in [Let the right one in]",
+        "publisher": "Magnolia",
+        "author": "Alfredson, T. (Director)",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2008"
+        },
+        "medium": "Film",
+        "id": "alfredson_t_director_lat_2008",
+        "sortingStr": "Alfredson2008L\u00e5t den r\u00e4tte komma in [Let the right one in]"
+    },
+    "bonini_lessing_notazioni_2010": {
+        "bibType": "article",
+        "title": "Notazioni sinsemiche di processi interattivi",
+        "pages": "85\u201391",
+        "number": "43",
+        "journaltitle": "Il Verri \u2013 Newbasic",
+        "author": "Bonini Lessing, E.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2010"
+        },
+        "id": "bonini_lessing_notazioni_2010",
+        "sortingStr": "Bonini Lessing2010Notazioni sinsemiche di processi interattivi"
+    },
+    "bourdieu_il_2003": {
+        "bibType": "book",
+        "location": "Milano",
+        "title": "Il mestiere di scienziato. Corso al college de France 2000-2001",
+        "series": "Campi del sapere",
+        "publisher": "Feltrinelli",
+        "author": "Bourdieu, P.",
+        "multipleAuthors": false,
+        "translator": "Serra, A.",
+        "multipleTranslator": false,
+        "translatorStraight": "A. Serra",
+        "date": {
+            "year": "2003a"
+        },
+        "originalDate": "2001",
+        "id": "bourdieu_il_2003",
+        "sortingStr": "Bourdieu2003aIl mestiere di scienziato. Corso al college de France 2000-2001"
+    },
+    "bourdieu_per_2003": {
+        "bibType": "book",
+        "location": "Milano",
+        "title": "Per una teoria della pratica. Con tre studi di etnologia cabila",
+        "series": "Culture e societ\u00e0",
+        "publisher": "Raffaello Cortina Editore",
+        "author": "Bourdieu, P.",
+        "multipleAuthors": false,
+        "translator": "Maffi, I.",
+        "multipleTranslator": false,
+        "translatorStraight": "I. Maffi",
+        "date": {
+            "year": "2003b"
+        },
+        "id": "bourdieu_per_2003",
+        "sortingStr": "Bourdieu2003bPer una teoria della pratica. Con tre studi di etnologia cabila"
+    },
+    "bourzac_child_2012": {
+        "bibType": "article",
+        "title": "Child development: The first steps",
+        "volume": "491",
+        "doi": "http://dx.doi.org/10.1038/491S7a",
+        "pages": "S7",
+        "journaltitle": "Nature",
+        "author": "Bourzac, K.",
+        "multipleAuthors": false,
+        "date": {
+            "year": "2012"
+        },
+        "id": "bourzac_child_2012",
+        "sortingStr": "Bourzac2012Child development: The first steps"
+    },
+    "castle_shadowing_nodate": {
+        "bibType": "article",
+        "title": "Shadowing a police officer: How to be unobtrusive while solving cases in spectacular fashion",
+        "journaltitle": "Professional Writers\u2019 Journal",
+        "author": "Castle, R.",
+        "multipleAuthors": false,
+        "issued": "in press",
+        "id": "castle_shadowing_nodate",
+        "sortingStr": "CastleShadowing a police officer: How to be unobtrusive while solving cases in spectacular fashion"
+    },
+    "favreau_j_writer_chapter_2019": {
+        "bibType": "misc",
+        "title": "Chapter 1",
+        "number": "Season 1, Episode 1",
+        "titleaddon": "The Mandalorian",
+        "publisher": "Lucasfilm; Golem Creations",
+        "author": "Favreau, J. (Writer), & Filoni, D. (Director)",
+        "multipleAuthors": true,
+        "editora": "Favreau, J., Filoni, D., Kennedy, K., & Wilson, C.",
+        "multipleEditora": true,
+        "editoraStraight": "J. Favreau, D. Filoni, K. Kennedy, & C. Wilson",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "2019",
+            "month": "November",
+            "day": "12"
+        },
+        "medium": "TV series episode",
+        "id": "favreau_j_writer_chapter_2019",
+        "sortingStr": "Favreau2019Chapter 1"
+    },
+    "fleming_v_director_gone_1939": {
+        "bibType": "movie",
+        "title": "Gone with the wind",
+        "publisher": "Selznick International Pictures; Metro-Goldwyn-Mayer",
+        "author": "Fleming, V. (Director)",
+        "multipleAuthors": false,
+        "date": {
+            "year": "1939"
+        },
+        "medium": "Film",
+        "id": "fleming_v_director_gone_1939",
+        "sortingStr": "Fleming1939Gone with the wind"
+    },
+    "sherman-palladino_a_writer__director_all_2018": {
+        "bibType": "misc",
+        "title": "All alone",
+        "number": "Season 2, Episode 10",
+        "titleaddon": "The marvelous Mrs. Maisel",
+        "publisher": "Dorothy Parker Drank Here Productions; Picrow; Amazon Studios",
+        "author": "Sherman-Palladino, A. (Writer \\& Director)",
+        "multipleAuthors": false,
+        "editora": "Sherman-Palladino, A., Filoni, D., Palladino, D., Gilbert, D., Shapiro, M., Carino, S., & Lawrence, S.",
+        "multipleEditora": true,
+        "editoraStraight": "A. Sherman-Palladino, D. Filoni, D. Palladino, D. Gilbert, M. Shapiro, S. Carino, & S. Lawrence",
+        "editoratype": "collaborator",
+        "date": {
+            "year": "2018",
+            "month": "December",
+            "day": "5"
+        },
+        "medium": "TV series episode",
+        "id": "sherman-palladino_a_writer__director_all_2018",
+        "sortingStr": "Sherman-Palladino2018All alone"
+    },
+    "smith_language_nodate": {
+        "bibType": "article",
+        "title": "Language acquisition among autistic children",
+        "journaltitle": "Journal of Developmental Psychology",
+        "author": "Smith, J. M., & Davis, H.",
+        "multipleAuthors": true,
+        "issued": "in press",
+        "id": "smith_language_nodate",
+        "sortingStr": "SmithLanguage acquisition among autistic children"
+    },
+    "serling_r_twilight_nodate": {
+        "bibType": "misc",
+        "title": "The twilight zone",
+        "publisher": "Cayuga Productions; CBS Productions",
+        "editora": "Serling, R.",
+        "multipleEditora": false,
+        "editoraStraight": " Serling, R.",
+        "editoratype": "collaborator",
+        "medium": "TV series",
+        "issued": {
+            "start": {
+                "year": "1959"
+            },
+            "end": {
+                "year": "1964"
+            }
+        },
+        "id": "serling_r_twilight_nodate",
+        "sortingStr": "The twilight zone"
+    }
+}
