@@ -8,9 +8,9 @@
 from pathlib import Path
 import subprocess
 import json
-from biblio.fromBibLatexToJSON import fromBIBtoJSON
-from biblio.renderBibliography import generateBibliography
-from texts.parsing import MarkdownParser, glueArticle
+from references.fromBibLatexToJSON import fromBIBtoJSON
+from references.renderBibliography import generateBibliography
+from body.parsing import MarkdownParser, glueArticle
 
 # -- Constants -- #
 
