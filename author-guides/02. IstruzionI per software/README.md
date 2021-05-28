@@ -214,3 +214,20 @@ Per l’uso corretto dei reference si rimanda alla sezione a questo `<link>`.
 
 
 
+### 2.2.3. Creazione della propria collezione di reference per l'invio alla redazione
+
+Una volta installato Zotero e preso visione degli esempi di reference forniti da Bembo OE, gli autori possono procedere a creare la propria collezione da inviare poi alla redazione una volta completato lo scritto.
+
+Per creare una nuova collezione vuota in Zotero:
+
+Cliccare sul menù File e sull'opzione Nuova collezione/New collection
+
+![Figura 8. Creazione della propria collezione di reference in Zotero, step 1, Menù File e opzione Nuova collezione](_img/fig8_zotero collection_step1.png "Fig. 8. Creazione della propria collezione di reference in Zotero, step 1")
+
+Verrà mostrata una finestra dove sarà possibile dare un nome a piacere alla propria collezione
+
+![Figura 9. Creazione della propria collezione di reference in Zotero, step 2, pop-up menù dove inserire il nome della collezione](_img/fig9_zotero collection_step2.png "Fig. 9. Creazione della propria collezione di reference in Zotero, step 1")
+
+Scelto il nome, verrà visualizzata la propria collezione, vuota, pronta per essere riempita con le proprie reference seguendo le indicazioni fornite alla sezione 4 della presente guida all’indirizzo `link`
+
+![Figura 10. Creazione della propria collezione di reference in Zotero, step 3, visualizzazione della collezione creata, ma ancora vuota](_img/fig10_zotero collection_step3.png "Fig. 9. Creazione della propria collezione di reference in Zotero, step 3")
