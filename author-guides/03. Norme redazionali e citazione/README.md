@@ -587,7 +587,5 @@ Le tabelle devono essere numerate e denominate in maniera distintiva.
    </tbody>
 </table>
 
-Le tabelle vanno composte in bianco e nero, con carattere Verdana corpo 11,8 pt, interlinea 13,2 pt, spessore tracce 0,5pt.
-
 Il titolo delle tabelle va inserito nella didascalia.
  
