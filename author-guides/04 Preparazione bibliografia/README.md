@@ -797,9 +797,7 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>presentation</td>
             <td>title, presenter, type, place, extra</td>
             <td>URL</td>
-            <td>add on Type field: Conference Session or Panel Conference
-add on Extra field the period with the form: issued: "2017-07-12/2017-07-15"
-add on Extra field Conference's name with the form: event:"Autism Society National Conference"</td></tr>
+            <td>add on Type field: Conference Session or Panel Conference;<br>add on Extra field the period with the form: issued: "2017-07-12/2017-07-15";<br>add on Extra field Conference's name with the form: event:"Autism Society National Conference"</td></tr>
     <tr>
             <td>Conference Sessions & Presentations</td>
             <td>paper presentation</td>
