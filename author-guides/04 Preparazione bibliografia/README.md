@@ -411,9 +411,7 @@ Nel raro caso in cui possa capitare un tipo di reference da citare che non è in
 <!-- START AUTOMATIC REFERENCES TABLE -->
 <table>
 <tr><th>APA category</th><th>APA prototype</th><th>Reference</th><th>Zotero item type</th><th>Required fields</th><th>Optional fields</th><th>Notes</th></tr>
-
     <tr><td colspan="7"><strong>APA Custom Edge Cases</strong></td></tr>
-
     <tr>
             <td>Articles</td>
             <td>journal article without issue number</td>
@@ -422,7 +420,6 @@ Nel raro caso in cui possa capitare un tipo di reference da citare che non è in
             <td>title, author, pubblication, volume, pages, date, DOI</td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>Articles</td>
             <td>journal article without volume number</td>
@@ -431,7 +428,6 @@ Nel raro caso in cui possa capitare un tipo di reference da citare che non è in
             <td>title, author, publication, issue, pages, date</td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>authored books from the same author, published in the same year</td>
@@ -440,7 +436,6 @@ Nel raro caso in cui possa capitare un tipo di reference da citare che non è in
             <td>title, author, translator, series, publisher, date, ISBN, extra</td>
             <td></td>
             <td> add on Extra field: Original Date: "2001"</td></tr>
-
     <tr>
             <td>
 Book / Ebook / Audio Book</td>
@@ -450,7 +445,6 @@ Book / Ebook / Audio Book</td>
             <td>title, author, translator, series, volume, publisher, date, ISBN</td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>
 Film, video, tv series</td>
@@ -460,7 +454,6 @@ Film, video, tv series</td>
             <td>title, director, distributor, date, extra</td>
             <td></td>
             <td> add on Extra field: Medium "Film"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>Film or video in another language</td>
@@ -469,7 +462,6 @@ Film, video, tv series</td>
             <td>title, director, distributor, date, extra</td>
             <td></td>
             <td> add on Extra field: Medium "Film"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>TV series</td>
@@ -481,7 +473,6 @@ Film, video, tv series</td>
 add on Exttra field:
 Medium: "TV series"
 Issued: "1959/1964"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>TV series episode or webisode</td>
@@ -492,7 +483,6 @@ Issued: "1959/1964"</td></tr>
             <td>add on Director field: Favreau, J. (Writer)
 add on Director field: Filoni, D. (Director)
 add on Extra field: Medium "TV series episode"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>TV series episode or webisode</td>
@@ -504,7 +494,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
 add on Extra field: Medium "TV series episode"</td></tr>
 
     <tr><td colspan="7"><strong>APA 7th CASES 2020-2021</strong></td></tr>
-
     <tr>
             <td>Articles</td>
             <td>newspaper article</td>
@@ -513,7 +502,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>pages</td>
             <td>dates should include day and month</td></tr>
-
     <tr>
             <td>Articles</td>
             <td>magazine article</td>
@@ -522,7 +510,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>volume, issue, pages, DOI</td>
             <td>add only month and date after year; between DOI and URL the sysyem prefers DOI</td></tr>
-
     <tr>
             <td>Articles</td>
             <td>magazine article</td>
@@ -531,7 +518,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>URL</td>
             <td>add only month and date after year; between DOI and URL the sysyem prefers DOI</td></tr>
-
     <tr>
             <td>Articles</td>
             <td>magazine article</td>
@@ -540,7 +526,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>volume, issue, pages</td>
             <td>add only month and date after year; between DOI and URL the sysyem prefers DOI</td></tr>
-
     <tr>
             <td>Articles</td>
             <td>journal article with DOI</td>
@@ -549,7 +534,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>volume, issue, pages, DOI </td>
             <td></td></tr>
-
     <tr>
             <td>Articles</td>
             <td>journal, magazine, or newspaper article without a DOI, from most academic research databases or print version</td>
@@ -558,7 +542,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>volume, issue, pages</td>
             <td></td></tr>
-
     <tr>
             <td>Articles</td>
             <td>journal article with a DOI, 21 or more authours</td>
@@ -567,7 +550,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>volume, issue, pages, DOI</td>
             <td></td></tr>
-
     <tr>
             <td>Articles</td>
             <td>journal article, in press</td>
@@ -576,7 +558,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td></td>
             <td>for date use in press</td></tr>
-
     <tr>
             <td>Articles</td>
             <td>special section or special issue in a journal</td>
@@ -585,7 +566,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>volume, issue, pages</td>
             <td>title should include [Special section], after title</td></tr>
-
     <tr>
             <td>Articles</td>
             <td>special section or special issue in a journal</td>
@@ -594,7 +574,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>volume, issue</td>
             <td>title should include [Special issue], after title</td></tr>
-
     <tr>
             <td>Articles</td>
             <td>editorial</td>
@@ -603,7 +582,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, publication, date</td>
             <td>volume, issue, pages, DOI</td>
             <td>title should include [Editorial], after title</td></tr>
-
     <tr>
             <td>Reviews</td>
             <td>film review published in a journal</td>
@@ -612,7 +590,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, date</td>
             <td>publication, volume, issue, pages, DOI</td>
             <td>title should include [Review of Title of work reviewed, by Author], after title</td></tr>
-
     <tr>
             <td>Reviews</td>
             <td>book review published in a newspaper</td>
@@ -621,7 +598,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, date</td>
             <td>publication, URL</td>
             <td>title should include [Review of Title of work reviewed, by Author], after title</td></tr>
-
     <tr>
             <td>Reviews</td>
             <td>tv series episode review published on a website</td>
@@ -630,7 +606,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, date</td>
             <td>web title, URL</td>
             <td></td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>authored book with a DOI</td>
@@ -639,7 +614,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>publisher, author, DOI</td>
             <td></td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>authored book with editor credited on the book cover</td>
@@ -648,7 +622,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>publisher, author, editor</td>
             <td></td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>edited book without a DOI, from most academic research databases or print version</td>
@@ -657,7 +630,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>editor, publisher</td>
             <td></td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>edited book with a DOI, with multiple publishers</td>
@@ -666,7 +638,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>DOI, publisher</td>
             <td>more than one editor required semicolon</td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>book in another language</td>
@@ -675,7 +646,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>author, volume, publisher</td>
             <td>title should include [The translated title], after title</td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>book in another language</td>
@@ -684,7 +654,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>author, publisher</td>
             <td>title should include [The translated title], after title</td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>republished book</td>
@@ -693,7 +662,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>author, editor, translator, publisher, extra</td>
             <td>add the original edition on Extra field with the form: Original Date: yyyy</td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>book republished in translation</td>
@@ -702,7 +670,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>author, translator, edition, publisher, extra</td>
             <td>add the original edition on Extra field with the form: Original Date: yyyy</td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>one volume of a multivolume work</td>
@@ -711,7 +678,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>editor, volume, edition, publisher, DOI</td>
             <td></td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>diagnostic manual (DSM, ICD)</td>
@@ -720,7 +686,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>author, edition, publisher, DOI</td>
             <td></td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>diagnostic manual (DSM, ICD)</td>
@@ -729,7 +694,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date</td>
             <td>author, edition, publisher, URL</td>
             <td></td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>dictionary, thesaurus, or encyclopedia</td>
@@ -738,7 +702,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date, URL</td>
             <td>author, accessed</td>
             <td>add on Date field the form: n.d.</td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>dictionary, thesaurus, or encyclopedia</td>
@@ -747,7 +710,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date, URL</td>
             <td>accessed</td>
             <td>add on Date field the form: n.d.</td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>dictionary, thesaurus, or encyclopedia</td>
@@ -756,7 +718,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date, URL</td>
             <td>editor, edition, publisher</td>
             <td></td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>authored ebook (e.g., Kindle book) or audiobook without a DOI, with a nondatabase URL</td>
@@ -765,7 +726,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date, URL</td>
             <td>author, publisher, extra</td>
             <td> add on Extra field: Medium "Audiobook" wordsBy: "K.Mazur"</td></tr>
-
     <tr>
             <td>Book / Ebook / Audio Book</td>
             <td>edited ebook (e.g., Kindle book) or audiobook without a DOI, with a nondatabase URL</td>
@@ -774,7 +734,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, date, URL</td>
             <td>editor, edition, publisher</td>
             <td></td></tr>
-
     <tr>
             <td>Book Chapters and Entries in Reference Works</td>
             <td>chapter in an edited book with a DOI</td>
@@ -783,7 +742,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, editor, book title, publisher, date</td>
             <td>edition, DOI</td>
             <td></td></tr>
-
     <tr>
             <td>Book Chapters and Entries in Reference Works</td>
             <td>chapter in an edited ebook (e.g., Kindle book) or audiobook without a DOI, with nondatabase URL</td>
@@ -792,7 +750,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, editor, book title, publisher, date</td>
             <td>edition, pages, URL</td>
             <td></td></tr>
-
     <tr>
             <td>Book Chapters and Entries in Reference Works</td>
             <td>chapter in a volume of a multivolume work</td>
@@ -801,7 +758,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, editor, book title, publisher, date</td>
             <td>volume, edition, pages, DOI</td>
             <td>add the information about number and title of volume on Volume field: Number of Volume. Title of Volume</td></tr>
-
     <tr>
             <td>Book Chapters and Entries in Reference Works</td>
             <td>work in anthology</td>
@@ -810,7 +766,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, editor, book title, publisher, date</td>
             <td>pages, DOI,  extra</td>
             <td>add the original edition on Extra field with the form: Original Date: yyyy</td></tr>
-
     <tr>
             <td>Entry in a Dictionary, Thesaurus, or Encyclopedia</td>
             <td>entry in a dictionary, thesaurus, or encyclopedia, with group author</td>
@@ -819,7 +774,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, date, URL</td>
             <td>dictionary title, accessed</td>
             <td></td></tr>
-
     <tr>
             <td>Entry in a Dictionary, Thesaurus, or Encyclopedia</td>
             <td>entry in a dictionary, thesaurus, or encyclopedia, with individual author</td>
@@ -828,7 +782,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, date, URL</td>
             <td>editor, encyclopedia title, edition, publisher, date</td>
             <td></td></tr>
-
     <tr>
             <td>Entry in a Dictionary, Thesaurus, or Encyclopedia</td>
             <td>wikipedia entry</td>
@@ -837,7 +790,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>title, author, date, URL</td>
             <td>encyclopedia title</td>
             <td></td></tr>
-
     <tr>
             <td>Conference Sessions & Presentations</td>
             <td>conference session</td>
@@ -848,7 +800,6 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>add on Type field: Conference Session or Panel Conference
 add on Extra field the period with the form: issued: "2017-07-12/2017-07-15"
 add on Extra field Conference's name with the form: event:"Autism Society National Conference"</td></tr>
-
     <tr>
             <td>Conference Sessions & Presentations</td>
             <td>paper presentation</td>
@@ -859,7 +810,6 @@ add on Extra field Conference's name with the form: event:"Autism Society Nation
             <td>add on Type field: Paper presentation
 add on Extra field the period with the form: issued: "2016-03-30/2016-04-02"
 add on Extra field Conference's name with the form: event: "Southeastern Psychological Association 62nd Annual Meeting"</td></tr>
-
     <tr>
             <td>Conference Sessions & Presentations</td>
             <td>poster presentation</td>
@@ -870,7 +820,6 @@ add on Extra field Conference's name with the form: event: "Southeastern Psychol
             <td>add on Type field: Poster presentation
 add on Extra field the period with the form: issued: "2018-09-27/2018-09-30"
 add on Extra field Conference's name with the form: event: "Australian Psychological Society Congress"</td></tr>
-
     <tr>
             <td>Symposium Contribution</td>
             <td></td>
@@ -879,7 +828,6 @@ add on Extra field Conference's name with the form: event: "Australian Psycholog
             <td></td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>Atti di convegno</td>
             <td>/</td>
@@ -888,7 +836,6 @@ add on Extra field Conference's name with the form: event: "Australian Psycholog
             <td>/</td>
             <td>/</td>
             <td>title should include [Conference proceedings], after title</td></tr>
-
     <tr>
             <td>Cataloghi di mostre</td>
             <td>/</td>
@@ -897,7 +844,6 @@ add on Extra field Conference's name with the form: event: "Australian Psycholog
             <td>/</td>
             <td>/</td>
             <td>title should include [Exhibition catalogue], after title</td></tr>
-
     <tr>
             <td>Thesis</td>
             <td>unpublished dissertation or thesis</td>
@@ -906,7 +852,6 @@ add on Extra field Conference's name with the form: event: "Australian Psycholog
             <td>title, author, type, university, date</td>
             <td></td>
             <td>add on Type field: Unpublished doctoral dissertation</td></tr>
-
     <tr>
             <td>Thesis</td>
             <td>dissertation or thesis from a database</td>
@@ -917,7 +862,6 @@ add on Extra field Conference's name with the form: event: "Australian Psycholog
             <td>duplicate on Extra field the same information on Archive field and on Location in Archive field, with the form:
 collection-title: "ProQuest Dissertations and Theses Global"
 collection-number: "Publication No. 10289373"</td></tr>
-
     <tr>
             <td>Thesis</td>
             <td>dissertation or thesis published online (not in a database)</td>
@@ -927,7 +871,6 @@ collection-number: "Publication No. 10289373"</td></tr>
             <td>URL, archive, extra</td>
             <td>duplicate on Extra field the same information on Archive field, with the form:
 collection-title: "William & Mary Digital Archive"</td></tr>
-
     <tr>
             <td>Personal Comunication</td>
             <td></td>
@@ -936,7 +879,6 @@ collection-title: "William & Mary Digital Archive"</td></tr>
             <td></td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>Manuscript + Informally Published Work</td>
             <td>unpublished manuscript</td>
@@ -945,7 +887,6 @@ collection-title: "William & Mary Digital Archive"</td></tr>
             <td>title, author, type, place, date</td>
             <td></td>
             <td>add on Type field: Unpublished manuscript</td></tr>
-
     <tr>
             <td>Manuscript + Informally Published Work</td>
             <td>manuscript in preparation</td>
@@ -954,7 +895,6 @@ collection-title: "William & Mary Digital Archive"</td></tr>
             <td>title, author, type, place, date</td>
             <td></td>
             <td>add on Type field: Manuscript in preparation</td></tr>
-
     <tr>
             <td>Manuscript + Informally Published Work</td>
             <td>manuscript submitted for publication</td>
@@ -963,7 +903,6 @@ collection-title: "William & Mary Digital Archive"</td></tr>
             <td>title, author, type, place, date</td>
             <td></td>
             <td>add on Type field: Manuscript submitted for publication</td></tr>
-
     <tr>
             <td>Manuscript + Informally Published Work</td>
             <td>informally published work, from a preprint archive or an institutional repository</td>
@@ -972,7 +911,6 @@ collection-title: "William & Mary Digital Archive"</td></tr>
             <td></td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>Manuscript + Informally Published Work</td>
             <td>informally published work, from a preprint archive or an institutional repository</td>
@@ -981,7 +919,6 @@ collection-title: "William & Mary Digital Archive"</td></tr>
             <td></td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>Reports</td>
             <td>report by a government agency or other organization</td>
@@ -991,7 +928,6 @@ collection-title: "William & Mary Digital Archive"</td></tr>
             <td>URL</td>
             <td>For reports of organizations and institutions, use the Report tab.
 To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
-
     <tr>
             <td>Reports</td>
             <td>report by a government agency or other organization</td>
@@ -1001,7 +937,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>URL</td>
             <td>For reports of organizations and institutions, use the Report tab.
 To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
-
     <tr>
             <td>Reports</td>
             <td>report by a government agency or other organization</td>
@@ -1011,7 +946,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>URL</td>
             <td>For reports of organizations and institutions, use the Report tab.
 To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
-
     <tr>
             <td>Reports</td>
             <td>report by individual authors at a government agency or other organization</td>
@@ -1021,7 +955,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>URL</td>
             <td>For reports of organizations and institutions, use the Report tab.
 To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
-
     <tr>
             <td>Reports</td>
             <td>report by individual authors at a government agency, published as part of a series</td>
@@ -1031,7 +964,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>URL</td>
             <td>For reports of organizations and institutions, use the Report tab.
 To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
-
     <tr>
             <td>Reports</td>
             <td>report by a task force, working group, or other group</td>
@@ -1040,7 +972,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, date, institution</td>
             <td>URL</td>
             <td>To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
-
     <tr>
             <td>Reports</td>
             <td>annual report</td>
@@ -1049,7 +980,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, date</td>
             <td>URL</td>
             <td>To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
-
     <tr>
             <td>Reports</td>
             <td>Press Release</td>
@@ -1058,7 +988,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, date</td>
             <td>URL</td>
             <td></td></tr>
-
     <tr>
             <td>Blog</td>
             <td>blog post</td>
@@ -1067,7 +996,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, date</td>
             <td>URL</td>
             <td></td></tr>
-
     <tr>
             <td>Blog</td>
             <td>comment on an online periodical article or post</td>
@@ -1076,7 +1004,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, date</td>
             <td>URL</td>
             <td></td></tr>
-
     <tr>
             <td>Social (facebook, twitter, instagram)</td>
             <td>tweet</td>
@@ -1085,7 +1012,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Twitt"</td></tr>
-
     <tr>
             <td>Social (facebook, twitter, instagram)</td>
             <td>tweet</td>
@@ -1094,7 +1020,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Twitt"</td></tr>
-
     <tr>
             <td>Social (facebook, twitter, instagram)</td>
             <td>tweet</td>
@@ -1103,7 +1028,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Twitt"</td></tr>
-
     <tr>
             <td>Social (facebook, twitter, instagram)</td>
             <td>twitter profile</td>
@@ -1112,7 +1036,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Twitter profile"</td></tr>
-
     <tr>
             <td>Social (facebook, twitter, instagram)</td>
             <td>facebook post</td>
@@ -1121,7 +1044,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td></td></tr>
-
     <tr>
             <td>Social (facebook, twitter, instagram)</td>
             <td>facebook post</td>
@@ -1130,7 +1052,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Infographic"</td></tr>
-
     <tr>
             <td>Social (facebook, twitter, instagram)</td>
             <td>facebook page</td>
@@ -1139,7 +1060,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Facebook page"</td></tr>
-
     <tr>
             <td>Social (facebook, twitter, instagram)</td>
             <td>instagram photo or video</td>
@@ -1148,7 +1068,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Photographs"</td></tr>
-
     <tr>
             <td>Social (facebook, twitter, instagram)</td>
             <td>instagram highlight</td>
@@ -1157,7 +1076,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Highlight"</td></tr>
-
     <tr>
             <td>Forum</td>
             <td>Online forum post</td>
@@ -1166,7 +1084,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, forum/listserv title, date</td>
             <td>URL</td>
             <td></td></tr>
-
     <tr>
             <td>Webpages</td>
             <td>Webpage on a news website</td>
@@ -1175,7 +1092,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>institution should be given as the Site Name</td></tr>
-
     <tr>
             <td>Webpages</td>
             <td>Webpage on a news website</td>
@@ -1184,7 +1100,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>institution should be given as the Site Name</td></tr>
-
     <tr>
             <td>Webpages</td>
             <td>Webpage on a website with a group author</td>
@@ -1193,7 +1108,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>institution should be given as the Site Name</td></tr>
-
     <tr>
             <td>Webpages</td>
             <td>Webpage on a website with an individual author</td>
@@ -1202,7 +1116,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>institution should be given as the Site Name</td></tr>
-
     <tr>
             <td>Webpages</td>
             <td>Webpage on a website with no date</td>
@@ -1211,7 +1124,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title</td>
             <td>URL</td>
             <td>institution should be given as the Site Name</td></tr>
-
     <tr>
             <td>Webpages</td>
             <td>Webpage on a website with no date</td>
@@ -1220,7 +1132,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title</td>
             <td>URL</td>
             <td>institution should be given as the Site Name</td></tr>
-
     <tr>
             <td>Webpages</td>
             <td>Webpage on a website with a retrieval date</td>
@@ -1229,7 +1140,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, website title, date</td>
             <td>URL</td>
             <td>institution should be given as the Site Name</td></tr>
-
     <tr>
             <td>Ted talk, Webinar recorded, Youtube video or other streaming video</td>
             <td>Ted Talk</td>
@@ -1238,7 +1148,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, director, date</td>
             <td>URL, archive</td>
             <td>use the field type Extra: Medium "Video" and the field type: Archive "host site name"</td></tr>
-
     <tr>
             <td>Ted talk, Webinar recorded, Youtube video or other streaming video</td>
             <td>Ted Talk</td>
@@ -1247,7 +1156,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, director, date</td>
             <td>URL, archive</td>
             <td>use the field type Extra: Medium "Video" and the field type: Archive "host site name"</td></tr>
-
     <tr>
             <td>Ted talk, Webinar recorded, Youtube video or other streaming video</td>
             <td>Webinar, recorded</td>
@@ -1256,7 +1164,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, director, date</td>
             <td>URL, archive</td>
             <td>use the field type Extra: Medium "Webinar" and the field type: Archive "host site name"</td></tr>
-
     <tr>
             <td>Ted talk, Webinar recorded, Youtube video or other streaming video</td>
             <td>YouTube video or other streaming video (es. Vimeo)</td>
@@ -1265,7 +1172,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, director, date</td>
             <td>URL, archive</td>
             <td>use the field type Extra: Medium "Video" and the field type: Archive "host site name"</td></tr>
-
     <tr>
             <td>Ted talk, Webinar recorded, Youtube video or other streaming video</td>
             <td>YouTube video or other streaming video (es. Vimeo)</td>
@@ -1274,7 +1180,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, director, date</td>
             <td>URL, archive</td>
             <td>manually add Grammar Girl in the "Director" field</td></tr>
-
     <tr>
             <td>Music</td>
             <td>Music album</td>
@@ -1283,7 +1188,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>composer, title, date, volume</td>
             <td>place, label, URL</td>
             <td>to provide details about the album after the title use the field type Extra: Medium "details"; also for the original data field type Extra: Original Date "data"</td></tr>
-
     <tr>
             <td>Music</td>
             <td>Single song/track</td>
@@ -1292,7 +1196,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>composer, title, date, volume</td>
             <td>place, label, URL</td>
             <td></td></tr>
-
     <tr>
             <td>Music</td>
             <td>Single song/track</td>
@@ -1301,7 +1204,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>performer, title, date, volume</td>
             <td>place, label, URL</td>
             <td></td></tr>
-
     <tr>
             <td>Podcast</td>
             <td>Podcast</td>
@@ -1310,7 +1212,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, format, series title, date, archive</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Audio podcast episode"</td></tr>
-
     <tr>
             <td>Podcast</td>
             <td>Podcast episode</td>
@@ -1319,7 +1220,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, format, series title, date, archive</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Audio podcast episode"</td></tr>
-
     <tr>
             <td>Radio, recording</td>
             <td>Radio interview recording in a digital archive</td>
@@ -1328,7 +1228,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, performer, date, archive</td>
             <td>URL</td>
             <td>use the Audio recording tab and then field type Extra: Medium "Interview"; Extra: Collection-title "Studs Terkel Radio Archive"</td></tr>
-
     <tr>
             <td>Radio, recording</td>
             <td>Speech audio recording</td>
@@ -1337,7 +1236,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, performer, date, archive</td>
             <td>URL</td>
             <td>use the Audio recording tab and then field type Extra: Medium "Interview"; Extra: Collection-title "American Rhetoric"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>Film or video</td>
@@ -1346,7 +1244,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, director, date</td>
             <td>URL</td>
             <td>for film and video use the Film tab and then field type Extra: Medium "Film"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>Film or video</td>
@@ -1355,7 +1252,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, director, date</td>
             <td>URL</td>
             <td>for film and video use the Film tab and then field type Extra: Medium "Film, educational DVD"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>Film or video</td>
@@ -1364,7 +1260,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, director, date</td>
             <td>URL</td>
             <td>for film and video use the Film tab and then field type Extra: Medium "Film"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>Film or video in another language</td>
@@ -1373,7 +1268,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, director, date</td>
             <td>URL</td>
             <td>for film and video use the Film tab and then field type Extra: Medium "Film"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>TV series</td>
@@ -1382,7 +1276,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, producer, network, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "TV series"</td></tr>
-
     <tr>
             <td>Film, video, tv series</td>
             <td>TV series episode or webisode</td>
@@ -1391,7 +1284,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, producer, network, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "TV series"</td></tr>
-
     <tr>
             <td>artwork, graphics, maps, photographs</td>
             <td>Artwork in museum or on a museum website</td>
@@ -1400,7 +1292,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>artist, archive, date, title</td>
             <td>URL</td>
             <td>For artistic and graphic works use the Graphics tab, to specify the medium or detail after the title use the field type Extra: Medium "Lithograph"</td></tr>
-
     <tr>
             <td>artwork, graphics, maps, photographs</td>
             <td>Artwork in museum or on a museum website</td>
@@ -1409,7 +1300,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>artist, archive, date, title</td>
             <td>URL</td>
             <td>For artistic and graphic works use the Graphics tab, to specify the medium or detail after the title use the field type Extra: Medium "Painting"</td></tr>
-
     <tr>
             <td>artwork, graphics, maps, photographs</td>
             <td>Clip art or stock image</td>
@@ -1418,7 +1308,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td></td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>artwork, graphics, maps, photographs</td>
             <td>Infographic</td>
@@ -1427,7 +1316,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td></td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>artwork, graphics, maps, photographs</td>
             <td>Map</td>
@@ -1436,7 +1324,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, cartographer, publisher, date</td>
             <td>URL</td>
             <td>For maps use the Map tab, to specify the medium or detail after the title use the field type Extra: Medium "Map"</td></tr>
-
     <tr>
             <td>artwork, graphics, maps, photographs</td>
             <td>Map</td>
@@ -1445,7 +1332,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, cartographer, publisher, date</td>
             <td>URL</td>
             <td>For maps use the Map tab, to specify the medium or detail after the title use the field  type Extra: Medium "Map"</td></tr>
-
     <tr>
             <td>artwork, graphics, maps, photographs</td>
             <td>photographs</td>
@@ -1454,7 +1340,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>artist, archive, date, title</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Photograph"</td></tr>
-
     <tr>
             <td>artwork, graphics, maps, photographs</td>
             <td>photographs</td>
@@ -1463,7 +1348,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>artist, archive, date, title</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Photograph"</td></tr>
-
     <tr>
             <td>legal</td>
             <td></td>
@@ -1472,7 +1356,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td></td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>patents</td>
             <td>patents</td>
@@ -1481,7 +1364,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>inventor, patent number, title, date, assignee</td>
             <td>URL, archive</td>
             <td>Report the name of the issuing authority only in the "Assignee" field</td></tr>
-
     <tr>
             <td>patents</td>
             <td>patents</td>
@@ -1490,7 +1372,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>inventor, patent number, title, date, assignee</td>
             <td>URL, archive</td>
             <td>Report the name of the issuing authority only in the "Assignee" field</td></tr>
-
     <tr>
             <td>data sets + row data</td>
             <td>dataset</td>
@@ -1499,7 +1380,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Data set"</td></tr>
-
     <tr>
             <td>data sets + row data</td>
             <td>dataset</td>
@@ -1508,7 +1388,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Data set"</td></tr>
-
     <tr>
             <td>data sets + row data</td>
             <td>dataset</td>
@@ -1517,7 +1396,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, author, date</td>
             <td>URL</td>
             <td>use the field type Extra: Medium "Data set"</td></tr>
-
     <tr>
             <td>Unpublished raw data</td>
             <td></td>
@@ -1526,7 +1404,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td></td>
             <td></td>
             <td></td></tr>
-
     <tr>
             <td>software + app</td>
             <td>software</td>
@@ -1535,7 +1412,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>title, programmer, version, company, date</td>
             <td>URL</td>
             <td></td></tr>
-
     <tr>
             <td>software + app</td>
             <td>mobile app</td>
@@ -1545,7 +1421,6 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>URL</td>
             <td>To report the repository / archive where the software is distributed in the following formula in the Extra field:
 collection-title: "App Store"</td></tr>
-
 </table>
 <!-- END AUTOMATIC REFERENCES TABLE -->
 
