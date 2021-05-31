@@ -68,9 +68,10 @@ def buildDocs():
         readMeLines = [ll.rstrip() for ll in readMeFile.readlines()]
 
     newLines = []
-    copying = False
+    copying = True
     for eachReadMeLine in readMeLines:
         if '<!-- START AUTOMATIC REFERENCES TABLE -->' in eachReadMeLine:
+            newLines.append('<!-- START AUTOMATIC REFERENCES TABLE -->')
             copying = False
         elif '<!-- END AUTOMATIC REFERENCES TABLE -->' in eachReadMeLine:
             newLines.append(docsStr)
