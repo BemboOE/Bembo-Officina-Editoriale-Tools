@@ -49,7 +49,7 @@ Per la composizione del frontespizio l’autore non deve compilare nulla, perch�
 Nella composizione di testi del Sistema Bembo NON è prevista l’epigrafe. L’autore può eventualmente richiederne alla redazione l’inserimento manuale.
 
 ### 5.2.6 Attribuzioni
-Le attribuzionivanno scritte nel file `colophon.md, incluso nel template.
+Le attribuzionivanno scritte nel file `colophon.md`, incluso nel template.
 
 ### 5.2.7 Introduzione
 L’introduzione è sempre collocata in apertura del libro, e va obbligatoriamente indicata come capitolo 1 nei libri.
@@ -202,56 +202,48 @@ In particolare si raccomanda di:
 			<td colspan=2>bembo_licenza.docx</td>
 			<td colspan=5>Prerequisito fondamentale per la pubblicazione è la firma del documento di liberatoria e la sua consegna contestuale all’invio di tutti gli altri materiali.</td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> readme </td>
 			<td colspan=2> txt </td>
 			<td colspan=2> readme.txt </td>
 			<td colspan=5> Eventuali istruzioni particolari che l’autore/curatore vuole lasciare alla redazione. File NON obbligatorio, da produrre solo se necessario </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> * Titolo dell’articolo/volume </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> colohpon.md </td>
 			<td colspan=5> </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> * Autori e affiliazioni </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> colohpon.md </td>
 			<td colspan=5> </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> * Abstract </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> colohpon.md </td>
 			<td colspan=5> </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> * Parole chiave </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> colohpon.md </td>
 			<td colspan=5> </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> Attribuzioni [eventuali] </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> colohpon.md </td>
 			<td colspan=5> </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> * Introduzione </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> 01.md </td>
 			<td colspan=5> Nel caso la pubblicazione si un libro, l’introduzione al libro va obbligatoriamente scritta nel capitolo 1, nel file 01.md. Nel caso la pubblicazione si un articolo, il primo capitolo può avere l’intestazione preferita dall’autore, non vi sono vincoli. </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> * Corpo del testo principale
 suddiviso per capitoli. Ogni capitolo ha un proprio file MarkDown, rinominato in base al numero del capitolo </td>
@@ -264,14 +256,12 @@ suddiviso per capitoli. Ogni capitolo ha un proprio file MarkDown, rinominato in
 							  <em>n</em>.md</td>
 			<td colspan=5> I file MarkDown dei capitoli sono inclusivo di tutte le parti necessarie per la scrittura, quindi i paragrafi e eventuali sotto-paragrafi, note al testo didascalie immagini, didascalie tabelle ecc.</td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> Glossario [eventuale] </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> <em>n</em>+1.md </td>
 			<td colspan=5> Nel caso si voglia inserire un glossario, questo va messo in coda a tutti i capitoli che formano il corpo del libro/articolo, e numerato come se fosse un ulteriore capitolo. Quindi sia il nome del file MarkDown che l’intestazione del glossario sono numerati in base al numero dell’ultimo capitolo di testo più uno.</td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> Appendici / Postfazione [eventuali] </td>
 			<td colspan=2> MarkDown </td>
@@ -282,7 +272,6 @@ suddiviso per capitoli. Ogni capitolo ha un proprio file MarkDown, rinominato in
 							  <em>n</em>+<em>n</em>.md </td>
 			<td colspan=5> Nel caso si voglia inserire appendici o una postfazione, queste va messe in coda a tutti i capitoli che formano il corpo del libro/articolo e al glossario (se presente). Le appendici/postfazione vanno numerate come se fossero ulteriori capitoli. Quindi sia il nome del file MarkDown che l’intestazione delle appendici/postfazione sono numerati in base al numero dell’ultimo capitolo, come sequenza a seguire. </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> * Biografia autori </td>
 			<td colspan=2> MarkDown </td>
@@ -291,14 +280,12 @@ suddiviso per capitoli. Ogni capitolo ha un proprio file MarkDown, rinominato in
 								<br>
 								Nel caso di opera collettanea, le varie biografie degli autori sono già incluse nei template dei singoli capitoli. </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> Ringraziamenti [eventuali] </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> <em>n</em>+<em>n</em>+2.md </td>
 			<td colspan=5> Nel caso si vogliano inserire dei ringraziamenti, è possibile inserirli in coda a tutti gli altri capitoli come se fosse un ulteriore capitolo. Quindi sia il nome del file MarkDown che l’intestazione del glossario sono numerati in base al numero del capitolo con la biografia degli autori più uno. </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> * Bibliografia </td>
 			<td colspan=2> BibLaTeX </td>
@@ -307,7 +294,6 @@ suddiviso per capitoli. Ogni capitolo ha un proprio file MarkDown, rinominato in
 							  <br>
 							  Nel caso di opera collettanea o di atti di convegno, fornire liste separate per ogni capitolo/articolo </td>
 		</tr>
-		
 		<tr>
 			<td colspan=3> Immagini </td>
 			<td colspan=2> jpg <br>
@@ -341,6 +327,5 @@ suddiviso per capitoli. Ogni capitolo ha un proprio file MarkDown, rinominato in
 							  &nbsp&nbsp 🖼 Cognomeautore_img_02.jpg<br>
 							  &nbsp&nbsp ecc… </td>
 		</tr>
-		
 	</tbody>
 </table>
