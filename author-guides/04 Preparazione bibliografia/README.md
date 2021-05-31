@@ -1,5 +1,6 @@
 
-<!-- START AUTOMATIC REFERENCES TABLE --><table>
+<!-- START AUTOMATIC REFERENCES TABLE -->
+<table>
 <tr><th>APA category</th><th>APA prototype</th><th>Reference</th><th>Zotero item type</th><th>Required fields</th><th>Optional fields</th><th>Notes</th></tr>
 
     <tr><td colspan="7"><strong>APA Custom Edge Cases</strong></td></tr>
