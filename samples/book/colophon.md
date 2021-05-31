@@ -1,23 +1,18 @@
 # Titolo dell'elaborato: eventuale *testo corsivo* presente
 
 # Autori
-```json
 
-{
-	"name": "Nome e cognome primo autore",
-	"title": "posizione nell'organizzazione",
-	"mail": "email istituzionale",
-	"affiliation": "istituzione",
-	"reference_author": "yes"
-}
-{
-	"name": "Nome e cognome secondo autore",
-	"title": "posizione nell'organizzazione",
-	"mail": "email istituzionale",
-	"affiliation": "istituzione",
-	"reference_author": "no"
-}
-
+```
+Nome e cognome primo autore
+posizione nell'organizzazione
+email istituzionale
+istituzione
+```
+```
+Nome e cognome secondo autore
+posizione nell'organizzazione
+email istituzionale
+istituzione
 ```
 
 # Abstract

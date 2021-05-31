@@ -1,6 +1,0 @@
-dependencies:
-- hoedown (C library, through homebrew)
-- https://github.com/aclements/biblib
-- jinja2
-- more_itertools
-- gspread

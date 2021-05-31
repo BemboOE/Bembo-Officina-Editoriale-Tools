@@ -35,4 +35,11 @@ Di seguito si riporta il sommario delle linee guida e le indicazioni pratiche pe
 * Istruzioni per la consegna degli elaborati `(#link alla spiegazione per la consegna, + checklist: .md+.bib+immagini+liberatoria)`
 * Processo di feedback(#link alla pagina che dice che se arriva qualcosa di non conforme, viene rimandato per correzioni)
  
- 
+Technical Dependencies
+---------
+- [hoedown](https://github.com/hoedown/hoedown) (C library, through homebrew)
+- https://github.com/aclements/biblib
+- [jinja](https://jinja.palletsprojects.com/en/3.0.x/)
+- [more_itertools](https://pypi.org/project/more-itertools/)
+- [gspread](https://docs.gspread.org/en/latest/)
+- [pytest](https://docs.pytest.org/en/6.2.x/) for running the references test suite

@@ -136,19 +136,19 @@ def read(aPath):
     with open(aPath) as txtFile:
         return txtFile.read()
 
-def glueArticle(articleFolder):
+def chainMarkdownStrings(txtFolder):
     portions = []
 
     # colophon
-    portions.append(read(articleFolder / 'colophon.md'))
+    portions.append(read(txtFolder / 'colophon.md'))
 
     # chapters
-    markdownPaths = list((articleFolder / 'chapters').glob('*.md'))
+    markdownPaths = list((txtFolder / 'chapters').glob('*.md'))
     markdownPaths.sort()
     for markdownPath in markdownPaths:
         portions.append(read(markdownPath))
 
-    gluedPath = articleFolder / 'gluedArticle.md'
+    gluedPath = txtFolder / 'gluedMarkdown.md'
     with open(gluedPath, 'w', encoding='utf-8') as gluedFile:
         gluedFile.write('\n'.join(portions))
 
