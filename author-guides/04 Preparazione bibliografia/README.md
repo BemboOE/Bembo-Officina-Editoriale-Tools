@@ -855,8 +855,7 @@ Film, video, tv series</td>
             <td>thesis</td>
             <td>title, author, type, university, date</td>
             <td>URL, archive, extra</td>
-            <td>duplicate on Extra field the same information on Archive field, with the form:
-collection-title: "William & Mary Digital Archive"</td></tr>
+            <td>duplicate on Extra field the same information on Archive field, with the form:<br>collection-title: "William & Mary Digital Archive"</td></tr>
     <tr>
             <td>Personal Comunication</td>
             <td></td>
