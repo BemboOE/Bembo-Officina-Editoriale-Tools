@@ -489,7 +489,6 @@ Film, video, tv series</td>
             <td>title, director, producer, program title, episode number, network, date, extra</td>
             <td></td>
             <td>add on Director field: Sherman-Palladino, A. (Writer & Director)<br>add on Extra field: Medium "TV series episode"</td></tr>
-
     <tr><td colspan="7"><strong>APA 7th CASES 2020-2021</strong></td></tr>
     <tr>
             <td>Articles</td>
