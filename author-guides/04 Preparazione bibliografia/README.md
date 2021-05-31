@@ -847,9 +847,7 @@ Film, video, tv series</td>
             <td>thesis</td>
             <td>title, author, type, university, date</td>
             <td>archive, loc. in archive, extra</td>
-            <td>duplicate on Extra field the same information on Archive field and on Location in Archive field, with the form:
-collection-title: "ProQuest Dissertations and Theses Global"
-collection-number: "Publication No. 10289373"</td></tr>
+            <td>duplicate on Extra field the same information on Archive field and on Location in Archive field, with the form:<br>collection-title: "ProQuest Dissertations and Theses Global"<br>collection-number: "Publication No. 10289373"</td></tr>
     <tr>
             <td>Thesis</td>
             <td>dissertation or thesis published online (not in a database)</td>
@@ -923,8 +921,7 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>report</td>
             <td>title, author, date</td>
             <td>URL</td>
-            <td>For reports of organizations and institutions, use the Report tab.
-To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
+            <td>For reports of organizations and institutions, use the Report tab.<br> To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
     <tr>
             <td>Reports</td>
             <td>report by a government agency or other organization</td>
@@ -941,8 +938,7 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>report</td>
             <td>title, author, date, institution</td>
             <td>URL</td>
-            <td>For reports of organizations and institutions, use the Report tab.
-To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
+            <td>For reports of organizations and institutions, use the Report tab.<br>To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
     <tr>
             <td>Reports</td>
             <td>report by individual authors at a government agency, published as part of a series</td>
@@ -950,8 +946,7 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>report</td>
             <td>title, author, date, report number, institution</td>
             <td>URL</td>
-            <td>For reports of organizations and institutions, use the Report tab.
-To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
+            <td>For reports of organizations and institutions, use the Report tab.<br>To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
     <tr>
             <td>Reports</td>
             <td>report by a task force, working group, or other group</td>
@@ -1407,8 +1402,7 @@ To indicate the document number, use the Report Number field. If the document nu
             <td>pc program</td>
             <td>title, programmer, version, company, date</td>
             <td>URL</td>
-            <td>To report the repository / archive where the software is distributed in the following formula in the Extra field:
-collection-title: "App Store"</td></tr>
+            <td>To report the repository / archive where the software is distributed in the following formula in the Extra field:<br>collection-title: "App Store"</td></tr>
 </table>
 <!-- END AUTOMATIC REFERENCES TABLE -->
 
