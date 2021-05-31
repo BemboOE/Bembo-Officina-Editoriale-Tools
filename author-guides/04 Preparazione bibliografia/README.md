@@ -469,10 +469,7 @@ Film, video, tv series</td>
             <td>film</td>
             <td>title, producer, network, extra</td>
             <td></td>
-            <td>add on Producer field: Serling, R. (Executive Producer)
-add on Exttra field:
-Medium: "TV series"
-Issued: "1959/1964"</td></tr>
+            <td>add on Producer field: Serling, R. (Executive Producer)<br>add on Exttra field:<br>Medium: "TV series"<br>Issued: "1959/1964"</td></tr>
     <tr>
             <td>Film, video, tv series</td>
             <td>TV series episode or webisode</td>
@@ -480,9 +477,7 @@ Issued: "1959/1964"</td></tr>
             <td>tv broadcast</td>
             <td>title, director, producer, program title, episode number, network, date, extra</td>
             <td></td>
-            <td>add on Director field: Favreau, J. (Writer)
-add on Director field: Filoni, D. (Director)
-add on Extra field: Medium "TV series episode"</td></tr>
+            <td>add on Director field: Favreau, J. (Writer)<br>add on Director field: Filoni, D. (Director)<br>add on Extra field: Medium "TV series episode"</td></tr>
     <tr>
             <td>Film, video, tv series</td>
             <td>TV series episode or webisode</td>
@@ -490,8 +485,7 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>tv broadcast</td>
             <td>title, director, producer, program title, episode number, network, date, extra</td>
             <td></td>
-            <td>add on Director field: Sherman-Palladino, A. (Writer & Director)
-add on Extra field: Medium "TV series episode"</td></tr>
+            <td>add on Director field: Sherman-Palladino, A. (Writer & Director)<br>add on Extra field: Medium "TV series episode"</td></tr>
 
     <tr><td colspan="7"><strong>APA 7th CASES 2020-2021</strong></td></tr>
     <tr>
@@ -805,9 +799,7 @@ add on Extra field: Medium "TV series episode"</td></tr>
             <td>presentation</td>
             <td>tittle, presenter, type, place, extra</td>
             <td></td>
-            <td>add on Type field: Paper presentation
-add on Extra field the period with the form: issued: "2016-03-30/2016-04-02"
-add on Extra field Conference's name with the form: event: "Southeastern Psychological Association 62nd Annual Meeting"</td></tr>
+            <td>add on Type field: Paper presentation<br>add on Extra field the period with the form: issued: "2016-03-30/2016-04-02"<br>add on Extra field Conference's name with the form: event: "Southeastern Psychological Association 62nd Annual Meeting"</td></tr>
     <tr>
             <td>Conference Sessions & Presentations</td>
             <td>poster presentation</td>
@@ -815,9 +807,7 @@ add on Extra field Conference's name with the form: event: "Southeastern Psychol
             <td>presentation</td>
             <td>title, presenter, type, place, extra</td>
             <td>URL</td>
-            <td>add on Type field: Poster presentation
-add on Extra field the period with the form: issued: "2018-09-27/2018-09-30"
-add on Extra field Conference's name with the form: event: "Australian Psychological Society Congress"</td></tr>
+            <td>add on Type field: Poster presentation<br>add on Extra field the period with the form: issued: "2018-09-27/2018-09-30"<br>add on Extra field Conference's name with the form: event: "Australian Psychological Society Congress"</td></tr>
     <tr>
             <td>Symposium Contribution</td>
             <td></td>
