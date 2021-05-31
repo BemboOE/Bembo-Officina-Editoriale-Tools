@@ -919,7 +919,7 @@ Film, video, tv series</td>
             <td>report</td>
             <td>title, author, date</td>
             <td>URL</td>
-            <td>For reports of organizations and institutions, use the Report tab.<br> To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
+            <td>For reports of organizations and institutions, use the Report tab.<br>To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
     <tr>
             <td>Reports</td>
             <td>report by a government agency or other organization</td>
@@ -927,8 +927,7 @@ Film, video, tv series</td>
             <td>report</td>
             <td>title, author, date, report number, institution</td>
             <td>URL</td>
-            <td>For reports of organizations and institutions, use the Report tab.
-To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
+            <td>For reports of organizations and institutions, use the Report tab.<br>To indicate the document number, use the Report Number field. If the document number is preceded by the series / collection name, also enter this in the Report number field, before the document number.</td></tr>
     <tr>
             <td>Reports</td>
             <td>report by individual authors at a government agency or other organization</td>
