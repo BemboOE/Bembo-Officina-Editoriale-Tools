@@ -14,7 +14,7 @@ from renderBibliography import nth, parseTitle
 
 # --- Constants --- #
 TEMPLATES_FOLDER = Path('templates')
-DOCS_FOLDER = Path('docs')
+DOCS_FOLDER = Path('../author-guides/04 Preparazione bibliografia')
 TESTS_FOLDER = Path('tests')
 
 CLIENT = gspread.service_account(filename='.config/gspread/service_account.json')
@@ -31,8 +31,8 @@ def loadSingleRefTemplate():
 
 def loadDocsTemplate():
     env = Environment(loader=FileSystemLoader(TEMPLATES_FOLDER),
-                               autoescape=select_autoescape(['html']),
-                               extensions=['jinja2.ext.do'])
+                      autoescape=select_autoescape(['html']),
+                      extensions=['jinja2.ext.do'])
     env.filters['nth'] = nth
     env.filters['parseTitle'] = parseTitle
     template = env.get_template('docs.html.j2')
@@ -64,8 +64,23 @@ def buildDocs():
                 break
 
     docsStr = docsTemplate.render(table=table)
-    with open(DOCS_FOLDER / 'README.md', mode='w', encoding='utf-8') as htmlFile:
-        htmlFile.write(docsStr)
+    with open(DOCS_FOLDER / 'README.md', mode='r', encoding='utf-8') as readMeFile:
+        readMeLines = [ll.rstrip() for ll in readMeFile.readlines()]
+
+    newLines = []
+    copying = False
+    for eachReadMeLine in readMeLines:
+        if '<!-- START AUTOMATIC REFERENCES TABLE -->' in eachReadMeLine:
+            copying = False
+        elif '<!-- END AUTOMATIC REFERENCES TABLE -->' in eachReadMeLine:
+            newLines.append(docsStr)
+            copying = True
+
+        if copying:
+            newLines.append(eachReadMeLine)
+
+    with open(DOCS_FOLDER / 'README.md', mode='w', encoding='utf-8') as readMeFile:
+        readMeFile.write('\n'.join(newLines))
 
 
 # --- Instructions --- #

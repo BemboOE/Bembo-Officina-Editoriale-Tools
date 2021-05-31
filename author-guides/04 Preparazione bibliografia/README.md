@@ -1,156 +1,6 @@
-Linee guida, ad uso degli autori, per la preparazione dei record di Zotero.
-**Linee guida generali che valgono trasversalmente per tutte le reference.**
-La formattazione dei singoli esempi è descritta invece nel documento:
-[https://docs.google.com/spreadsheets/d/14131aqd24akBqu4rOYx0GUtITepBlzrXbTlEsxWYBMw/edit#gid=0](https://docs.google.com/spreadsheets/d/14131aqd24akBqu4rOYx0GUtITepBlzrXbTlEsxWYBMw/edit#gid=0)
 
-## **Date e intervalli di date**
-
-Le date vanno composte nel formato `YYYY-MM-DD`, ogni altro formato non è accettato. Chiaramente, se non si conoscono mese e giorno, o quei dati non sono appropriati per la reference da compilare, inserire solamente i dati a disposizione.
-
-| Date |`2016-12-29`|
-|--|--|
-
-oppure
-
-| Date |`2018`|
-|--|--|
-
-- Gli intervalli di data, che vanno sempre scritti nel campo Extra tramite il parametro “Issued”, vanno composte nel formato `Issued: "YYYY-MM-DD/YYYY-MM-DD"`. Quando presente il parametro “issued” sovrascrive il campo Date se presente.
-
-| Extra|`Issued: "YYYY-MM-DD/YYYY-MM-DD`|
-|--|--|
-
- - Qualora la pubblicazione non sia stata ancora rilasciata ma è in processo di revisione scientifica, lasciare il campo Date vuoto, il sistema Bembo aggiungerà la dicitura `“in press”` nel caso si tratti di un articolo o di un libro.
-Stesso vale per le altre reference che non hanno una data di pubblicazione: lasciando il campo Date vuoto, il sistema Bembo aggiungerà la dicitura `“n.d.”`.
-
-|Date||
-|--|--|
-
- - Qualora si dovesse indicare l’anno di pubblicazione dell’opera originale di un autore, indicare l’anno dell’opera originale nel campo Extra tramite il parametro `Original date: “YYYY”`.
-
-|Extra|`Original date: “YYYY”`|
-|--|--|
-
-## **Nomi di autori ed editori**
-- I nomi degli autori (o degli altri tipi di creatori) possono essere scritti per esteso oppure con il nome abbreviato. Per lo stile APA 7th edition, verranno sempre comunque abbreviati.
-
-|Author|`Freud`|`Sigmund`|
-|--|--|--|
-
-oppure
-
-|Author|`Freud`|`S.`|
-|--|--|--|
-
-- Zotero consente di scrivere i nomi di autori (e altri creatori) in due diverse modalità: una modalità a campo unico, e una a campo spezzato per nome e per cognome. Il cambio di modalità è possibile cliccando l’icona apposita di fianco al campo del nome.
-La modalità spezzata è quella che generalmente risponde a quasi tutti gli usi, e quando si tratta di persone. La modalità a campo unico viene utilizzata quando il creatore è una associazione, oppure è necessario specificare il ruolo del creatore (che chiaramente non fa parte né del nome e né del cognome).
-Nel caso sia necessario utilizzare
-
-e.g. 1
-
-|Author|`Freud`|`Sigmund`|
-|--|--|--|
-
-oppure
-
-|Author|`American Psychological Association`|
-|--|--|
-
-e.g. 2
-
-|Director|`Sherman-Palladino, A. (Writer & Director)`|
-|--|--|
-
-oppure
-
-
-|Producer|`Sherman-Palladino`|`A.`|
-|--|--|--|
-
-- I nomi di autori (o altri creatori di opere) che includono delle abbreviazioni (es. “Martin Luther King jr”) vanno composti indicando Cognome: cognome,  Nome: abbreviazione, nome.
-
-|Author|`King`|`jr, Martin Luther`|
-|--|--|--|
-
-- Qualora vi siano preposizioni al cognome (es. “Ludwig van Beethoven”) queste devono essere scritte a seguito del nome
-
-|Author|`Beethoven`|`Ludwig van`|
-|--|--|--|
-
--   Quando si compila una reference che possiede uno o più autori, ma che fa parte di una pubblicazione curata da uno o più editori, segnare tutti i nomi dei soggetti assegnando loro il ruolo corretto. Sia Zotero che il sistema Bembo li formatterà correttamente nelle posizioni adeguate.
-
-e. g. Balsam, K. F., Martell, C. R., Jones, K. P., & Safren, S. A. (2019). Affirmative cognitive behavior therapy with sexual and gender minority people. In G. Y. Iwamasa, & P. A. Hays (Eds.), *Culturally responsive cognitive behavior therapy: Practice and supervision* (2nd ed., pp. 287–314). American Psychological Association. https://doi.org/10.1037/0000119-012
-
-||||
-|--|--|--|
-|**Editor**|**`Iwamasa`**|**`Gayle Y.`**|
-|**Editor**|**`Hays`**|**`Pamela A.`**|
-|**Author**|**`Balsam`**|**`Kimberly F.`**|
-|**Author**|**`Martell`**|**`Christopher R.`**|
-|**Author**|**`Jones`**|**`Kyle P.`**|
-|**Author**|**`Safren`**|**`Steven A.`**|
-
-- Quando si compila una reference, tipicamente di un contenuto audiovisuale, che identifica come autori dell’opera lo sceneggiatore e/o il regista (da scrivere nel campo Director solo), ma che è parte di una serie, occorre indicare anche i produttori esecutivi della serie come campo Producer. Se si indicano solamente i produttori esecutivi, la reference li posiziona al posto dei Director. In questo tipo di reference, indicare quindi SOLO eventuali Director (sceneggiatore e/o regista) e Producer (produttori)
-
-e.g. Favreau, J. (Writer), & Filoni, D. (Director). (2019, November 12). Chapter 1 (Season 1, Episode 1) [TV series episode]. In J. Favreau, D. Filoni, K. Kennedy, & C. Wilson (Executive Producers), The Mandalorian. Lucasfilm; Golem Creations.
-
-||||
-|--|--|--|
-|**Director**|**`Favreau, J. (Writer)`**
-|**Director**|**`Filoni, D. (Director)`**|
-|**Producer**|**`Favreau`**|**`J.`**|
-|**Producer**|**`Filoni`**|**`D.`**|
-|**Producer**|**`Kennedy`**|**`K.`**|
-|**Producer**|**`Wilson`**|**`C.`**|
-
-**Titolazioni e annotazioni specifiche**
-
-- Alcuni tipi di reference richiedono all’autore di specificare alcune informazioni tra parentesi quadre ([ ]). Quando ciò avviene, il sistema Bembo scrive automaticamente queste parti di informazione con lo stile appropriato.
-
-|Title|`Heterodox issues in psychology [Special section]`|
-|--|--|
-
-oppure
-
-|Title|`Study Abroad Programs [Editorial]`|
-|--|--|
-
-- Alcuni tipi di reference impongono l’uso di uno stile non corsivo per parti di titolazioni o altri campi, le quali sono racchiuse tra parentesi quadre ([ ]). Tuttavia, può essere necessario dover scrivere parti di informazioni in corsivo, anche se esse sono racchiuse tra quadre. Per fare ciò, è necessario racchiudere tra asterischi tali parti di testo (* *). Gli esempi specifici vengono illustrati nella parte successiva del documento, ma in linea generale la formattazione per queste informazioni è la seguente:
-
-|Title|`Bringing LGBTQ youth theater into the spotlight [Review of the film *The year we thought about love*, by E. Brodsky, Dir.].`|
-|--|--|
-
-
-**Edizioni e note su edizioni**
-
-- I numeri di edizione vanno indicati con un semplice numero arabico, senza ordinali. Le edizioni con diciture particolari (e.g. “North American edition”, o “Global edition”) vanno indicate senza aggiungere la dicitura “edition”
-
-|Edition|`2`|
-|--|--|
-
-oppure
-
-|Edition|`Summer 2019`|
-|--|--|
-
-oppure
-
-|Edition|`North American`|
-|--|--|
-
-**Archivi e collocazioni in archivi**
-
-- Qualora la reference necessiti di indicare il nome dell’archivio (campo Archive) e la collocazione del documento nell’archivio (campo Loc. in Archive), occorre indicare anche nel campo Extra le medesime informazioni tramite i parametri “collection-title” e “collection-number”.
-
-|||
-|--|--|
-|**Archive**|**`ProQuest Dissertations and Theses Global`**|
-|**Loc. in Archive**|**`Publication No. 10289373`**|
-|**Extra**|**`collection-title: “ProQuest Dissertations and Theses Global” collection-number: “Publication No. 10289373”`**|
-
-<table>
+<!-- START AUTOMATIC REFERENCES TABLE --><table>
 <tr><th>APA category</th><th>APA prototype</th><th>Reference</th><th>Zotero item type</th><th>Required fields</th><th>Optional fields</th><th>Notes</th></tr>
-
 
     <tr><td colspan="7"><strong>APA Custom Edge Cases</strong></td></tr>
 
@@ -182,7 +32,8 @@ oppure
             <td> add on Extra field: Original Date: "2001"</td></tr>
 
     <tr>
-            <td>Book / Ebook / Audio Book</td>
+            <td>
+Book / Ebook / Audio Book</td>
             <td>authored books from the same author, published in the same year</td>
             <td>Bourdieu, P. (2003b). <em>Per una teoria della pratica. Con tre studi di etnologia cabila</em> (I. Maffi, Trans.). Raffaello Cortina Editore</td>
             <td>book</td>
@@ -191,7 +42,8 @@ oppure
             <td></td></tr>
 
     <tr>
-            <td>Film, video, tv series</td>
+            <td>
+Film, video, tv series</td>
             <td>Film or video</td>
             <td>Fleming, V. (Director). (1939). <em>Gone with the wind</em> [Film]. Selznick International Pictures; Metro-Goldwyn-Mayer</td>
             <td>film</td>
@@ -345,7 +197,7 @@ add on Extra field: Medium "TV series episode"</td></tr>
     <tr>
             <td>Reviews</td>
             <td>film review published in a journal</td>
-            <td>Mirabito, L. A., &amp; Heck, N. C. (2016). Bringing LGBTQ youth theater into the spotlight [Review of the film <em aid:cstyle='emphasis'>The year we thought about love</em>, by E. Brodsky, Dir.]. <em>Psychology of Sexual Orientation and Gender Diversity</em><em>, 3</em>(4), 499–500. https://doi.org/10.1037/sgd0000205</td>
+            <td>Mirabito, L. A., &amp; Heck, N. C. (2016). Bringing LGBTQ youth theater into the spotlight [Review of the film <em aid:cstyle='corsivo'>The year we thought about love</em>, by E. Brodsky, Dir.]. <em>Psychology of Sexual Orientation and Gender Diversity</em><em>, 3</em>(4), 499–500. https://doi.org/10.1037/sgd0000205</td>
             <td>journal article</td>
             <td>title, author, date</td>
             <td>publication, volume, issue, pages, DOI</td>
@@ -354,7 +206,7 @@ add on Extra field: Medium "TV series episode"</td></tr>
     <tr>
             <td>Reviews</td>
             <td>book review published in a newspaper</td>
-            <td>Santos, F. (2019, January 11). Reframing refugee children’s stories [Review of the book <em aid:cstyle='emphasis'>We are displaced: My journey and stories from refugee girls around the world</em>, by M. Yousafzai]. <em>The New York Times</em>. https://nyti.ms/2Hlgjk3</td>
+            <td>Santos, F. (2019, January 11). Reframing refugee children’s stories [Review of the book <em aid:cstyle='corsivo'>We are displaced: My journey and stories from refugee girls around the world</em>, by M. Yousafzai]. <em>The New York Times</em>. https://nyti.ms/2Hlgjk3</td>
             <td>newspaper article</td>
             <td>title, author, date</td>
             <td>publication, URL</td>
@@ -809,7 +661,7 @@ To indicate the document number, use the Report Number field. If the document nu
     <tr>
             <td>Blog</td>
             <td>comment on an online periodical article or post</td>
-            <td>KS in NJ. (2019, January 15). From this article, it sounds like men are figuring something out that women have known forever. I know of many [Comment on the article <em aid:cstyle='emphasis'>How workout buddies can help stave off loneliness</em>]. <em>The Washington Post</em>. https://wapo.st/2HDToGJ</td>
+            <td>KS in NJ. (2019, January 15). From this article, it sounds like men are figuring something out that women have known forever. I know of many [Comment on the article <em aid:cstyle='corsivo'>How workout buddies can help stave off loneliness</em>]. <em>The Washington Post</em>. https://wapo.st/2HDToGJ</td>
             <td>newspaper article</td>
             <td>title, author, date</td>
             <td>URL</td>
@@ -1016,7 +868,7 @@ To indicate the document number, use the Report Number field. If the document nu
     <tr>
             <td>Music</td>
             <td>Music album</td>
-            <td>Bach, J. S. (2010). <em aid:cstyle='emphasis'>The Brandenburg concertos: Concertos BWV 1043 &amp; 1060</em> [Album recorded by Academy of St Martin in the Fields]. Decca. (Original work published 1721)</td>
+            <td>Bach, J. S. (2010). <em aid:cstyle='corsivo'>The Brandenburg concertos: Concertos BWV 1043 &amp; 1060</em> [Album recorded by Academy of St Martin in the Fields]. Decca. (Original work published 1721)</td>
             <td>Audio recording</td>
             <td>composer, title, date, volume</td>
             <td>place, label, URL</td>
@@ -1043,7 +895,7 @@ To indicate the document number, use the Report Number field. If the document nu
     <tr>
             <td>Podcast</td>
             <td>Podcast</td>
-            <td>Vedantam, S. (Host). (2015). <em aid:cstyle='emphasis'>Hidden brain</em> [Audio podcast]. NPR. https://www.npr.org/series/423302056/hidden-brain</td>
+            <td>Vedantam, S. (Host). (2015). <em aid:cstyle='corsivo'>Hidden brain</em> [Audio podcast]. NPR. https://www.npr.org/series/423302056/hidden-brain</td>
             <td>Audio recording</td>
             <td>title, format, series title, date, archive</td>
             <td>URL</td>
@@ -1061,7 +913,7 @@ To indicate the document number, use the Report Number field. If the document nu
     <tr>
             <td>Radio, recording</td>
             <td>Radio interview recording in a digital archive</td>
-            <td>de Beauvoir, S. (1960, May 4). <em aid:cstyle='emphasis'>Simone de Beauvoir discusses the art of writing</em> [Interview]. Studs Terkel Radio Archive; The Chicago History Museum. https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing</td>
+            <td>de Beauvoir, S. (1960, May 4). <em aid:cstyle='corsivo'>Simone de Beauvoir discusses the art of writing</em> [Interview]. Studs Terkel Radio Archive; The Chicago History Museum. https://studsterkel.wfmt.com/programs/simone-de-beauvoir-discusses-art-writing</td>
             <td>Audio recording</td>
             <td>title, performer, date, archive</td>
             <td>URL</td>
@@ -1070,7 +922,7 @@ To indicate the document number, use the Report Number field. If the document nu
     <tr>
             <td>Radio, recording</td>
             <td>Speech audio recording</td>
-            <td>King, M. L. jr. (1963, August 28). <em aid:cstyle='emphasis'>I have a dream</em> [Speech audio recording]. American Rhetoric. https://www.americanrhetoric.com/speeches/mlkihaveadream.htm</td>
+            <td>King, M. L. jr. (1963, August 28). <em aid:cstyle='corsivo'>I have a dream</em> [Speech audio recording]. American Rhetoric. https://www.americanrhetoric.com/speeches/mlkihaveadream.htm</td>
             <td>Audio recording</td>
             <td>title, performer, date, archive</td>
             <td>URL</td>
@@ -1285,3 +1137,19 @@ To indicate the document number, use the Report Number field. If the document nu
 collection-title: "App Store"</td></tr>
 
 </table>
+<!-- END AUTOMATIC REFERENCES TABLE -->
+
+## 4.4 Esportazione file .bib per la consegna
+
+Una volta che gli autori hanno completato la compilazione della  collezione di reference per il proprio scritto, è sufficiente cliccare con il tasto destro sulla cartella della collezione nel pannello delle collezioni (barra di sinistra), e scegliere l’opzione “Esporta collezione” / “Export collection”.
+
+![Figura 2. Interfaccia di zotero con istruzione di click destro su collezione e pop-up menù](_img/fig.2_zotero_export_collection.png "Fig.2. Esportazione collezione Zotero")
+
+Quando compare la finestra per la selezione del formato di esportazione, scegliere il formato “BibLaTeX”.
+
+
+![Figura 3. Popup di zotero con scelta del formato di esportazione](_img/fig.3_zotero_export_biblatex.png "Fig.3. Scelta formato di esportazione in BibLaTeX")
+
+Verrà chiesto dove salvare il file formato .bib generato e questo poi verrà esportato. Tale file .bib deve essere consegnato alla redazione di Bembo OE congiuntamente alla cartella compressa .zip contente i file markdown con gli scritti dell’autore.
+
+I reference inviati verranno sempre inclusi negli elaborati con le informazioni bibliografiche formattate in lingua inglese, indipendentemente dalla lingua dello scritto.
