@@ -1400,7 +1400,9 @@ Film, video, tv series</td>
             <td>title, programmer, version, company, date</td>
             <td>URL</td>
             <td>To report the repository / archive where the software is distributed in the following formula in the Extra field:<br>collection-title: "App Store"</td></tr>
+           
 </table>
+
 <!-- END AUTOMATIC REFERENCES TABLE -->
 
 ## 4.4 Esportazione file .bib per la consegna
