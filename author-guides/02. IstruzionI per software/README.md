@@ -2,7 +2,7 @@
 
 La consegna dei testi e della bibliografia dovrà rispettare i formati richiesti da Bembo Officine Editoriale, come di seguito indicato:
 
-1. consegnare Iitesti in un file Markdown (.md), componibile attraverso software gratuiti e open source come [MacDown](https://macdown.uranusjr.com/) (per Mac OS) o [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (Windows e multipiattaforma). e utilizzando  il template Markdown `link` fornito dalla casa editrice.
+1. consegnare i testi in un file Markdown (.md), componibile attraverso software gratuiti e open source come [MacDown](https://macdown.uranusjr.com/) (per Mac OS) o [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (Windows e multipiattaforma). e utilizzando  il template Markdown `link` fornito dalla casa editrice.
 2. consegnare le bibliografie in un file BibLaTeX (.bib), componibile attraverso software open source di reference management come [Zotero](https://www.zotero.org/) (multipiattaforma).
 
 ## 2.1 Software di scrittura Markdown
