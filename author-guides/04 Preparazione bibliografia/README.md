@@ -410,7 +410,10 @@ Nel raro caso in cui possa capitare un tipo di reference da citare che non è in
 
 <!-- START AUTOMATIC REFERENCES TABLE -->
 <table>
-<tr><th>APA category</th><th>APA prototype</th><th>Reference</th><th>Zotero item type</th><th>Required fields</th><th>Optional fields</th><th>Notes</th></tr>
+	<thead>
+		<tr><th>APA category</th><th>APA prototype</th><th>Reference</th><th>Zotero item type</th><th>Required fields</th><th>Optional fields</th><th>Notes</th></tr>
+	</thead>
+<tbody>
     <tr><td colspan="7"><strong>APA Custom Edge Cases</strong></td></tr>
     <tr>
             <td>Articles</td>
@@ -1400,7 +1403,7 @@ Film, video, tv series</td>
             <td>title, programmer, version, company, date</td>
             <td>URL</td>
             <td>To report the repository / archive where the software is distributed in the following formula in the Extra field:<br>collection-title: "App Store"</td></tr>
-           
+</tbody>           
 </table>
 
 <!-- END AUTOMATIC REFERENCES TABLE -->
