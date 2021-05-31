@@ -115,7 +115,7 @@ oppure
 |Title|`Study Abroad Programs [Editorial]`|
 |--|--|
 
-- Alcuni tipi di reference impongono l’uso di uno stile non corsivo per parti di titolazioni o altri campi, le quali sono racchiuse tra parentesi quadre ([ ]). Tuttavia, può essere necessario dover scrivere parti di informazioni in corsivo, anche se esse sono racchiuse tra quadre. Per fare ciò, è necessario racchiudere tra asterischi tali parti di testo (* *). Gli esempi specifici vengono illustrati nella parte successiva del documento, ma in linea generale la formattazione per queste informazioni è la seguente:
+- Alcuni tipi di reference impongono l’uso di uno stile non corsivo per parti di titolazioni o altri campi, le quali sono racchiuse tra parentesi quadre ([ ]). Tuttavia, può essere necessario dover scrivere parti di informazioni in corsivo, anche se esse sono racchiuse tra quadre. Per fare ciò, è necessario racchiudere tra asterischi tali parti di testo (\* \*). Gli esempi specifici vengono illustrati nella parte successiva del documento, ma in linea generale la formattazione per queste informazioni è la seguente:
 
 |Title|`Bringing LGBTQ youth theater into the spotlight [Review of the film *The year we thought about love*, by E. Brodsky, Dir.].`|
 |--|--|
