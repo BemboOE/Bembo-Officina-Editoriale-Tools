@@ -5,7 +5,7 @@
 **Scuola di dottorato dell’Università Iuav di Venezia**
 
 Questo documento introduce gli autori ai criteri redazionali e allo stile di citazione Bembo OE.
-Per le istruzioni sull’utilizzo dei software richiesti e per la preparazione e consegna dei materiali si veda la sezione 2 della guida `<link>`
+Per le istruzioni sull’utilizzo dei software richiesti e per la preparazione e consegna dei materiali si veda la [sezione 2. Istruzioni per software di scrittura per Bembo Officina Editoriale](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/02%20IstruzionI%20per%20software#2-istruzioni-per-software-di-scrittura-per-bembo-officina-editoriale) 
 
 ## 3.1. Criteri di redazione
  
@@ -53,7 +53,6 @@ Le citazioni dirette / letterali sono date nel testo, “nel corpo del testo” 
     </thead>
     <tbody>
         <tr>
-
             <td colspan=12>Le citazioni di brani inferiori alle 40 parole possono essere inserite nel corpo del testo tra virgolette doppie (“…”). Il riferimento al numero di pagina deve essere sempre inserito tra parentesi alla fine della citazione e prima del segno di interpunzione.
 </td>
         </tr>
@@ -67,8 +66,6 @@ Le citazioni dirette / letterali sono date nel testo, “nel corpo del testo” 
    </tbody>
 </table>
 
-
-
 <table>
     <thead>
         <tr>
@@ -77,7 +74,6 @@ Le citazioni dirette / letterali sono date nel testo, “nel corpo del testo” 
     </thead>
     <tbody>
         <tr>
-
             <td colspan=12>Nel caso di citazioni dirette di lunghezza superiore alle 40 parole, il brano citato deve essere separato dal testo principale, senza virgolette. Deve essere quindi usato la tag “blockquote” di Markdown, aggiungendo un ”>” prima della citazione lunga.
 Il riferimento al numero di pagina deve comparire tra parentesi alla fine della citazione, dopo il segno di interpunzione. 
 </td>
@@ -270,7 +266,7 @@ Sono usate principalmente per:
 - titolo di episodio di serie televisiva o web, di episodio Podcast o di altra serie inserito nel testo discorsivo.
  
 ### 3.1.13 Didascalie figure e tabelle
-Per la stesura delle didascalie e la preparazione di figure e tabelle si veda la sezione 5 della guida, al link `<link>`
+Per la stesura delle didascalie e la preparazione di figure e tabelle si veda la sezione [5. Istruzioni per la consegna degli elaborati](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/05%20Istruzioni%20consegna%20elaborati%20#5-istruzioni-per-la-consegna-degli-elaborati)
  
  
 ## 3.2 Stile di citazione: APA, 7. ed.
@@ -282,7 +278,7 @@ Bembo OE adotta lo stile citazionale **APA, 7ma edizione**, sviluppato dall’Am
 
 Per facilitare la redazione e il corretto inserimento dei **riferimenti bibliografici** brevi, autore-data, nel testo, presentiamo di seguito alcuni principi e criteri di base riferiti alle casistiche più ricorrenti e comuni adattate da *The Publication Manual of the American Psychological Association*, Seventh Edition (2019) [[https://apastyle.apa.org/products/publication-manual-7th-edition](https://apastyle.apa.org/products/publication-manual-7th-edition)].
  
-**Attenzione**: Per testi che si basano sull’utilizzo consistente di materiali d’archivio e di comunicazioni personali, dato che questi richiedono attenzioni specifiche nella redazione dei riferimenti (alcuni dei quali non vanno inclusi nella lista finale …) è importante che gli autori / curatori si consultino con il team redazionale di Bembo OE `<link alla mail della redazione>`
+**Attenzione**: Per testi che si basano sull’utilizzo consistente di materiali d’archivio e di comunicazioni personali, dato che questi richiedono attenzioni specifiche nella redazione dei riferimenti è importante che gli autori / curatori si consultino con il team redazionale di Bembo OE. Scrivere una mail all'indirizzo [redazione@bemboedizioni.it](mailto:redazione@bemboedizioni.it)
  
 ### 3.3.1 Principi di base
 Alcune raccomandazioni generali per la citazione delle fonti:
@@ -539,7 +535,7 @@ In alcuni casi è necessario prestare particolare attenzione alla redazione dell
 
 
 ## 3.4. Zotero: Generare citazioni e lista dei riferimenti
-Utilizzando il software Zotero e compilando correttamente i riferimenti, gli autori possono sia visualizzare la forma corretta della citazione bibliografica breve autore-data, da inserire nel testo, sia estrarre la lista finale dei riferimenti completi secondo lo stile APA richiesto. A tal proposito, si veda la sezione 4 di questa guida, al `<link>`
+Utilizzando il software Zotero e compilando correttamente i riferimenti, gli autori possono sia visualizzare la forma corretta della citazione bibliografica breve autore-data, da inserire nel testo, sia estrarre la lista finale dei riferimenti completi secondo lo stile APA richiesto. A tal proposito, si veda la sezione [4. Linee guida per la preparazione della bibliografia](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/04%20Preparazione%20bibliografia#4-linee-guida-per-la-preparazione-della-bibliografia).
  
  
 ## 3.5. Immagini e tabelle: rinvii, titoli e didascalie 

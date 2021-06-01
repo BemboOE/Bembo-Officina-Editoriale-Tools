@@ -11,21 +11,20 @@ Il presente documento elenca le tipologie e le modalità di consegna per gli ela
 
 ### 5.1.1 Criteri redazionali [e stile di citazione]
 
-I criteri redazionali e lo stile di citazione adottati da Bembo OE sono definiti nella sezione 3 della guida al `<link>`
+I criteri redazionali e lo stile di citazione adottati da Bembo OE sono definiti nella [sezione 3. Norme redazionali e citazione](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/03%20Norme%20redazionali%20e%20citazione#3-norme-redazionali-e-citazione)
 
 ### 5.1.2 Software: Marcatura e citazioni
-Per la produzione tecnica degli scritti e dei file, si veda la sezione 2 della guida al `<link>`
+Per la produzione tecnica degli scritti e dei file, si veda la [sezione 2. Istruzioni per software di scrittura](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/02%20IstruzionI%20per%20software#2-istruzioni-per-software-di-scrittura-per-bembo-officina-editoriale)
 
 #### 5.1.2.1 Marcatura dei testi: Markdown
-Per la scrittura è necessario adottare la marcatura in codice Markdown, e dei software dedicati, si veda la sezione 2 della guida al `<link>`
+Per la scrittura è necessario adottare la marcatura in codice Markdown, e dei software dedicati, si veda la [sezione 2. Istruzioni per software di scrittura](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/02%20IstruzionI%20per%20software#2-istruzioni-per-software-di-scrittura-per-bembo-officina-editoriale)
 
 #### 5.1.2.2 Citazioni bibliografiche e lista dei riferimenti: Zotero
-Per la composizione dei reference, è necessario creare una collezione in un reference manager, si veda la sezione 2 della guida al `<link>`
-
+Per la composizione dei reference, è necessario creare una collezione in un reference manager, si veda la [sezione 2. Istruzioni per software di scrittura](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/02%20IstruzionI%20per%20software#2-istruzioni-per-software-di-scrittura-per-bembo-officina-editoriale)
 
 ## 5.2 Composizione e formattazione dei testi
 
-Ai fini della impaginazione automatizzata, i file di testo andranno unicamente preparati e forniti in formato Markdown (vedi la sezione dedicata `<link>`) quindi come file di testo opportunamente marcati, seguendo il template predisposto `<link>`
+Ai fini della impaginazione automatizzata, i file di testo andranno unicamente preparati e forniti in formato Markdown quindi come file di testo opportunamente marcati, seguendo il template predisposto alla [sezione 2. Istruzioni per software di scrittura](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/02%20IstruzionI%20per%20software#2-istruzioni-per-software-di-scrittura-per-bembo-officina-editoriale)
 
 ### 5.2.1 Abstract e parole chiave
 
@@ -72,14 +71,14 @@ Titolo e sottotitolo sono composti in tondo seguiti da iniziale maiuscola:
 `## 3.1.1. Titolo sotto-sotto-capitolo`
 
 #### 5.2.8.2 Citazioni dirette nel testo 
-Le citazioni dirette vanno composte in modi differenti a seconda della loro lunghezza (entro o oltre le 40 parole). Si veda in proposito le linee guida all'indirizzo `<link>`
+Le citazioni dirette vanno composte in modi differenti a seconda della loro lunghezza (entro o oltre le 40 parole). Si veda in proposito le linee guida alla [sezione 3.1.3 Citazioni dirette](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/03%20Norme%20redazionali%20e%20citazione#313-citazioni-dirette)
 
 
 #### 5.2.8.3 Note al testo 
 
-Le note devono essere ridotte al minimo, e vanno limitate a note di contenuto, per fornire informazioni aggiuntive al lettore su un certo tema, o note relative al diritto di riproduzione di materiali utilizzati o citati nel testo. Si ricorda che lo stile citazionale APA prevede che i rinvii bibliografici siano dati direttamente nel corpo del testo nella forma autore-data. Si veda in proposito le linee guida all'indirizzo `<link>` 
+Le note devono essere ridotte al minimo, e vanno limitate a note di contenuto, per fornire informazioni aggiuntive al lettore su un certo tema, o note relative al diritto di riproduzione di materiali utilizzati o citati nel testo. Si ricorda che lo stile citazionale APA prevede che i rinvii bibliografici siano dati direttamente nel corpo del testo nella forma autore-data. Si veda in proposito le linee guida alla sezione [3.3.2 Citazione autore-data](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/03%20Norme%20redazionali%20e%20citazione#332-citazione-autore-data)
 
-Le note sono indicate a esponente e numerate in progressione e vanno inserite a termine di ogni capitolo, si vedano le linee guida all'indirizzo `<link>` 
+Le note sono indicate a esponente e numerate in progressione e vanno inserite a termine di ogni capitolo, si vedano le linee guida alla [sezione 2.1.5.4. Note](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/02%20IstruzionI%20per%20software#2154-note)
 
 I rinvii a immagini o tabelle nel corpo del testo `[Fig. X; Tab. X]` seguono i segni di interpunzione, senza spazi bianchi, ma precedono i trattini (`–`) e, se fanno riferimento a testo contenuto tra parentesi, vanno inserite prima della chiusura della parentesi.
 
@@ -102,7 +101,7 @@ I rinvii a immagini o tabelle nel corpo del testo `[Fig. X; Tab. X]` seguono i s
 
 #### 5.2.8.4 Elenchi nel testo
 
-Gli elenchi nel testo vanno composti secondo le indicazioni Markdown, si veda le linee guida all'indirizzo `<link>`
+Gli elenchi nel testo vanno composti secondo le indicazioni Markdown, si veda le linee guida alla sezione [2.1.4. Composizione in Markdown](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/02%20IstruzionI%20per%20software#214-composizione-in-markdown-per-bembo-officina-editoriale)
 
 
 
@@ -120,9 +119,9 @@ I Ringraziamenti costituiscono un capitolo separato, da intitolare “Ringraziam
 
 #### 5.2.8.12 Bibliografia
 
-La lista dei riferimenti bibliografici deve essere preparata utilizzando Zotero e fornita in formato BibLaTex (.bib), si veda la sezione 2 della guida all'indirizzo `<link>`.
+La lista dei riferimenti bibliografici deve essere preparata utilizzando Zotero e fornita in formato BibLaTex (.bib), si veda la sezione [4.4 Esportazione file .bib per la consegna](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/04%20Preparazione%20bibliografia#44-esportazione-file-bib-per-la-consegna)
 
-La lista dei riferimenti bibliografici deve rispettare lo stile citazionale APA, come indicato nella sezione e della guida all'indirizzo `<link>`.
+La lista dei riferimenti bibliografici deve rispettare lo stile citazionale APA, come indicato nella [sezione 4](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/04%20Preparazione%20bibliografia#4-linee-guida-per-la-preparazione-della-bibliografia).
 
 Non vengono accettate bibliografie con dati incompleti o non coerenti con lo stile citazionale indicato.
 
@@ -164,7 +163,7 @@ Il riferimento alle tabelle andrà posizionato nel corpo del testo, fra parentes
 
 
 ## 5.4 Consegna dei materiali 
-Autori e curatori devono consegnare tutti i materiali previsti per la pubblicazione come file definitivi e completi, editati e controllati, preparati secondo le linee guida di Bembo OE, opportunamente denominati e ordinati in cartelle come da template fornito all'indirizzo `<link>`.
+Autori e curatori devono consegnare tutti i materiali previsti per la pubblicazione come file definitivi e completi, editati e controllati, preparati secondo le linee guida di Bembo OE, opportunamente denominati e ordinati in cartelle come da [template fornito](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/raw/master/author-guides/02%20IstruzionI%20per%20software/TEMPLATE_BEMBO_OE.zip).
  
 Tutti i materiali elencati qui a seguito, obbligatori e facoltativi, devono essere raccolti in una cartella compressa (.zip) da inviare alla redazione di Bembo OE. La struttura della cartella del template deve essere scrupolosamente mantenuta durante la preparazione dei materiali, fino alla compressione dei file in .zip.
 

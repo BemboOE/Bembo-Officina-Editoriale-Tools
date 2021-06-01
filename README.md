@@ -19,7 +19,7 @@ Le tipologie di pubblicazioni che la casa editrice accoglie sono tre:
 3. **materiali**, pubblicazione di **documenti originali** non ancora pubblicati o resi pubblici.
  
  
-Bembo OE adotta un **sistema innovativo di impaginazione quasi totalmente automatizzato**. Per sfruttare al meglio questo sistema di produzione, autori e curatori devono preparare i testi e i riferimenti bibliografici utilizzando **specifici software open source e gratuiti** `(#link a istruzione per il download e il settaggio dei software richiesti)` per la marcatura dei testi, per la gestione delle citazioni e la creazione della lista dei riferimenti bibliografici.
+Bembo OE adotta un **sistema innovativo di impaginazione quasi totalmente automatizzato**. Per sfruttare al meglio questo sistema di produzione, autori e curatori devono preparare i testi e i riferimenti bibliografici utilizzando **specifici software open source e gratuiti** (si veda la [sezione 2. Istruzioni per software di scrittura](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/02%20IstruzionI%20per%20software#2-istruzioni-per-software-di-scrittura-per-bembo-officina-editoriale) della presente guida) per la marcatura dei testi, per la gestione delle citazioni e la creazione della lista dei riferimenti bibliografici.
 Tale sistema collaborativo rende sostenibile il costo di produzione dei volumi e permette di evitare la richiesta di contributo economico agli autori.
 
 Questo sistema di redazione dei testi è corredato da complete **linee guida per gli autori** disponibili online a partire dal sito di Bembo Officina Editoriale. Proporre un'alternativa sostenibile sia per l’università sia per i dottorandi nella pubblicazione Open Access di ricerca scientifica, in un’ottica di collaborazione reciproca, è tra principali finalità di Bembo OE.
@@ -28,12 +28,12 @@ Autori e curatori devono inoltre fornire materiali iconografici definitivi liber
  
 Di seguito si riporta il sommario delle linee guida e le indicazioni pratiche per ottemperare a tutte le fasi del processo di pubblicazione.
 
-* Contratto / liberatoria per cessione diritti `(#link alla pagina con il PDF del contratto)` 
-* Istruzione per il download e il settaggio dei software richiesti per la composizione `(#link alle istruzione per uso Markdown, e Zotero)`
-* Norme redazionali per la scrittura dei testi `(#link alle norme redazionali e citazionali)`
-* Linee guida per la preparazione e l’invio della bibliografia finale `(#link alle istruzioni zotero, repo zotero pubblica, esportazione bib)`
-* Istruzioni per la consegna degli elaborati `(#link alla spiegazione per la consegna, + checklist: .md+.bib+immagini+liberatoria)`
-* Processo di feedback(#link alla pagina che dice che se arriva qualcosa di non conforme, viene rimandato per correzioni)
+1. 📄 [Sezione 1. Liberatoria per la pubblicazione](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/01%20Liberatoria) 
+2. 🖥 [Sezione 2. Istruzioni per software di scrittura](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/02%20IstruzionI%20per%20software#2-istruzioni-per-software-di-scrittura-per-bembo-officina-editoriale)
+3. 📝 [Sezione 3. Norme redazionali e citazione](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/03%20Norme%20redazionali%20e%20citazione)
+4. 📖 [Sezione 4. Linee guida per la preparazione della bibliografia](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/04%20Preparazione%20bibliografia)
+5. ✅ [Sezione 5. Istruzioni per la consegna degli elaborati](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/05%20Istruzioni%20consegna%20elaborati%20)
+6. 🔄 Sezione 6. Processo di feedback
  
 Technical Dependencies
 ---------
