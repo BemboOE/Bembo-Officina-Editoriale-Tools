@@ -6,15 +6,15 @@
     {{ '<th>' }}{{ eachKey }}{{ '</th>' }}
 {%- endfor -%}
 </tr>
-{% for eachRow in table %}
+{%- for eachRow in table %}
     <tr>
     {%- if eachRow['APA category'] in ['APA Custom Edge Cases', 'APA 7th CASES 2020-2021']-%}
         <td colspan="{{TABLE_KEYS|length}}"><strong>{{- eachRow['APA category'] -}}</strong></td>
     {%- else -%}
         {%- for eachKey in TABLE_KEYS %}
-            <td>{{- eachRow[eachKey] -}}</td>
+        <td>{{- eachRow[eachKey] -}}</td>
         {%- endfor %}
     {%- endif -%}
     </tr>
-{% endfor %}
+{%- endfor -%}
 </table>
