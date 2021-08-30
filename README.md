@@ -34,6 +34,22 @@ Di seguito si riporta il sommario delle linee guida e le indicazioni pratiche pe
 4. 📖 [Sezione 4. Linee guida per la preparazione della bibliografia](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/04%20Preparazione%20bibliografia)
 5. ✅ [Sezione 5. Istruzioni per la consegna degli elaborati](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/tree/master/author-guides/05%20Istruzioni%20consegna%20elaborati%20)
 6. 🔄 Sezione 6. Processo di feedback
+
+# Bembo Officina Editoriale – Processo di redazione:
+
+1. Autore con manoscritto in .doc o affini 
+2. La redazione invia all’autore il link alla sezione Istruzioni per gli autori (contenente le norme per la redazione del doc e della bibliografia, le istruzioni di preparazione materiale, ecc.) 
+3. L’autore invia il testo marcato + la bibliografia 
+4. La redazione informatica verifica il testo marcato e segnala eventuali correzioni
+5. L’autore invia il testo marcato corretto
+6. La redazione informatica verifica il recepimento delle correzioni
+7. La redazione informatica processa il testo e lo trasforma in impaginato e genera pdf
+8. La redazione verifica il pdf e segnala eventuali correzioni
+9. L’autore verifica il pdf e segnala o apporta al file marcato eventuali correzioni 
+10. La redazione informatica inserisce eventuali correzioni speciali (Indesign) 
+11. Visto si pubblichi da redazione informatica, redazione, autore, comitato scientifico
+12. Pubblicazione
+
  
 Technical Dependencies
 ---------
