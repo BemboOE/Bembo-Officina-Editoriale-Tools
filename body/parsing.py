@@ -92,7 +92,7 @@ class MarkdownParser(HTMLParser):
                         styleName = CLASSNAME_2_STYLENAME[attrValue]
                     # blockquote
                     elif len(self.openTags) > 1 and self.openTags[-2] == 'blockquote':
-                        styleName = 'Citazione'
+                        styleName = 'citazione'
                     # handling two kinds of p
                     elif self.prevTag == tag:
                         styleName += ', a seguire'
