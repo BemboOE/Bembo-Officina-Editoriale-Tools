@@ -39,10 +39,10 @@ Tali informazioni vanno scritte nel file `colophon.md`, incluso nel template.
 Per la composizione del sommario l’autore NON deve compilare nulla, perché il Sistema Bembo compila automaticamente insieme i titoli dei capitoli.
 
 ###  5.2.3 Frontespizio
-Per la composizione del frontespizio l’autore non deve compilare nulla in particolare, perché il Sistema Bembo lo genera automaticamente tramite le informazioni che l’autore indica nel file `colophon.md`, incluso nel template.
+Il Sistema Bembo lo genera automaticamente tramite le informazioni che l’autore indica nel file `colophon.md`, incluso nel template.
 
 ### 5.2.4 Colophon 
-Per la composizione del frontespizio l’autore non deve compilare nulla, perché il Sistema Bembo lo genera automaticamente tramite le informazioni che l’autore indica nel file `colophon.md`.
+Il Sistema Bembo lo genera automaticamente tramite le informazioni che l’autore indica nel file `colophon.md`, incluso nel template.
 
 ### 5.2.5 Epigrafe
 Nella composizione di testi del Sistema Bembo NON è prevista l’epigrafe. L’autore può eventualmente richiederne alla redazione l’inserimento manuale.
@@ -220,13 +220,13 @@ In particolare si raccomanda di:
 			<td colspan=5> </td>
 		</tr>
 		<tr>
-			<td colspan=3> * Abstract </td>
+			<td colspan=3> * Abstract [eventuale] </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> colohpon.md </td>
 			<td colspan=5> </td>
 		</tr>
 		<tr>
-			<td colspan=3> * Parole chiave </td>
+			<td colspan=3> * Parole chiave [eventuale] </td>
 			<td colspan=2> MarkDown </td>
 			<td colspan=2> colohpon.md </td>
 			<td colspan=5> </td>

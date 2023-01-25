@@ -13,7 +13,7 @@ Markdown è un markup language, ossia un sistema di taggatura dei testi che perm
 
 Per comporre i testi, gli autori devono procurarsi:
 
-1. Il software di composizione [MacDown](https://macdown.uranusjr.com/) (per Mac OS) o [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (Windows e multipiattaforma).
+1. Il software di composizione [MacDown](https://macdown.uranusjr.com/) (per Mac OS) o [Ghostwriter](https://wereturtle.github.io/ghostwriter/) (Windows e multipiattaforma). In alternativa, per problemi di compatibilità con MacDown o Ghostwriter, è disponibile l'editor online [stackedit](https://stackedit.io/)
 2. Il [template Markdown](https://github.com/roberto-arista/Bembo-Officina-Editoriale-Tools/raw/master/author-guides/02%20IstruzionI%20per%20software/TEMPLATE_BEMBO_OE.zip) fornito da Bembo OE
 
 ---
@@ -32,7 +32,7 @@ L’interfaccia del software è divisa in due sezioni (Fig.2):
 * **Sezione sinistra**: **word editor**, spazio nel quale gli autori scrivono i testi inserendo i codici markdown per taggare le varie parti del testo
 * **Sezione destra**: **anteprima**, spazio nel quale viene mostrato il risultato della taggatura fatta dall’utente nella sezione editor, a sinistra.
 
-![Figura 2. Interfaccia di Macdown divisa](_img/fig2_macdown interface.png "Fig.2. Interfaccia di Macdown divisa tra editor e anteprima")
+![Figura 2. Interfaccia di Macdown divisa](_img/fig2_macdown_interface.png "Fig.2. Interfaccia di Macdown divisa tra editor e anteprima")
 
 ---
 ### 2.1.3. Utilizzo del template fornito dalla casa editrice
@@ -74,9 +74,11 @@ Il file bibliography.bib presente nel template è un segnaposto.
 
 ---
 
-Neila **cartella chapters** vanno inseriti tutti i capitoli di cui è composto l'elaborato dell'autore, sia che esso sia un articolo o un libro. I capitoli sono file markdown separati.
+Nella **cartella chapters** vanno inseriti tutti i capitoli di cui è composto l'elaborato dell'autore, sia che esso sia un articolo, contributo ad una raccolta di saggi (collettanea) o un libro. I capitoli sono file markdown separati.
 
 Se l'elaborato è un libro, il primo capitolo "01.md" è necessariamente l'introduzione al libro.
+
+Se l'elaborato è contributo ad una raccolta di saggi (collettanea) la cartella chapters conterrà un solo file denominato "01.md".
 
 È possibile aggiungere ulteriori capitoli semplicemente creando un nuovo file .md rinominato come “*n*.md”, seguendo la numerazione progressiva, e utilizzando la stessa struttura già fornita dal template.
 
@@ -132,29 +134,50 @@ La guida completa a tutte le tag Markdown è disponibile all’indirizzo: [https
 
 La gran parte dei contributi degli autori dovrà uniformarsi allo standard Markdown di base, descritto nella sezione precedente, salvo alcune eccezioni proprie al template di Bembo OE che richiedono una marcatura speciale già fornita nel template e per le quali è necessario osservare le seguenti indicazioni:
 
-#### 2.1.5.1. Informazioni sugli autori
+#### 2.1.5.1. Colophon e frontespizio
 
-Le informazioni sugli autori vanno scritte nel file `colophon.md` fornito nel template, nella sezione `<!-- autori -->`. Le informazioni sono catalogate in una finestra contenente campi da compilare.
-Ogni autore troverà le proprie informazioni racchiuse tra strisce di tre "`"(accenti gravi). Per aggiungere un autore, sarà necessario copiare-incollare il pezzo di codice racchiuso tra accenti gravi. es.
+
+
+Le informazioni sugli autori vanno scritte nel file `colophon.md` fornito nel template, nella sezione `<!-- MODIFICARE CON INFORMAZIONI AUTORE --> `. Le informazioni sono catalogate in un tag `<p>` contenente campi da compilare.
+Ogni autore troverà le proprie informazioni organizzate su 4 linee. Per aggiungere un autore, sarà necessario copiare-incollare il pezzo di codice racchiuso tra accenti gravi. es.
 
 ---
+```
+<p class="autore">
+Nome e Cognome Primo autore
+posizione nell'organizzazione
+email istituzionale
+istituzione
+</p>
 
-<p>```<br>
-Nome e cognome primo autore<br>
-posizione nell'organizzazione<br>
-email istituzionale<br>
-istituzione<br>
-```<br>
-```<br>
-Nome e cognome secondo autore<br>
-posizione nell'organizzazione<br>
-email istituzionale<br>
-istituzione<br>
-```</p>
-
+<p class="autore">
+Nome e Cognome Secondo autore
+posizione nell'organizzazione
+email istituzionale
+istituzione
+</p>
+```
 ---
 
 Per eliminare un autore, basterà cancellare tutto il medesimo pezzo di codice racchiuso tra accenti gravi.
+
+La stessa operazione va eseguita in fondo al colophon per compilre le informazioni necessarie al frontespizio
+
+```
+<p class="titolo-frontespizio">
+TITOLO LIBRO IN CAPS LOCK
+</p>
+
+<p class="sottotitolo-frontespizio">
+Eventuale Sottotitolo.
+</p>
+
+<p class='sottotitolo-frontespizio'>
+Nome e cognome primo autore
+</p>
+
+```
+
 
 
 #### 2.1.5.2. Immagini
@@ -184,9 +207,36 @@ L’indicazione dell’apice della nota nel testo viene data con il codice:
 `[^1] `
 e a seguire  `[^2]`, `[^3]` … `[^n]`
 
-Il testo delle note va inserito al termine del capitolo, **sotto la sezione "# Note a termine"**, come segue: 
+Il testo delle note va inserito al termine del capitolo, **sotto la sezione "## Note"**, come segue: 
 
 `[^1]: testo della nota`
+
+
+#### 2.1.5.5. Elenco letterato
+A seconda delle esigenze del testo è possibile inserire, oltre a elenchi puntati e numerati, elenchi letterati. Anche questo caso, come per le immagini, **NON** segue la sintassi Markdown, ma la sintassi HTML. Per inserire un’immagine nel testo corrente l’autore dovrà **copiare e incollare il seguente blocco di codice nel file markdown aggiornando il testo “Qui il tuo testo” all'interno del tag `<li> ... </li>`**:
+
+```
+<!--ELENCO LETTERATO-->
+<ol class="elenco-lettere">
+<li class="elenco-lettere"> Qui il tuo testo </li>
+<li class="elenco-lettere"> Qui il tuo testo </li>
+<li class="elenco-lettere"> Qui il tuo testo </li>
+<li class="elenco-lettere"> Qui il tuo testo </li>
+</ol>
+```
+#### 2.1.5.5. Autore capitolo
+Nel caso un capitolo abbia una prefazione scritta da terzi, o nel caso di un contributo ad una raccolta di saggi, è possibile specificare l'autore dopo il titolo del capitolo don la seguete formattazione
+
+```
+# 01 Titolo Capitolo
+
+#### Nome autore capitolo
+##### Affiliazione autore capitolo
+
+Testo del capitolo...
+
+```
+
 
 
 ---
